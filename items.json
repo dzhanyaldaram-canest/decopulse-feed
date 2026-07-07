@@ -1170,16 +1170,6 @@
     "category": "plants"
   },
   {
-    "id": "leaf-clay-499424fb66",
-    "name": "Haworthia limifolia 'Fairy Washboard'",
-    "description": "The broad, sharply triangular leaves of fairy washboard feature a rich green base tone covered in slightly wavy, raised bands of lighter green coloration. This cultivar draws its name from the growth pattern of its leaves around the rosette – instead of stacking up the stems, the rigid leaves appear to swirl outward from the center of the plant, creating a uniquely mesmerizing appearance. Its…",
-    "price": 6.99,
-    "vendor": "Leaf & Clay",
-    "sourceURL": "https://leafandclay.co/products/haworthia-limifolia-spiral-haworthia",
-    "imageURL": "https://cdn.shopify.com/s/files/1/1124/9666/products/haworthia-limifolia.png?v=1514908986&width=900",
-    "category": "plants"
-  },
-  {
     "id": "leaf-clay-4a15652601",
     "name": "Echeveria elegans 'Mexican Snowball'",
     "description": "The bright bluish green leaves of Echeveria elegans ‘Mexican Snowball’ take on a white, powdery look thanks to a very thick coating of farina – thus earning the plant its name! The dense rosettes will form a thick carpet of foliage as the plant begins to produce offsets, making this variety a stunning groundcover in temperate rock gardens or a high contrast addition to potted arrangements. When…",
@@ -1237,6 +1227,16 @@
     "vendor": "Leaf & Clay",
     "sourceURL": "https://leafandclay.co/products/pilea-peperomioides-chinese-money-4-pot-nursery-pot",
     "imageURL": "https://cdn.shopify.com/s/files/1/1124/9666/files/55ec5d12-786e-5751-a974-0b49815c81eb_38be66c3-9716-4333-9a27-b0d761989032.jpg?v=1769199511&width=900",
+    "category": "plants"
+  },
+  {
+    "id": "leaf-clay-84a9aaa469",
+    "name": "Aeonium 'Kiwi'",
+    "description": "Aeonium 'Kiwi' is a tri-color succulent shrub featuring leaves with serrated pink margins surrounding a gradient of green tones, from bright lime to rich kelly green. The well-formed rosettes will rise above the soil on tall stems, which can be clipped off and repotted for a more compact look. Equally at home in an arrangement or as a standalone specimen, the incredible variegation of Aeonium…",
+    "price": 6.49,
+    "vendor": "Leaf & Clay",
+    "sourceURL": "https://leafandclay.co/products/aeonium-kiwi",
+    "imageURL": "https://cdn.shopify.com/s/files/1/1124/9666/products/aeonium-kiwi.jpg?v=1582819696&width=900",
     "category": "plants"
   },
   {
@@ -1397,16 +1397,6 @@
     "vendor": "Leaf & Clay",
     "sourceURL": "https://leafandclay.co/products/monstera-burle-marx-flame",
     "imageURL": "https://cdn.shopify.com/s/files/1/1124/9666/files/IMG_4005.jpg?v=1769199520&width=900",
-    "category": "plants"
-  },
-  {
-    "id": "leaf-clay-b6168c20d7",
-    "name": "Graptoveria 'Lovely Rose'",
-    "description": "Graptoveria 'Lovely Rose' is an exquisite succulent that captivates with its unique, rose-like appearance. This charming plant features tightly packed, thick, fleshy leaves that spiral outward, resembling the layered petals of a blossoming rose. The leaves are a soft green hue, with hints of pink or red along the edges, adding a subtle, romantic touch. This compact variety typically grows to a…",
-    "price": 6.99,
-    "vendor": "Leaf & Clay",
-    "sourceURL": "https://leafandclay.co/products/echeveria-lovely-rose",
-    "imageURL": "https://cdn.shopify.com/s/files/1/1124/9666/files/echeveria-lovely-rose-side.jpg?v=1702595754&width=900",
     "category": "plants"
   },
   {
@@ -1587,6 +1577,16 @@
     "vendor": "Leaf & Clay",
     "sourceURL": "https://leafandclay.co/products/crassula-springtime",
     "imageURL": "https://cdn.shopify.com/s/files/1/1124/9666/products/crassula-springtime.jpg?v=1497043433&width=900",
+    "category": "plants"
+  },
+  {
+    "id": "leaf-clay-eed4021644",
+    "name": "Echeveria 'Madiba'",
+    "description": "Echeveria 'Madiba' presents a striking rosette of candy pink and metallic hues, characterized by its narrow, acutely-shaped foliage. In its larger form, it develops a more intricate, curled texture. This specific echeveria variety reaches its peak chromatic brilliance when exposed to abundant sunlight. To maintain their distinctive hues and dense rosette structure, these echeveria varieties need…",
+    "price": 6.29,
+    "vendor": "Leaf & Clay",
+    "sourceURL": "https://leafandclay.co/products/echeveria-madiba-pink-lips",
+    "imageURL": "https://cdn.shopify.com/s/files/1/1124/9666/files/echeveria-madiba-pink-lips.jpg?v=1704513404&width=900",
     "category": "plants"
   },
   {
@@ -2010,6 +2010,16 @@
     "category": "posters"
   },
   {
+    "id": "poster-club-20aace94f7",
+    "name": "Walk the Walk",
+    "description": "Premium-quality colourful print by Lise Uhrskov created exclusively for The Poster Club, printed on 245g FSC™-certified archival-quality art paper. Walk the Walk is a visual harmony of blue, green, pink, and purple, where playful colour fields meet fluid forms to evoke a tranquil sense of movement. This refined artwork introduces a balanced, contemporary accent to living rooms, home offices, or…",
+    "price": 48.0,
+    "vendor": "The Poster Club",
+    "sourceURL": "https://theposterclub.com/products/lise-uhrskov-walk-the-walk",
+    "imageURL": "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Lise_Uhrskov_Walk_the_Walk_Frame_Oak_Low_Res.jpg?v=1779321981&width=900",
+    "category": "posters"
+  },
+  {
     "id": "poster-club-2238e05b49",
     "name": "Yellow Hair Portrait",
     "description": "Premium-quality geometric shapes print by Park Pardon created exclusively for The Poster Club, printed on 245g FSC™-certified archival-quality art paper. \"Yellow Hair Portrait\" blends soft brown and grey tones, conveying a sense of quiet contemplation through refined geometric forms. Its serene expression sits comfortably in living rooms, bedrooms, or serene workspaces, pairing effortlessly with…",
@@ -2017,6 +2027,26 @@
     "vendor": "The Poster Club",
     "sourceURL": "https://theposterclub.com/products/park-pardon-yellow-hair-portrait",
     "imageURL": "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Park_Pardon_Yellow_Hair_Portrait_Frame_Oak_Low_Res.jpg?v=1779314987&width=900",
+    "category": "posters"
+  },
+  {
+    "id": "poster-club-25cfb1322e",
+    "name": "Radical Romantic",
+    "description": "Premium-quality botanic art print by Suzanne Lustig created exclusively for The Poster Club, printed on 245g FSC™-certified archival-quality art paper. Radical Romantic is a vivid meeting of fluid blue, orange, red, and petrol hues, forming a striking figurative composition that draws the eye. Its harmonising contrasts create a tranquil statement in the living room or home office, making it…",
+    "price": 48.0,
+    "vendor": "The Poster Club",
+    "sourceURL": "https://theposterclub.com/products/suzanne-lustig-radical-romantic",
+    "imageURL": "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Suzanne_Lustig_Radical_Romantic_Frame_Oak_Low_Res.jpg?v=1779323398&width=900",
+    "category": "posters"
+  },
+  {
+    "id": "poster-club-33b1797b60",
+    "name": "Pink Surrender",
+    "description": "Premium-quality abstract print by Leise Dich Abrahamsen created exclusively for The Poster Club, printed on 245g FSC™-certified archival-quality art paper. \"Pink Surrender\" evokes the warmth of soft pink tones, inviting a tranquil elegance to any setting. The expressive abstract motif gently energizes living spaces, seamlessly pairing with minimal Scandinavian decor or vibrant contemporary…",
+    "price": 48.0,
+    "vendor": "The Poster Club",
+    "sourceURL": "https://theposterclub.com/products/leise-dich-abrahamsen-pink-surrender",
+    "imageURL": "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Leise_Dich_Abrahamsen_Pink_Surrender_Frame_Oak_Low_Res.jpg?v=1779320195&width=900",
     "category": "posters"
   },
   {
@@ -2030,6 +2060,26 @@
     "category": "posters"
   },
   {
+    "id": "poster-club-36be700190",
+    "name": "On the Jetty",
+    "description": "Premium-quality figurative art print by Aliya Abs exclusively for The Poster Club,printed on 245g FSC™-certified archival-quality art paper. Drawing inspiration from serene waterfront scenes, On the Jetty by Aliya Abs blends soft beige, green, yellow, and white hues with refined figurative elements, creating a quiet, thoughtful focal point for your living room or bedroom. The composition’s calm…",
+    "price": 90.0,
+    "vendor": "The Poster Club",
+    "sourceURL": "https://theposterclub.com/products/aliya-abs-on-the-jetty",
+    "imageURL": "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Aliya_Abs_On_The_Jetty_Frame_Oak_Low_Res.jpg?v=1779319035&width=900",
+    "category": "posters"
+  },
+  {
+    "id": "poster-club-39e893e19e",
+    "name": "Colourful Bunch in Blue Vase",
+    "description": "Premium-quality botanic art print by Frankie Penwill created exclusively for The Poster Club, printed on 245g FSC™-certified archival-quality art paper. Colourful Bunch in a Blue Vase, an artful display of bold blue, orange, and yellow tones shapes a lively bouquet in a blue vase, balancing whimsy with serenity. The figurative motif blends sculptural lines with a lush palette, creating a subtle…",
+    "price": 48.0,
+    "vendor": "The Poster Club",
+    "sourceURL": "https://theposterclub.com/products/frankie-penwill-colourful-bunch-in-blue-vase",
+    "imageURL": "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Frankie_Penwill_Colourful_Bunch_in_Blue_Vase_Frame_Blue_Passepartout_Low_Res.jpg?v=1779313771&width=900",
+    "category": "posters"
+  },
+  {
     "id": "poster-club-40359d5e7a",
     "name": "Stacking Heroes",
     "description": "Premium-quality botanic art print by Donchi created exclusively for The Poster Club, printed on 245g FSC™-certified archival-quality art paper. The Stacking Heroes motif in hues of orange, pink, and red creates a serene yet invigorating focal point, with delicate botanical shapes layered in balanced harmony. Its refined simplicity elevates living rooms, bedrooms, or study spaces, pairing…",
@@ -2040,6 +2090,16 @@
     "category": "posters"
   },
   {
+    "id": "poster-club-4ceb96f769",
+    "name": "Horse Bordo",
+    "description": "Premium-quality animal art print by Lucrecia Rey Caro created exclusively for The Poster Club, printed on 245g FSC™-certified archival-quality art paper. Horse Bordo depicts a tranquil equine silhouette in soft burgundy, lavender, and mint tones, creating a thoughtful focal point in quiet bedrooms, curated living rooms, or serene home offices. The motif’s harmonious colour interplay and gentle…",
+    "price": 48.0,
+    "vendor": "The Poster Club",
+    "sourceURL": "https://theposterclub.com/products/lucrecia-rey-caro-horse-bordo",
+    "imageURL": "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Lucrecia_Rey_Caro_Horse_Bordo_Frame_Oak_Low_Res.jpg?v=1779323608&width=900",
+    "category": "posters"
+  },
+  {
     "id": "poster-club-4fd59d7a68",
     "name": "Solitude",
     "description": "Premium-quality photo art print by Robin Skjoldborg created exclusively for The Poster Club, printed on 245g FSC™-certified archival-quality art paper. Solitude explores soft gradients of green and grey, reflecting a quiet harmony that invites introspection. The minimal motif creates a gentle focal point in living rooms or bedrooms, pairing beautifully with tactile fabrics and organic textures to…",
@@ -2047,6 +2107,46 @@
     "vendor": "The Poster Club",
     "sourceURL": "https://theposterclub.com/products/robin-skjoldborg-solitude",
     "imageURL": "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Robin_Skjoldborg_Solitude_Frame_Oak_Low_Res.jpg?v=1779328272&width=900",
+    "category": "posters"
+  },
+  {
+    "id": "poster-club-51193a4203",
+    "name": "Pink Flowers",
+    "description": "Premium-quality botanic art print by Carla Llanos created exclusively for The Poster Club, printed on 245g FSC™-certified archival-quality art paper. Gentle pink florals and painterly hues merge in Pink Flowers, evoking tranquil moments and tender ease. This refined composition features a medley of pink, sage green and blue, making it beautifully suited to restful bedrooms, inviting kitchens, or…",
+    "price": 48.0,
+    "vendor": "The Poster Club",
+    "sourceURL": "https://theposterclub.com/products/carla-llanos-pink-flowers",
+    "imageURL": "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Carla_Llanos_Pink_Flowers_Frame_Oak_Low_Res.jpg?v=1779327293&width=900",
+    "category": "posters"
+  },
+  {
+    "id": "poster-club-687b174dcc",
+    "name": "Balancing Act",
+    "description": "Premium-quality geometric shapes art print by Ellie Evelyn Orrell created exclusively for The Poster Club, printed on 245g FSC™-certified archival-quality art paper. Balancing Act presents an artful arrangement of orange, red, and yellow forms, radiating understated energy and composure. Its geometric motif brings a quiet vibrancy to living rooms, studies, or bedrooms, beautifully complementing…",
+    "price": 48.0,
+    "vendor": "The Poster Club",
+    "sourceURL": "https://theposterclub.com/products/ellie-evelyn-orrell-balancing-act",
+    "imageURL": "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Ellie_Evelyn_Orrell_Balancing_Act_Frame_Dark_Oak_Low_Res.jpg?v=1779327635&width=900",
+    "category": "posters"
+  },
+  {
+    "id": "poster-club-700502aa93",
+    "name": "Horse Geometri",
+    "description": "Premium-quality animal art print by Lucrecia Rey Caro created exclusively for The Poster Club, printed on 245g FSC™-certified archival-quality art paper. Horse Geometri brings together geometric shapes and thoughtful colour harmonies in blue, green, and soft red tones, creating a poised yet playful focus for modern spaces. The motif's crisp lines and soothing palette pair beautifully in bedrooms…",
+    "price": 48.0,
+    "vendor": "The Poster Club",
+    "sourceURL": "https://theposterclub.com/products/lucrecia-rey-caro-horse-geometri",
+    "imageURL": "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Lucrecia_Rey_Caro_Horse_Geometri_Frame_Oak_Low_Res.jpg?v=1779316547&width=900",
+    "category": "posters"
+  },
+  {
+    "id": "poster-club-7b96669ebe",
+    "name": "9PM",
+    "description": "Premium-quality geometric shapes art print by Nord Projects created exclusively for The Poster Club, printed on 245g FSC™-certified archival-quality art paper. Balancing soothing green and grey tones, 9PM exudes a tranquil, minimalist elegance characteristic of Scandinavian interiors. A composition of intersecting forms lends a sense of quiet movement—ideal for living rooms, bedrooms, or creative…",
+    "price": 48.0,
+    "vendor": "The Poster Club",
+    "sourceURL": "https://theposterclub.com/products/nord-projects-9pm",
+    "imageURL": "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Nord_Projects_9_PM_Frame_Oak_Low_Res.jpg?v=1779319104&width=900",
     "category": "posters"
   },
   {
@@ -2100,6 +2200,16 @@
     "category": "posters"
   },
   {
+    "id": "poster-club-9c66c1ad75",
+    "name": "Energize",
+    "description": "Premium-quality botanic print by Suzanne Lustig created exclusively for The Poster Club, printed on 245g FSC™-certified archival-quality art paper. This serene composition evokes gentle movement and mindful connection to nature, blending soft lines and organic forms in a curated palette. Perfect for brightening living spaces, bedroom corners, or above a sideboard, the artwork invites a sense of…",
+    "price": 48.0,
+    "vendor": "The Poster Club",
+    "sourceURL": "https://theposterclub.com/products/suzanne-lustig-energize",
+    "imageURL": "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Suzanne_Lustig_Energize_Frame_Oak_Low_Res.jpg?v=1779321910&width=900",
+    "category": "posters"
+  },
+  {
     "id": "poster-club-a2ada32472",
     "name": "Airplane Stump",
     "description": "Premium-quality abstract print by Toetiee created exclusively for The Poster Club, printed on 245g FSC™-certified archival-quality art paper. Calm saturations of blue, green, pink, and white evolve in \"Airplane Stump,\" shaping a composition that evokes subtle motion and organic rhythm. This art print brings quiet sophistication to living spaces or bedrooms, balancing vividly abstract forms with…",
@@ -2130,6 +2240,36 @@
     "category": "posters"
   },
   {
+    "id": "poster-club-b58d501725",
+    "name": "Golden",
+    "description": "Premium-quality photo art print by Nicole Mason created exclusively for The Poster Club, printed on 245g FSC™-certified archival-quality art paper. A serene composition rendered in golden tones of yellow, beige, and brown evokes tranquil Scandinavian landscapes, where shifting light and gentle movement breathe calm into any room. This refined motif invites harmony when styled in bedrooms, living…",
+    "price": 48.0,
+    "vendor": "The Poster Club",
+    "sourceURL": "https://theposterclub.com/products/nicole-mason-golden",
+    "imageURL": "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Nicole_Mason_Golden_Frame_Oak_Low_Res.jpg?v=1779322084&width=900",
+    "category": "posters"
+  },
+  {
+    "id": "poster-club-bead04199f",
+    "name": "Bagni Margherita",
+    "description": "Premium-quality photo art print by Julian Zerressen created exclusively for The Poster Club, printed on 245g FSC™-certified archival-quality art paper. Bagni Margherita is a harmonious composition in brown, green, and red, evoking tranquil summer memories by the water’s edge. The poetic blend of color and organic shapes offers an understated yet striking focal point for living rooms, bedrooms, or…",
+    "price": 48.0,
+    "vendor": "The Poster Club",
+    "sourceURL": "https://theposterclub.com/products/julian-zerressen-bagni-margherita",
+    "imageURL": "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Julian_Zerressen_Bagni_Margherita_Frame_Oak_Low_Res.jpg?v=1779327609&width=900",
+    "category": "posters"
+  },
+  {
+    "id": "poster-club-c17cba6708",
+    "name": "February Landscape",
+    "description": "Premium-quality abstract art print by Ellie Evelyn Orrell created exclusively for The Poster Club, printed on 245g FSC™-certified archival-quality art paper. Inspired by February's gentle transitions, this beige, blue, and brown motif captures subtle light across open landscapes—imbuing your space with quiet elegance. Style it as a serene focal point in a reading nook, layered among tactile…",
+    "price": 48.0,
+    "vendor": "The Poster Club",
+    "sourceURL": "https://theposterclub.com/products/ellie-evelyn-orrell-february-landscape",
+    "imageURL": "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Ellie_Evelyn_Orrell_February_Landscape_Frame_Oak_Low_Res.jpg?v=1779325210&width=900",
+    "category": "posters"
+  },
+  {
     "id": "poster-club-c29ddb573a",
     "name": "Playground in Osaka 01",
     "description": "Premium-quality photo art print by Jennilee Marigomen created exclusively for The Poster Club, printed on 245g FSC™-certified archival-quality art paper. Inspired by tranquil city moments, Playground in Osaka 01 in blue and red captures a serene interplay of colour and shadow. This compelling motif enhances any living space—be it a minimalist living room, airy hallway, or creative studio—inviting…",
@@ -2150,6 +2290,16 @@
     "category": "posters"
   },
   {
+    "id": "poster-club-c69c99ee9b",
+    "name": "Dorset",
+    "description": "Premium-quality photo art print by Lee Burnett created exclusively for The Poster Club, printed on 245g FSC™-certified archival-quality art paper. Dorset captures a tranquil dialogue between blue, green, and white, evoking the peaceful essence of open landscapes. Its minimalistic yet expressive composition lends itself beautifully to serene living rooms, thoughtful home offices, or restful…",
+    "price": 48.0,
+    "vendor": "The Poster Club",
+    "sourceURL": "https://theposterclub.com/products/lee-burnett-dorset",
+    "imageURL": "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Lee_Burnett_Dorset_Frame_Oak_Low_Res.jpg?v=1779322008&width=900",
+    "category": "posters"
+  },
+  {
     "id": "poster-club-ced4dc65a7",
     "name": "Ephemeral",
     "description": "Premium-quality abstract print by Katie Leimbach created exclusively for The Poster Club, printed on 245g FSC™-certified archival-quality art paper. Soft brown and gentle light blue hues flow through ephemeral shapes in a visually calming composition. Ephemeral is balanced for tranquil bedrooms or thoughtful living rooms, this print’s serene interplay of color and form inspires understated…",
@@ -2157,6 +2307,26 @@
     "vendor": "The Poster Club",
     "sourceURL": "https://theposterclub.com/products/katie-leimbach-ephemeral",
     "imageURL": "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Katie-Leimbach_Ephemeral_Frame_Pink_Passepartout_Low_Res.jpg?v=1779318036&width=900",
+    "category": "posters"
+  },
+  {
+    "id": "poster-club-d125de277e",
+    "name": "Pluck a Flower",
+    "description": "Premium-quality abstract art print by Katie Leimbach created exclusively for The Poster Club, printed on 245g FSC™-certified archival-quality art paper. A balanced interplay of green, light blue, orange, red, and rose hues define Pluck a Flower inviting thoughtful calm into any curated space. The soft, abstract shapes create a gentle visual rhythm, making it a versatile statement above a living…",
+    "price": 48.0,
+    "vendor": "The Poster Club",
+    "sourceURL": "https://theposterclub.com/products/katie-leimbach-pluck-a-flower",
+    "imageURL": "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Katie-Leimbach_Pluck_a_Flower_Frame_Oak_Low_Res.jpg?v=1779312334&width=900",
+    "category": "posters"
+  },
+  {
+    "id": "poster-club-d4273995a6",
+    "name": "Improvise",
+    "description": "Premium-quality abstract art print by Berit Mogensen Lopez created exclusively for The Poster Club, printed on 245g FSC™-certified archival-quality art paper. Soft beige, blue, green, orange, and pink hues intertwine with gentle abstraction, evoking a tranquil sense of balance. This refined composition brings quiet sophistication when styled above a bedroom headboard or as a serene accent in a…",
+    "price": 48.0,
+    "vendor": "The Poster Club",
+    "sourceURL": "https://theposterclub.com/products/berit-mogensen-lopez-improvise",
+    "imageURL": "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Berit_Mogensen_Lopez_Improvise_Frame_Oak_Low_Res.jpg?v=1779319496&width=900",
     "category": "posters"
   },
   {
@@ -2187,6 +2357,16 @@
     "vendor": "The Poster Club",
     "sourceURL": "https://theposterclub.com/products/anne-nowak-pink-interstellar",
     "imageURL": "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Anne_Nowak_Pink_Interstellar_Frame_Oak_Low_Res.jpg?v=1779328932&width=900",
+    "category": "posters"
+  },
+  {
+    "id": "poster-club-e472ba4bac",
+    "name": "Bright Bird",
+    "description": "Premium-quality animal art print by Clara Schicketanz created exclusively for The Poster Club, printed on 245g FSC™-certified archival-quality art paper. Bright Bird is a serene composition in beige and blue, harmoniously blending soft shapes and delicate textures. Its gentle animal motif offers a tranquil accent, perfect for calming bedrooms or thoughtfully styled living spaces alongside muted…",
+    "price": 48.0,
+    "vendor": "The Poster Club",
+    "sourceURL": "https://theposterclub.com/products/clara-schicketanz-bright-bird",
+    "imageURL": "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Clara_Schicketanz_Bright_Bird_Frame_Oak_Low_Res.jpg?v=1779310769&width=900",
     "category": "posters"
   },
   {
@@ -3107,6 +3287,16 @@
     "vendor": "Jonathan Adler",
     "sourceURL": "https://jonathanadler.com/products/menagerie-shark-sculpture",
     "imageURL": "https://cdn.shopify.com/s/files/1/0270/1082/6274/files/menagerie_shark.jpg?v=1757478347&width=900",
+    "category": "sculptures"
+  },
+  {
+    "id": "jonathan-adler-54d9163cac",
+    "name": "Menagerie Elephant",
+    "description": "Animal Kingdom. Our quietly welcoming stoneware vessels and sculptures merge elemental forms with subtle layers of pattern and decoration. Details are elevated by a soft satin matte finish. One adds a touch of couture craft to your console, or group the collection to give your shelf or mantel some modern menagerie magic.",
+    "price": 185.0,
+    "vendor": "Jonathan Adler",
+    "sourceURL": "https://jonathanadler.com/products/menagerie-elephant",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0270/1082/6274/files/menagerie_el_w.jpg?v=1747288934&width=900",
     "category": "sculptures"
   },
   {

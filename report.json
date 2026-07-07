@@ -1,20 +1,20 @@
 {
-  "total_items": 398,
+  "total_items": 417,
   "per_category": {
     "paintings": 107,
     "plants": 91,
-    "posters": 102,
-    "sculptures": 40,
+    "posters": 120,
+    "sculptures": 41,
     "wall_decorations": 58
   },
   "per_vendor": {
     "Abstract House": 107,
     "Leaf & Clay": 54,
     "The Sill": 37,
-    "The Poster Club": 64,
+    "The Poster Club": 82,
     "Project Nord": 40,
     "PSTR Studio": 40,
-    "Jonathan Adler": 40,
+    "Jonathan Adler": 41,
     "Umbra": 16
   },
   "thin_categories": [],
@@ -141,17 +141,17 @@
     },
     {
       "source": "jonathan-adler",
+      "title": "Brass Clam Shell Tray",
+      "reason": "excluded by keyword 'tray'"
+    },
+    {
+      "source": "jonathan-adler",
       "title": "Brass Snail Box",
       "reason": "excluded by keyword 'box'"
     },
     {
       "source": "jonathan-adler",
       "title": "Brass Fish Tray",
-      "reason": "excluded by keyword 'tray'"
-    },
-    {
-      "source": "jonathan-adler",
-      "title": "Brass Clam Shell Tray",
       "reason": "excluded by keyword 'tray'"
     },
     {
@@ -456,11 +456,6 @@
     },
     {
       "source": "leaf-clay",
-      "title": "Calathea 'Beauty Star' - 6\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
       "title": "Calathea 'Dottie' - 4\" Pot - NURSERY POT ONLY",
       "reason": "excluded by keyword 'pot only'"
     },
@@ -491,6 +486,11 @@
     },
     {
       "source": "leaf-clay",
+      "title": "Monstera Adansonii 'Swiss Cheese' - 6\" Pot - NURSERY POT ONLY",
+      "reason": "excluded by keyword 'pot only'"
+    },
+    {
+      "source": "leaf-clay",
       "title": "Best Value Succulents Bulk Pack (25-100 Plants, 2\" Pots)",
       "reason": "excluded by keyword 'pack'"
     },
@@ -516,13 +516,13 @@
     },
     {
       "source": "leaf-clay",
-      "title": "Peperomia prostrata 'String of Turtles'",
-      "reason": "description too short (0 chars)"
+      "title": "Easy Indoor Succulents Pack (6-20 Varieties, 2\" Pots)",
+      "reason": "excluded by keyword 'pack'"
     },
     {
       "source": "leaf-clay",
-      "title": "Easy Indoor Succulents Pack (6-20 Varieties, 2\" Pots)",
-      "reason": "excluded by keyword 'pack'"
+      "title": "Peperomia prostrata 'String of Turtles'",
+      "reason": "description too short (0 chars)"
     },
     {
       "source": "leaf-clay",
@@ -535,132 +535,5 @@
       "reason": "excluded by keyword 'pack'"
     }
   ],
-  "validation_failures": [
-    {
-      "id": "poster-club-b58d501725",
-      "sourceURL": "https://theposterclub.com/products/nicole-mason-golden",
-      "reasons": [
-        "sourceURL unreachable: HTTP 429"
-      ]
-    },
-    {
-      "id": "poster-club-51193a4203",
-      "sourceURL": "https://theposterclub.com/products/carla-llanos-pink-flowers",
-      "reasons": [
-        "sourceURL unreachable: HTTP 429"
-      ]
-    },
-    {
-      "id": "poster-club-700502aa93",
-      "sourceURL": "https://theposterclub.com/products/lucrecia-rey-caro-horse-geometri",
-      "reasons": [
-        "sourceURL unreachable: HTTP 429"
-      ]
-    },
-    {
-      "id": "poster-club-4ceb96f769",
-      "sourceURL": "https://theposterclub.com/products/lucrecia-rey-caro-horse-bordo",
-      "reasons": [
-        "sourceURL unreachable: HTTP 429"
-      ]
-    },
-    {
-      "id": "poster-club-25cfb1322e",
-      "sourceURL": "https://theposterclub.com/products/suzanne-lustig-radical-romantic",
-      "reasons": [
-        "sourceURL unreachable: HTTP 429"
-      ]
-    },
-    {
-      "id": "poster-club-9c66c1ad75",
-      "sourceURL": "https://theposterclub.com/products/suzanne-lustig-energize",
-      "reasons": [
-        "sourceURL unreachable: HTTP 429"
-      ]
-    },
-    {
-      "id": "poster-club-20aace94f7",
-      "sourceURL": "https://theposterclub.com/products/lise-uhrskov-walk-the-walk",
-      "reasons": [
-        "sourceURL unreachable: HTTP 429"
-      ]
-    },
-    {
-      "id": "poster-club-c17cba6708",
-      "sourceURL": "https://theposterclub.com/products/ellie-evelyn-orrell-february-landscape",
-      "reasons": [
-        "sourceURL unreachable: HTTP 429"
-      ]
-    },
-    {
-      "id": "poster-club-36be700190",
-      "sourceURL": "https://theposterclub.com/products/aliya-abs-on-the-jetty",
-      "reasons": [
-        "sourceURL unreachable: HTTP 429"
-      ]
-    },
-    {
-      "id": "poster-club-7b96669ebe",
-      "sourceURL": "https://theposterclub.com/products/nord-projects-9pm",
-      "reasons": [
-        "sourceURL unreachable: HTTP 429"
-      ]
-    },
-    {
-      "id": "poster-club-c69c99ee9b",
-      "sourceURL": "https://theposterclub.com/products/lee-burnett-dorset",
-      "reasons": [
-        "sourceURL unreachable: HTTP 429"
-      ]
-    },
-    {
-      "id": "poster-club-33b1797b60",
-      "sourceURL": "https://theposterclub.com/products/leise-dich-abrahamsen-pink-surrender",
-      "reasons": [
-        "sourceURL unreachable: HTTP 429"
-      ]
-    },
-    {
-      "id": "poster-club-e472ba4bac",
-      "sourceURL": "https://theposterclub.com/products/clara-schicketanz-bright-bird",
-      "reasons": [
-        "sourceURL unreachable: HTTP 429"
-      ]
-    },
-    {
-      "id": "poster-club-39e893e19e",
-      "sourceURL": "https://theposterclub.com/products/frankie-penwill-colourful-bunch-in-blue-vase",
-      "reasons": [
-        "sourceURL unreachable: HTTP 429"
-      ]
-    },
-    {
-      "id": "poster-club-687b174dcc",
-      "sourceURL": "https://theposterclub.com/products/ellie-evelyn-orrell-balancing-act",
-      "reasons": [
-        "sourceURL unreachable: HTTP 429"
-      ]
-    },
-    {
-      "id": "poster-club-bead04199f",
-      "sourceURL": "https://theposterclub.com/products/julian-zerressen-bagni-margherita",
-      "reasons": [
-        "sourceURL unreachable: HTTP 429"
-      ]
-    },
-    {
-      "id": "poster-club-d125de277e",
-      "sourceURL": "https://theposterclub.com/products/katie-leimbach-pluck-a-flower",
-      "reasons": [
-        "sourceURL unreachable: HTTP 429"
-      ]
-    },
-    {
-      "id": "poster-club-d4273995a6",
-      "sourceURL": "https://theposterclub.com/products/berit-mogensen-lopez-improvise",
-      "reasons": [
-        "sourceURL unreachable: HTTP 429"
-      ]
-    }
-  ]
+  "validation_failures": []
 }
