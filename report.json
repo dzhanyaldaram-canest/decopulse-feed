@@ -1,15 +1,15 @@
 {
-  "total_items": 417,
+  "total_items": 421,
   "per_category": {
-    "paintings": 107,
-    "plants": 91,
+    "paintings": 110,
+    "plants": 92,
     "posters": 120,
     "sculptures": 41,
     "wall_decorations": 58
   },
   "per_vendor": {
-    "Abstract House": 107,
-    "Leaf & Clay": 54,
+    "Abstract House": 110,
+    "Leaf & Clay": 55,
     "The Sill": 37,
     "The Poster Club": 82,
     "Project Nord": 40,
@@ -86,6 +86,11 @@
     },
     {
       "source": "jonathan-adler",
+      "title": "Jacques Round Tray",
+      "reason": "excluded by keyword 'tray'"
+    },
+    {
+      "source": "jonathan-adler",
       "title": "Brass Hand Bowl",
       "reason": "excluded by keyword 'bowl'"
     },
@@ -136,13 +141,13 @@
     },
     {
       "source": "jonathan-adler",
-      "title": "Brass Goldfish Box",
-      "reason": "excluded by keyword 'box'"
+      "title": "Brass Clam Shell Tray",
+      "reason": "excluded by keyword 'tray'"
     },
     {
       "source": "jonathan-adler",
-      "title": "Brass Clam Shell Tray",
-      "reason": "excluded by keyword 'tray'"
+      "title": "Brass Goldfish Box",
+      "reason": "excluded by keyword 'box'"
     },
     {
       "source": "jonathan-adler",
@@ -341,6 +346,11 @@
     },
     {
       "source": "leaf-clay",
+      "title": "Dracaena 'Janet Craig' - 6\" Pot - NURSERY POT ONLY",
+      "reason": "excluded by keyword 'pot only'"
+    },
+    {
+      "source": "leaf-clay",
       "title": "Peperomia 'Rana Verde' - 4\" Pot - NURSERY POT ONLY",
       "reason": "excluded by keyword 'pot only'"
     },
@@ -416,6 +426,11 @@
     },
     {
       "source": "leaf-clay",
+      "title": "Philodendron 'Birkin' - 4\" Pot - NURSERY POT ONLY",
+      "reason": "excluded by keyword 'pot only'"
+    },
+    {
+      "source": "leaf-clay",
       "title": "Calathea Rufibarba 'Furry Feather' - 6\" Pot - NURSERY POT ONLY",
       "reason": "excluded by keyword 'pot only'"
     },
@@ -456,6 +471,11 @@
     },
     {
       "source": "leaf-clay",
+      "title": "Calathea 'Beauty Star' - 6\" Pot - NURSERY POT ONLY",
+      "reason": "excluded by keyword 'pot only'"
+    },
+    {
+      "source": "leaf-clay",
       "title": "Calathea 'Dottie' - 4\" Pot - NURSERY POT ONLY",
       "reason": "excluded by keyword 'pot only'"
     },
@@ -472,21 +492,6 @@
     {
       "source": "leaf-clay",
       "title": "Fern 'Kangaroo Paw' - 4\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Maidenhair Fern - 4\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Austral Gem Fern - 4\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Monstera Adansonii 'Swiss Cheese' - 6\" Pot - NURSERY POT ONLY",
       "reason": "excluded by keyword 'pot only'"
     },
     {
@@ -511,12 +516,12 @@
     },
     {
       "source": "leaf-clay",
-      "title": "Cactus Pack (6-12 Plants, 2\" Pots)",
+      "title": "Easy Indoor Succulents Pack (6-20 Varieties, 2\" Pots)",
       "reason": "excluded by keyword 'pack'"
     },
     {
       "source": "leaf-clay",
-      "title": "Easy Indoor Succulents Pack (6-20 Varieties, 2\" Pots)",
+      "title": "Cactus Pack (6-12 Plants, 2\" Pots)",
       "reason": "excluded by keyword 'pack'"
     },
     {
@@ -527,11 +532,6 @@
     {
       "source": "leaf-clay",
       "title": "Cacti Bulk Pack (25 Plants, 2\" Pots)",
-      "reason": "excluded by keyword 'pack'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Crassula & Jade Succulents Pack (6-12 Plants, 2\" Pots)",
       "reason": "excluded by keyword 'pack'"
     }
   ],
