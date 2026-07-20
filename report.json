@@ -2,20 +2,20 @@
   "total_items": 421,
   "per_category": {
     "paintings": 110,
-    "plants": 92,
+    "plants": 90,
     "posters": 120,
-    "sculptures": 41,
-    "wall_decorations": 58
+    "sculptures": 44,
+    "wall_decorations": 57
   },
   "per_vendor": {
     "Abstract House": 110,
-    "Leaf & Clay": 55,
-    "The Sill": 37,
+    "Leaf & Clay": 54,
+    "The Sill": 36,
     "The Poster Club": 82,
     "Project Nord": 40,
     "PSTR Studio": 40,
-    "Jonathan Adler": 41,
-    "Umbra": 16
+    "Jonathan Adler": 44,
+    "Umbra": 15
   },
   "thin_categories": [],
   "dropped_at_normalize": [
@@ -51,13 +51,13 @@
     },
     {
       "source": "jonathan-adler",
-      "title": "Brass Elephant Ring Bowl",
-      "reason": "excluded by keyword 'bowl'"
+      "title": "Adderall Pill Box",
+      "reason": "excluded by keyword 'box'"
     },
     {
       "source": "jonathan-adler",
-      "title": "Adderall Pill Box",
-      "reason": "excluded by keyword 'box'"
+      "title": "Brass Elephant Ring Bowl",
+      "reason": "excluded by keyword 'bowl'"
     },
     {
       "source": "jonathan-adler",
@@ -136,6 +136,11 @@
     },
     {
       "source": "jonathan-adler",
+      "title": "Mr. & Mrs. Muse Place Card Holder Set",
+      "reason": "excluded by keyword 'holder'"
+    },
+    {
+      "source": "jonathan-adler",
       "title": "Fontana Box",
       "reason": "excluded by keyword 'box'"
     },
@@ -196,6 +201,11 @@
     },
     {
       "source": "the-sill",
+      "title": "Jasmine Sambac",
+      "reason": "excluded by keyword 'planter'"
+    },
+    {
+      "source": "the-sill",
       "title": "Leaf Care Spray",
       "reason": "excluded by keyword 'plant care'"
     },
@@ -208,6 +218,11 @@
       "source": "the-sill",
       "title": "Succulent Assorted",
       "reason": "description too short (0 chars)"
+    },
+    {
+      "source": "the-sill",
+      "title": "Jasmine Sambac",
+      "reason": "excluded by keyword 'planter'"
     },
     {
       "source": "leaf-clay",
@@ -501,22 +516,17 @@
     },
     {
       "source": "leaf-clay",
-      "title": "'Gift-Worthy' Succulent Pack",
-      "reason": "excluded by keyword 'pack'"
-    },
-    {
-      "source": "leaf-clay",
       "title": "Trailing & Strings Succulents Pack (6-12 Plants, 2\" Pots)",
       "reason": "excluded by keyword 'pack'"
     },
     {
       "source": "leaf-clay",
-      "title": "Succulent Cuttings Variety Pack (10-50 Plants, 2-3\")",
+      "title": "'Gift-Worthy' Succulent Pack",
       "reason": "excluded by keyword 'pack'"
     },
     {
       "source": "leaf-clay",
-      "title": "Easy Indoor Succulents Pack (6-20 Varieties, 2\" Pots)",
+      "title": "Succulent Cuttings Variety Pack (10-50 Plants, 2-3\")",
       "reason": "excluded by keyword 'pack'"
     },
     {
@@ -531,9 +541,27 @@
     },
     {
       "source": "leaf-clay",
-      "title": "Cacti Bulk Pack (25 Plants, 2\" Pots)",
+      "title": "Ceropegia woodii 'String of Hearts' variegata",
+      "reason": "description too short (0 chars)"
+    },
+    {
+      "source": "leaf-clay",
+      "title": "Easy Indoor Succulents Pack (6-20 Varieties, 2\" Pots)",
+      "reason": "excluded by keyword 'pack'"
+    },
+    {
+      "source": "leaf-clay",
+      "title": "Crassula & Jade Succulents Pack (6-12 Plants, 2\" Pots)",
       "reason": "excluded by keyword 'pack'"
     }
   ],
-  "validation_failures": []
+  "validation_failures": [
+    {
+      "id": "umbra-815603c03a",
+      "sourceURL": "https://umbra.com/products/hubba-wall-mirror",
+      "reasons": [
+        "sourceURL unreachable: HTTP 503"
+      ]
+    }
+  ]
 }

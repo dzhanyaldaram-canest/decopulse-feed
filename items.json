@@ -1150,6 +1150,16 @@
     "category": "plants"
   },
   {
+    "id": "leaf-clay-123360b2ad",
+    "name": "Echeveria 'Sagitta'",
+    "description": "Echeveria 'Sagitta' is a captivating succulent that hails from the rocky landscapes of Mexico. Its name, derived from the Latin word for \"arrow,\" aptly describes the pointed, arrow-shaped leaves that form its rosettes. The foliage of Echeveria 'Sagitta' presents a mesmerizing palette of colors, blending hues of deep blue-green with subtle pink edges that become more pronounced under stress or…",
+    "price": 6.99,
+    "vendor": "Leaf & Clay",
+    "sourceURL": "https://leafandclay.co/products/echeveria-sagitta",
+    "imageURL": "https://cdn.shopify.com/s/files/1/1124/9666/files/echeveria.jpg?v=1712206956&width=900",
+    "category": "plants"
+  },
+  {
     "id": "leaf-clay-1f88be703c",
     "name": "Graptosedum 'Alpenglow'",
     "description": "A hybrid succulent variety named for the famed British botanical artist and author, G . ‘Alpenglow’ sports fleshy leaves in shades of red, coral, or even bronze, which whorl around the stem before culminating in rosettes at the tip. The color of the 1- inch long leaves will deepen in stronger sunlight or cooler (but not freezing!) temperatures, and begin reverting to a silvery green in darker…",
@@ -1190,13 +1200,23 @@
     "category": "plants"
   },
   {
-    "id": "leaf-clay-30b4280035",
-    "name": "Fenestraria rhopalophylla 'Baby Toes'",
-    "description": "Belonging to the large plant family of Aizoaceae, which includes plants known as “mimicry plants\" due to their ability to camouflage with their environment, F. rhopalophylla ‘Baby Toes’ is an exceptionally unusual succulent. Hailing from the deserts of Namibia and South Africa, its minty green to soft blue leaves form tubes rather than rosettes, each growing up to 3 inches tall. In the wild, only…",
+    "id": "leaf-clay-39dd380097",
+    "name": "Graptopetalum superbum",
+    "description": "With distinctly layered, flattened rosettes of broad gray and lavender leaves coated in a thick layer of powdery farina, G. superbum lends calming and peaceful vibes to any space of which it is a part. With each rosette reaching up to 5 inches in width, this variety makes an exceptional specimen plant on a sunny windowsill, or a high contrast component within container arrangements – especially…",
     "price": 6.99,
     "vendor": "Leaf & Clay",
-    "sourceURL": "https://leafandclay.co/products/fenestraria-aurantiaca-baby-toes",
-    "imageURL": "https://cdn.shopify.com/s/files/1/1124/9666/products/fenestraria-aurantiaca-baby-toes.jpg?v=1541806954&width=900",
+    "sourceURL": "https://leafandclay.co/products/graptoveria-pentandrum-superbum",
+    "imageURL": "https://cdn.shopify.com/s/files/1/1124/9666/products/graptoveria-pentandrum-superbum.png?v=1488650917&width=900",
+    "category": "plants"
+  },
+  {
+    "id": "leaf-clay-4339d7f033",
+    "name": "Pachyphytum 'Pink Moonstones'",
+    "description": "Charming, egg-shaped leaves sport a clear, creamy pink coloration that gives this Pachyphytum variety its name. Thick and rounded leaves stack up the stems to form loose rosettes when viewed from above – and, when provided with the right growing conditions, ‘Pink Moonstones’ will begin to offset to create a mass of color up to 8 inches tall and several inches wide. A thick layer of powdery farina…",
+    "price": 6.99,
+    "vendor": "Leaf & Clay",
+    "sourceURL": "https://leafandclay.co/products/pachyphytum-pink-moonstones",
+    "imageURL": "https://cdn.shopify.com/s/files/1/1124/9666/products/pachyphytum-moon-stones.jpg?v=1487727280&width=900",
     "category": "plants"
   },
   {
@@ -1257,16 +1277,6 @@
     "vendor": "Leaf & Clay",
     "sourceURL": "https://leafandclay.co/products/crassula-marginalis-rubra-calico-kitten",
     "imageURL": "https://cdn.shopify.com/s/files/1/1124/9666/products/crassula-calico-kitten.jpg?v=1497039390&width=900",
-    "category": "plants"
-  },
-  {
-    "id": "leaf-clay-7651dffcdf",
-    "name": "Echeveria 'Doris Taylor'",
-    "description": "Echeveria 'Doris Taylor' features elongated, apple green leaves coated in a thick blanket of fuzzy hairs called cilia. The open rosettes can reach up to 8 inches in diameter and are known to offset readily, forming a large clump of these unique, furry leaves! Hardy only to Zone 10, ‘Doris Taylor’ can be planted in pots in cooler climates where it will need to winter indoors, or directly in the…",
-    "price": 6.99,
-    "vendor": "Leaf & Clay",
-    "sourceURL": "https://leafandclay.co/products/echeveria-doris-taylor",
-    "imageURL": "https://cdn.shopify.com/s/files/1/1124/9666/products/echeveria-doris-taylor.jpg?v=1521654221&width=900",
     "category": "plants"
   },
   {
@@ -1390,6 +1400,16 @@
     "category": "plants"
   },
   {
+    "id": "leaf-clay-a56a7a8972",
+    "name": "Opuntia rufida f. monstrosa 'Mini Cinnamon Cactus'",
+    "description": "Mini Cinnamon Cactus is a petite paddle cactus dotted with cinnamon-colored glochids, or fuzzy spike clusters, across the span of the pads. This beauty can shift colors based on light exposure, ranging in tones from a dusty green to an amethyst purple! Native to the dry Texas climate, this unique variety is also known as a miniature prickly pear, and will reach only 10 inches in height at…",
+    "price": 6.49,
+    "vendor": "Leaf & Clay",
+    "sourceURL": "https://leafandclay.co/products/opuntia-rufiada-minima-mini-cinnamon-cactus",
+    "imageURL": "https://cdn.shopify.com/s/files/1/1124/9666/products/optunia-rufiada-minima-mini-cinnamon-cactus.jpg?v=1575056490&width=900",
+    "category": "plants"
+  },
+  {
     "id": "leaf-clay-a58c9a1c19",
     "name": "Sedum nussbaumerianum 'Coppertone Stonecrop'",
     "description": "Introducing the radiant Sedum nussbaumerianum 'Coppertone Stonecrop', a dazzling succulent that hails from Mexico. This unique plant is a true spectacle, with its fleshy leaves transitioning from a deep green to a striking copper-orange hue under the full sun. The 'Coppertone Stonecrop' forms rosettes that can spread outwards, creating a lush, colorful carpet that is sure to catch the eye…",
@@ -1397,36 +1417,6 @@
     "vendor": "Leaf & Clay",
     "sourceURL": "https://leafandclay.co/products/sedum-orange",
     "imageURL": "https://cdn.shopify.com/s/files/1/1124/9666/products/sedum-orange.png?v=1521220873&width=900",
-    "category": "plants"
-  },
-  {
-    "id": "leaf-clay-accc972593",
-    "name": "Corpuscularia lehmannii",
-    "description": "Corpuscularia lehmannii, also known by the common name ‘Ice Plant’ (though it is not, in fact, cold hardy), is a unique variety that sports thick, angular, icy blue/green leaves that appear to “stack\" up the stems. Some suggest that the common name comes not only from the plant’s coloration, but also from the leaf shape, which can resemble that of an ice cube! This beginner-friendly variety can…",
-    "price": 6.99,
-    "vendor": "Leaf & Clay",
-    "sourceURL": "https://leafandclay.co/products/corpuscularia-lehmannii",
-    "imageURL": "https://cdn.shopify.com/s/files/1/1124/9666/products/corpuscularia-lehmannii.jpg?v=1541468864&width=900",
-    "category": "plants"
-  },
-  {
-    "id": "leaf-clay-ae88327434",
-    "name": "Senecio rowleyanus f. variegatus 'Variegated String of Pearls'",
-    "description": "Senecio rowleyanus ‘String of Pearls’ variegata is a quirky and cascading succulent, with bright green and white round leaves. Originating from southern Africa, where they grow as a trailing groundcover over rock outcroppings, each stem can potentially reach several feet in length. The unique, pearl-shaped leaves are an adaptation to survive drought conditions in their native desert home, and…",
-    "price": 9.99,
-    "vendor": "Leaf & Clay",
-    "sourceURL": "https://leafandclay.co/products/senecio-rowleyanus-string-of-pearls-variegata",
-    "imageURL": "https://cdn.shopify.com/s/files/1/1124/9666/products/senecio-rowleyanus-variegata.jpg?v=1631280845&width=900",
-    "category": "plants"
-  },
-  {
-    "id": "leaf-clay-b075d70b2d",
-    "name": "Euphorbia ferox 'Pincushion Euphorbia'",
-    "description": "With intensely colored and intensely long spines protruding from the stems of this branching shrub, it is no question where Euphorbia enopla 'Pincushion Euphorbia' got its common name! The deep green base coloration provides a rich contrast to the bright red spines, which appear to surround the plant in a ‘halo’ of vibrant color. As if the looks of this plant were not reason enough to add it to…",
-    "price": 7.99,
-    "vendor": "Leaf & Clay",
-    "sourceURL": "https://leafandclay.co/products/euphorbia-enopla-pincushion-euphorbia",
-    "imageURL": "https://cdn.shopify.com/s/files/1/1124/9666/products/euphorbia-enopla-pincushion-euphorbia.jpg?v=1553380394&width=900",
     "category": "plants"
   },
   {
@@ -1470,16 +1460,6 @@
     "category": "plants"
   },
   {
-    "id": "leaf-clay-b6dbfe2b70",
-    "name": "Haworthia cooperi var. truncata",
-    "description": "While Haworthia cooperi var. truncata does indeed form rosettes of rich green, very chubby leaves, what stands out the most is not its growth form but the shape of its leaves. Flattened across the top with translucent ‘windowpanes’ offset by tendrils of green reaching towards the center, the mesmerizing leaves perform a key function – they allow light to reach deep into the recesses of the plant…",
-    "price": 6.99,
-    "vendor": "Leaf & Clay",
-    "sourceURL": "https://leafandclay.co/products/haworthia-cooperi-var-pilifera",
-    "imageURL": "https://cdn.shopify.com/s/files/1/1124/9666/products/haworthia-cooperi.jpg?v=1487727616&width=900",
-    "category": "plants"
-  },
-  {
     "id": "leaf-clay-bcbd49a191",
     "name": "Cotyledon pendens 'Cliff Cotyledon'",
     "description": "The numerous stems of Cotyledon pendens 'Cliff Cotyledon' will quickly form a ‘curtain’ of draping foliage, reaching up to 2 feet in length. The pointed, oval leaves range in color from lime green to dusty blue, courtesy of a coating of powdery farina on the newest leaf sets. The margins of the leaves will flush a rich magenta hue in bright light, adding another layer of contrast to this…",
@@ -1517,6 +1497,16 @@
     "vendor": "Leaf & Clay",
     "sourceURL": "https://leafandclay.co/products/kalanchoe-sexangularis",
     "imageURL": "https://cdn.shopify.com/s/files/1/1124/9666/files/kalanchoe-sexangularis-side.jpg?v=1712763446&width=900",
+    "category": "plants"
+  },
+  {
+    "id": "leaf-clay-c64a22f795",
+    "name": "Kalanchoe 'Pink Butterflies'",
+    "description": "Introducing the ethereal beauty of Kalanchoe 'Pink Butterflies', a captivating succulent that brings a whimsical charm to any setting. This enchanting plant, a marvel of horticultural breeding, features delicate variegated leaves sprinkled with what appears to be tiny pink butterflies. These 'butterflies' are actually plantlets that form along the leaf margins, creating a mesmerizing effect…",
+    "price": 10.99,
+    "vendor": "Leaf & Clay",
+    "sourceURL": "https://leafandclay.co/products/kalanchoe-pink-butterflies",
+    "imageURL": "https://cdn.shopify.com/s/files/1/1124/9666/files/kalanchoe-pink-butterflies.jpg?v=1712205030&width=900",
     "category": "plants"
   },
   {
@@ -1600,6 +1590,26 @@
     "category": "plants"
   },
   {
+    "id": "leaf-clay-ea41832230",
+    "name": "Senecio peregrinus 'String of Dolphins'",
+    "description": "The uniquely shaped leaves of this strongly draping succulent variety feature a gracefully curved shape with dorsal fin-like protrusions – thus earning the plant the moniker Senecio peregrinus ‘String of Dolphins!’ Relatively rare within the succulent world, this specimen can prove slightly more high maintenance than some other Senecio, but the trade off is well worth it to enjoy its marvelously…",
+    "price": 6.99,
+    "vendor": "Leaf & Clay",
+    "sourceURL": "https://leafandclay.co/products/senecio-peregrinus-string-of-dolphins",
+    "imageURL": "https://cdn.shopify.com/s/files/1/1124/9666/products/senecio-peregrinus-string-of-dolphins.jpg?v=1582819520&width=900",
+    "category": "plants"
+  },
+  {
+    "id": "leaf-clay-eb774d4599",
+    "name": "Sinocrassula yunnanensis",
+    "description": "Embodying the mystique of its origins, Sinocrassula yunnanensis is a captivating succulent hailing from the rocky slopes of China's Yunnan province. This diminutive plant is a marvel of texture and color, featuring tightly packed rosettes of dark, almost black leaves that can sometimes show a deep green hue under certain light. The leaves are small, thick, and conical, with a slightly pointed…",
+    "price": 6.99,
+    "vendor": "Leaf & Clay",
+    "sourceURL": "https://leafandclay.co/products/sinocrassula-yunnanensis",
+    "imageURL": "https://cdn.shopify.com/s/files/1/1124/9666/files/Sinocrassulayunnanensis.jpg?v=1715960446&width=900",
+    "category": "plants"
+  },
+  {
     "id": "leaf-clay-eb9f3176f7",
     "name": "Crassula 'Springtime'",
     "description": "Crassula 'Springtime' is a slow growing succulent with thick, grey-green triangular leaves that are densely packed around a thin stem. While young plants will initially grow upright, mature plants will begin to drape under their own weight as they continue to form very unique, intricate clusters of stems and rosettes. Crassula 'Springtime' likes to have plenty of bright, filtered light, and…",
@@ -1610,16 +1620,6 @@
     "category": "plants"
   },
   {
-    "id": "leaf-clay-eed4021644",
-    "name": "Echeveria 'Madiba'",
-    "description": "Echeveria 'Madiba' presents a striking rosette of candy pink and metallic hues, characterized by its narrow, acutely-shaped foliage. In its larger form, it develops a more intricate, curled texture. This specific echeveria variety reaches its peak chromatic brilliance when exposed to abundant sunlight. To maintain their distinctive hues and dense rosette structure, these echeveria varieties need…",
-    "price": 6.29,
-    "vendor": "Leaf & Clay",
-    "sourceURL": "https://leafandclay.co/products/echeveria-madiba-pink-lips",
-    "imageURL": "https://cdn.shopify.com/s/files/1/1124/9666/files/echeveria-madiba-pink-lips.jpg?v=1704513404&width=900",
-    "category": "plants"
-  },
-  {
     "id": "leaf-clay-f74b19ea17",
     "name": "Echeveria 'Raindrops'",
     "description": "Created by famed succulent hybridizer Dick Wright, Echeveria 'Raindrops' features rosettes of pale bluish green leaves with pink margins and a globular, droplet shaped bump in the center of each leaf – thus lending the plant its name! A layer of powdery farina further accentuates this already unique aesthetic; though take care not to mar this coating with oils from your fingerprints! Reaching up…",
@@ -1627,16 +1627,6 @@
     "vendor": "Leaf & Clay",
     "sourceURL": "https://leafandclay.co/products/echeveria-raindrops",
     "imageURL": "https://cdn.shopify.com/s/files/1/1124/9666/products/echeveria-Raindrops.png?v=1500857911&width=900",
-    "category": "plants"
-  },
-  {
-    "id": "leaf-clay-f8c8c81ae7",
-    "name": "Senecio scaposus 'Silver Coral'",
-    "description": "With a clumping growth habit, the upright, slender leaves of Senecio scaposus ‘Silver Coral’ sport a lightly textured, matte appearance in shades of silvery green. The textured coating along the surface of the plant, which sometimes takes on a rather wooly appearance, can be damaged when handling the plant, and will not grow back – so take care when handling this intriguing variety. Developed as…",
-    "price": 6.99,
-    "vendor": "Leaf & Clay",
-    "sourceURL": "https://leafandclay.co/products/senecio-scaposus-silver-coral",
-    "imageURL": "https://cdn.shopify.com/s/files/1/1124/9666/products/senecio-scaposus-silver-coral.jpg?v=1600790091&width=900",
     "category": "plants"
   },
   {
@@ -1716,7 +1706,7 @@
     "price": 59.0,
     "vendor": "The Sill",
     "sourceURL": "https://thesill.com/products/snake-plant-zeylanica",
-    "imageURL": "https://cdn.shopify.com/s/files/1/0150/6262/files/Snake_Zeylenica_large1_a484ee8d-f0ee-459c-80a1-eb020a73f132.jpg?v=1776375253&width=900",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0150/6262/files/the-sill_Extra-Large-Snake-Zeylanica_Extra-Large_Mexia_Black_Variant_424a457f-d541-4709-b684-1453c3304e80.jpg?v=1778872905&width=900",
     "category": "plants"
   },
   {
@@ -1763,7 +1753,7 @@
     "id": "the-sill-360d64bc44",
     "name": "Pothos Marble Queen",
     "description": "Pothos plants are one of the most popular types of houseplants, and for good reason: they're fast-growing, hearty, and easy to care for. This variety is referred to as 'Marble Queen' thanks to the swirls of deep greens and white on the plant's signature heart-shaped leaves. Its quick-growing vines will make any space feel more lush; a great, low-maintenance choice for beginners. Each plant is…",
-    "price": 42.0,
+    "price": 59.0,
     "vendor": "The Sill",
     "sourceURL": "https://thesill.com/products/pothos-marble-queen",
     "imageURL": "https://cdn.shopify.com/s/files/1/0150/6262/files/the-sill_Small-Pothos-Marble-Queen_Small_Westcott_Cream_Variant.jpg?v=1776354759&width=900",
@@ -1833,7 +1823,7 @@
     "id": "the-sill-8f97346ca8",
     "name": "Heartleaf Philodendron",
     "description": "Why is the Philodendron our most popular plant year after year? A few reasons: Its cute heart-shaped green leaves, its easy-going nature (it's very forgiving when it comes to water and sun), or its quick-growing, trailing vines. Snag this low-maintenance houseplant now to bring the outdoors inside. Also known as the Philodendron green or Philodendron hederaceum (syn. Philodendron scandens ). Each…",
-    "price": 42.0,
+    "price": 59.0,
     "vendor": "The Sill",
     "sourceURL": "https://thesill.com/products/heartleaf-philodendron",
     "imageURL": "https://cdn.shopify.com/s/files/1/0150/6262/files/the-sill_westcott_philodendron_lifestyle1.png?v=1783717428&width=900",
@@ -2000,20 +1990,10 @@
     "category": "plants"
   },
   {
-    "id": "the-sill-fc9d51032f",
-    "name": "Baby Rubber Plant",
-    "description": "The Peperomia obtusifolia, also known as the baby rubber plant, is an easy-going houseplant characterized by its thick, succulent-like green leaves. A popular variety of Peperomia, it does not need much to thrive and might even reward you with white flower spikes once a year. Each plant is unique; size and shape fluctuate by season so all measurements are shown as a range Small plant measures…",
-    "price": 59.0,
-    "vendor": "The Sill",
-    "sourceURL": "https://thesill.com/products/peperomia-green",
-    "imageURL": "https://cdn.shopify.com/s/files/1/0150/6262/files/the-sill_Medium-Peperomia-Obtusifolia_Medium_Isabella_Mustard_Variant_f94278c6-0a86-41f5-9123-ecb6075c376b.jpg?v=1774451270&width=900",
-    "category": "plants"
-  },
-  {
     "id": "the-sill-fed7cf7cef",
     "name": "Parlor Palm",
     "description": "The Parlor Palm is a favorite easy-care palm with tropical fronds known for its air-purifying qualities. Each plant is unique; size and shape fluctuate by season so all measurements are shown as a range Small plant measures between 6–11 inches tall from bottom of the grow pot to the top of the foliage Medium plant measures between 12-18 inches tall from bottom of the grow pot to the top of the…",
-    "price": 42.0,
+    "price": 59.0,
     "vendor": "The Sill",
     "sourceURL": "https://thesill.com/products/parlor-palm",
     "imageURL": "https://cdn.shopify.com/s/files/1/0150/6262/files/the-sill_Small-Parlor-Palm_Small_Westcott_Black_Variant.jpg?v=1770151098&width=900",
@@ -3330,6 +3310,16 @@
     "category": "sculptures"
   },
   {
+    "id": "jonathan-adler-4d14308f80",
+    "name": "Reform Three-Drawer Chest",
+    "description": "Organic Modernism. An ebonized and limed oak cabinet with drawer faces featuring our signature Reform design—a relief texture originally sculpted in our Soho pottery studio—clad in a sheet of brass, then hand-hammered and polished to perfection. Inspired by the Brutalist architecture of modernist temples and churches from Le Corbusier's Ronchamp to Miami's Temple Israel to the Cathedral of…",
+    "price": 4650.0,
+    "vendor": "Jonathan Adler",
+    "sourceURL": "https://jonathanadler.com/products/reform-three-drawer-chest",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0270/1082/6274/files/Reform_3DrawerChest_a.jpg?v=1757482516&width=900",
+    "category": "sculptures"
+  },
+  {
     "id": "jonathan-adler-54d9163cac",
     "name": "Menagerie Elephant",
     "description": "Animal Kingdom. Our quietly welcoming stoneware vessels and sculptures merge elemental forms with subtle layers of pattern and decoration. Details are elevated by a soft satin matte finish. One adds a touch of couture craft to your console, or group the collection to give your shelf or mantel some modern menagerie magic.",
@@ -3460,6 +3450,16 @@
     "category": "sculptures"
   },
   {
+    "id": "jonathan-adler-b2ab08015d",
+    "name": "Reform 72\" Credenza",
+    "description": "Organic Modernism. An ebonized and limed oak cabinet perched on solid brass legs and featuring our signature Reform pattern, which originated as a relief texture sculpted in our Soho pottery studio. The design is carved onto wooden doors, and then clad in a single sheet of brass, which is hand-hammered and polished to perfection. The labor-intensive process takes eight to 12 hours per door…",
+    "price": 6800.0,
+    "vendor": "Jonathan Adler",
+    "sourceURL": "https://jonathanadler.com/products/reform-credenza",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0270/1082/6274/files/reform_credenza_a7237be5-6e25-485f-a7e4-a2a0723d7c8a.jpg?v=1743740371&width=900",
+    "category": "sculptures"
+  },
+  {
     "id": "jonathan-adler-c57c7d768d",
     "name": "Acrylic Orb Set",
     "description": "Solid Glow. Solid acrylic orbs in glowing jewel tones designed to rest on circular polished brass stands. Style together on a grand cocktail table or make a major statement on a modern mantel. Set of five, varying sizes.",
@@ -3467,6 +3467,16 @@
     "vendor": "Jonathan Adler",
     "sourceURL": "https://jonathanadler.com/products/acrylic-orb-set",
     "imageURL": "https://cdn.shopify.com/s/files/1/0270/1082/6274/files/acrylic_orb_set.jpg?v=1757484083&width=900",
+    "category": "sculptures"
+  },
+  {
+    "id": "jonathan-adler-cedc792875",
+    "name": "Brass Snail Ice Bucket",
+    "description": "Happy Trails. Crafted from warm polished brass, our Snail Ice Bucket features a removable lid and liner. Originally a clay model sculpted by Jonathan and his team in our Soho pottery studio. Chic and surreal at a dreamy dinner party, and a divine addition to any glamorous garden party.",
+    "price": 295.0,
+    "vendor": "Jonathan Adler",
+    "sourceURL": "https://jonathanadler.com/products/brass-snail-ice-bucket",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0270/1082/6274/files/brass_snail_ice_bucket_c_1.jpg?v=1782923867&width=900",
     "category": "sculptures"
   },
   {
@@ -4157,16 +4167,6 @@
     "vendor": "Umbra",
     "sourceURL": "https://umbra.com/products/hub-wall-mirror",
     "imageURL": "https://cdn.shopify.com/s/files/1/0193/5363/2834/files/q1jniyq2pbepon3iqhea.png?v=1776488489&width=900",
-    "category": "wall_decorations"
-  },
-  {
-    "id": "umbra-815603c03a",
-    "name": "Hubba Wall Mirror",
-    "description": "Elevate your space with the Hubba Wall Mirror, a perfect blend of style and function. Designed to enhance any room, Hubba’s large reflective surface brightens your space by bouncing natural and artificial light, making even the darkest corners feel more open and inviting. Its elegant metallic frame adds a modern touch that complements any decor, while its size adds visual depth, instantly making…",
-    "price": 140.0,
-    "vendor": "Umbra",
-    "sourceURL": "https://umbra.com/products/hubba-wall-mirror",
-    "imageURL": "https://cdn.shopify.com/s/files/1/0193/5363/2834/files/ttnqzstfaa8vntfietzd.jpg?v=1776488473&width=900",
     "category": "wall_decorations"
   },
   {
