@@ -1,32 +1,37 @@
 {
-  "total_items": 707,
+  "total_items": 895,
   "per_category": {
-    "paintings": 132,
-    "plants": 156,
-    "posters": 175,
+    "paintings": 135,
+    "plants": 149,
+    "posters": 369,
     "sculptures": 76,
-    "wall_decorations": 168
+    "wall_decorations": 166
   },
   "per_vendor": {
-    "Abstract House": 77,
+    "Abstract House": 80,
     "Olivia's": 50,
-    "Partnership Editions": 50,
-    "Beards & Daisies": 25,
+    "Partnership Editions": 60,
+    "Beards & Daisies": 18,
     "Conservatory Archives": 40,
     "House Plant": 36,
     "Leaf Envy": 55,
-    "Drool Art": 40,
-    "Jealous Gallery": 25,
-    "The Poster Club": 60,
-    "Project Nord": 30,
-    "PSTR Studio": 30,
+    "Drool Art": 75,
+    "Jealous Gallery": 40,
+    "The Poster Club": 105,
+    "Project Nord": 75,
+    "PSTR Studio": 74,
     "Jonathan Adler UK": 40,
-    "Rockett St George": 89,
+    "Rockett St George": 87,
     "Cult Furniture": 50,
     "Nkuku": 10
   },
   "thin_categories": [],
   "dropped_at_normalize": [
+    {
+      "source": "pstr-studio",
+      "title": "Art Gift Card",
+      "reason": "excluded by keyword 'gift card'"
+    },
     {
       "source": "rockett-st-george",
       "title": "Gold Milagro Heart Tabletop Mirror",
@@ -55,6 +60,11 @@
     {
       "source": "rockett-st-george",
       "title": "Last Night A DJ Saved My Life...Framed Neon Wall Light - Available in Two Options",
+      "reason": "excluded by keyword 'light'"
+    },
+    {
+      "source": "rockett-st-george",
+      "title": "Flying Fuck Framed Neon Wall Light - Available in Two Options",
       "reason": "excluded by keyword 'light'"
     },
     {
@@ -94,13 +104,13 @@
     },
     {
       "source": "beards-daisies",
-      "title": "Air Purifying Bundle",
+      "title": "Air Purifying Pair",
       "reason": "excluded by keyword 'bundle'"
     },
     {
       "source": "beards-daisies",
-      "title": "Air Purifying Pair",
-      "reason": "excluded by keyword 'bundle'"
+      "title": "Artificial African Fig Tree",
+      "reason": "excluded by keyword 'artificial'"
     },
     {
       "source": "beards-daisies",
@@ -130,6 +140,11 @@
     {
       "source": "beards-daisies",
       "title": "Artificial Aloe Vera",
+      "reason": "excluded by keyword 'artificial'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "Artificial Anthurium",
       "reason": "excluded by keyword 'artificial'"
     },
     {
@@ -189,6 +204,11 @@
     },
     {
       "source": "beards-daisies",
+      "title": "Artificial Begonia",
+      "reason": "excluded by keyword 'artificial'"
+    },
+    {
+      "source": "beards-daisies",
       "title": "Artificial Begonia Maculata",
       "reason": "excluded by keyword 'artificial'"
     },
@@ -200,6 +220,31 @@
     {
       "source": "beards-daisies",
       "title": "Artificial Bestseller Pair",
+      "reason": "excluded by keyword 'artificial'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "Artificial Bird of Paradise",
+      "reason": "excluded by keyword 'artificial'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "Artificial Bird of Paradise (Flowering)",
+      "reason": "excluded by keyword 'artificial'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "Artificial Blue Lavender & Pot",
+      "reason": "excluded by keyword 'artificial'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "Artificial Blue Star Fern",
+      "reason": "excluded by keyword 'artificial'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "Artificial Bonsai & Pot",
       "reason": "excluded by keyword 'artificial'"
     },
     {
@@ -243,13 +288,5 @@
       "reason": "excluded by keyword 'plant pot'"
     }
   ],
-  "validation_failures": [
-    {
-      "id": "jonathan-adler-6d4fc34666",
-      "sourceURL": "https://uk.jonathanadler.com/products/glass-menagerie-fox",
-      "reasons": [
-        "sourceURL unreachable: HTTP 404"
-      ]
-    }
-  ]
+  "validation_failures": []
 }
