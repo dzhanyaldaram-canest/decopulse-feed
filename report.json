@@ -1,28 +1,66 @@
 {
-  "total_items": 424,
+  "total_items": 707,
   "per_category": {
-    "paintings": 110,
-    "plants": 92,
-    "posters": 120,
-    "sculptures": 44,
-    "wall_decorations": 58
+    "paintings": 132,
+    "plants": 156,
+    "posters": 175,
+    "sculptures": 76,
+    "wall_decorations": 168
   },
   "per_vendor": {
-    "Abstract House": 110,
-    "Leaf & Clay": 55,
-    "The Sill": 37,
-    "The Poster Club": 82,
-    "Project Nord": 40,
-    "PSTR Studio": 40,
-    "Jonathan Adler": 44,
-    "Umbra": 16
+    "Abstract House": 77,
+    "Olivia's": 50,
+    "Partnership Editions": 50,
+    "Beards & Daisies": 25,
+    "Conservatory Archives": 40,
+    "House Plant": 36,
+    "Leaf Envy": 55,
+    "Drool Art": 40,
+    "Jealous Gallery": 25,
+    "The Poster Club": 60,
+    "Project Nord": 30,
+    "PSTR Studio": 30,
+    "Jonathan Adler UK": 40,
+    "Rockett St George": 89,
+    "Cult Furniture": 50,
+    "Nkuku": 10
   },
   "thin_categories": [],
   "dropped_at_normalize": [
     {
-      "source": "umbra",
-      "title": "Montage 6 Wall Hook",
-      "reason": "excluded by keyword 'hook'"
+      "source": "rockett-st-george",
+      "title": "Gold Milagro Heart Tabletop Mirror",
+      "reason": "excluded by keyword 'table'"
+    },
+    {
+      "source": "rockett-st-george",
+      "title": "Mirror, Mirror...Framed Neon Wall Light - Available in Two Options",
+      "reason": "excluded by keyword 'light'"
+    },
+    {
+      "source": "rockett-st-george",
+      "title": "Gold & Foxed Mirror Floral Candle Wall Sconce",
+      "reason": "excluded by keyword 'candle'"
+    },
+    {
+      "source": "rockett-st-george",
+      "title": "Gold Milagro Heart Candlestick Wall Sconce",
+      "reason": "excluded by keyword 'candle'"
+    },
+    {
+      "source": "rockett-st-george",
+      "title": "Mirror, Mirror...Framed Neon Wall Light - Available in Two Options",
+      "reason": "excluded by keyword 'light'"
+    },
+    {
+      "source": "rockett-st-george",
+      "title": "Last Night A DJ Saved My Life...Framed Neon Wall Light - Available in Two Options",
+      "reason": "excluded by keyword 'light'"
+    },
+    {
+      "source": "rockett-st-george",
+      "title": "Fabulous Antique Gold Whale Ornament/Ashtray",
+      "reason": "excluded by keyword 'tray'"
     },
     {
       "source": "jonathan-adler",
@@ -31,509 +69,187 @@
     },
     {
       "source": "jonathan-adler",
-      "title": "Acrylic Bird Pedestal Bowl",
+      "title": "Acrylic Bird Bowl",
       "reason": "excluded by keyword 'bowl'"
     },
     {
-      "source": "jonathan-adler",
-      "title": "Xanax Pill Box",
-      "reason": "excluded by keyword 'box'"
+      "source": "leaf-envy",
+      "title": "Hard to Kill Bundle",
+      "reason": "excluded by keyword 'bundle'"
     },
     {
-      "source": "jonathan-adler",
-      "title": "Ambien Pill Box",
-      "reason": "excluded by keyword 'box'"
+      "source": "beards-daisies",
+      "title": "3 Months of Houseplants Bundle",
+      "reason": "excluded by keyword 'bundle'"
     },
     {
-      "source": "jonathan-adler",
-      "title": "Prozac Pill Box",
-      "reason": "excluded by keyword 'box'"
+      "source": "beards-daisies",
+      "title": "6 Months of Houseplants Bundle",
+      "reason": "excluded by keyword 'bundle'"
     },
     {
-      "source": "jonathan-adler",
-      "title": "Adderall Pill Box",
-      "reason": "excluded by keyword 'box'"
+      "source": "beards-daisies",
+      "title": "A Year of Houseplants Bundle",
+      "reason": "excluded by keyword 'bundle'"
     },
     {
-      "source": "jonathan-adler",
-      "title": "Brass Elephant Ring Bowl",
-      "reason": "excluded by keyword 'bowl'"
+      "source": "beards-daisies",
+      "title": "Air Purifying Bundle",
+      "reason": "excluded by keyword 'bundle'"
     },
     {
-      "source": "jonathan-adler",
-      "title": "Brass Dachshund Ring Bowl",
-      "reason": "excluded by keyword 'bowl'"
+      "source": "beards-daisies",
+      "title": "Air Purifying Pair",
+      "reason": "excluded by keyword 'bundle'"
     },
     {
-      "source": "jonathan-adler",
-      "title": "Jacques Small Tray",
-      "reason": "excluded by keyword 'tray'"
+      "source": "beards-daisies",
+      "title": "Artificial Agave Plant",
+      "reason": "excluded by keyword 'artificial'"
     },
     {
-      "source": "jonathan-adler",
-      "title": "Oscar Medium Bowl",
-      "reason": "excluded by keyword 'bowl'"
+      "source": "beards-daisies",
+      "title": "Artificial Alocasia Colocasia",
+      "reason": "excluded by keyword 'artificial'"
     },
     {
-      "source": "jonathan-adler",
-      "title": "Oscar Small Bowl",
-      "reason": "excluded by keyword 'bowl'"
+      "source": "beards-daisies",
+      "title": "Artificial Alocasia Frydek",
+      "reason": "excluded by keyword 'artificial'"
     },
     {
-      "source": "jonathan-adler",
-      "title": "Jacques Round Tray",
-      "reason": "excluded by keyword 'tray'"
+      "source": "beards-daisies",
+      "title": "Artificial Alocasia Polly",
+      "reason": "excluded by keyword 'artificial'"
     },
     {
-      "source": "jonathan-adler",
-      "title": "Brass Hand Bowl",
-      "reason": "excluded by keyword 'bowl'"
+      "source": "beards-daisies",
+      "title": "Artificial Alocasia Zebrina",
+      "reason": "excluded by keyword 'artificial'"
     },
     {
-      "source": "jonathan-adler",
-      "title": "Brass Turtle Box",
-      "reason": "excluded by keyword 'box'"
+      "source": "beards-daisies",
+      "title": "Artificial Aloe Vera",
+      "reason": "excluded by keyword 'artificial'"
     },
     {
-      "source": "jonathan-adler",
-      "title": "Oscar Large Bowl",
-      "reason": "excluded by keyword 'bowl'"
+      "source": "beards-daisies",
+      "title": "Artificial Anthurium",
+      "reason": "excluded by keyword 'artificial'"
     },
     {
-      "source": "jonathan-adler",
-      "title": "Oscar Amethyst Bowl",
-      "reason": "excluded by keyword 'bowl'"
+      "source": "beards-daisies",
+      "title": "Artificial Areca Palm (UV protected)",
+      "reason": "excluded by keyword 'artificial'"
     },
     {
-      "source": "jonathan-adler",
-      "title": "Oscar Lavender Bowl",
-      "reason": "excluded by keyword 'bowl'"
+      "source": "beards-daisies",
+      "title": "Artificial Asparagus Hanging",
+      "reason": "excluded by keyword 'artificial'"
     },
     {
-      "source": "jonathan-adler",
-      "title": "Brass Elephant Box",
-      "reason": "excluded by keyword 'box'"
+      "source": "beards-daisies",
+      "title": "Artificial Aspidistra",
+      "reason": "excluded by keyword 'artificial'"
     },
     {
-      "source": "jonathan-adler",
-      "title": "Brass Frog Bowl",
-      "reason": "excluded by keyword 'bowl'"
+      "source": "beards-daisies",
+      "title": "Artificial Azalea & Balcony Pot",
+      "reason": "excluded by keyword 'artificial'"
     },
     {
-      "source": "jonathan-adler",
-      "title": "Oscar Long Bowl",
-      "reason": "excluded by keyword 'bowl'"
+      "source": "beards-daisies",
+      "title": "Artificial Azalea & Grey Pot",
+      "reason": "excluded by keyword 'artificial'"
     },
     {
-      "source": "jonathan-adler",
-      "title": "Brass Mushroom Box",
-      "reason": "excluded by keyword 'box'"
+      "source": "beards-daisies",
+      "title": "Artificial Bamboo",
+      "reason": "excluded by keyword 'artificial'"
     },
     {
-      "source": "jonathan-adler",
-      "title": "Mr. & Mrs. Muse Place Card Holder Set",
-      "reason": "excluded by keyword 'holder'"
+      "source": "beards-daisies",
+      "title": "Artificial Bamboo Burgundy",
+      "reason": "excluded by keyword 'artificial'"
     },
     {
-      "source": "jonathan-adler",
-      "title": "Fontana Box",
-      "reason": "excluded by keyword 'box'"
+      "source": "beards-daisies",
+      "title": "Artificial Bamboo Hanging",
+      "reason": "excluded by keyword 'artificial'"
     },
     {
-      "source": "jonathan-adler",
-      "title": "Brass Fish Tray",
-      "reason": "excluded by keyword 'tray'"
+      "source": "beards-daisies",
+      "title": "Artificial Bamboo Palm",
+      "reason": "excluded by keyword 'artificial'"
     },
     {
-      "source": "jonathan-adler",
-      "title": "Brass Clam Shell Tray",
-      "reason": "excluded by keyword 'tray'"
+      "source": "beards-daisies",
+      "title": "Artificial Banana Tree",
+      "reason": "excluded by keyword 'artificial'"
     },
     {
-      "source": "jonathan-adler",
-      "title": "Brass Goldfish Box",
-      "reason": "excluded by keyword 'box'"
+      "source": "beards-daisies",
+      "title": "Artificial Begonia Maculata",
+      "reason": "excluded by keyword 'artificial'"
     },
     {
-      "source": "jonathan-adler",
-      "title": "Brass Snail Box",
-      "reason": "excluded by keyword 'box'"
+      "source": "beards-daisies",
+      "title": "Artificial Bestseller Bundle",
+      "reason": "excluded by keyword 'artificial'"
     },
     {
-      "source": "jonathan-adler",
-      "title": "Oscar Accent Tray",
-      "reason": "excluded by keyword 'tray'"
+      "source": "beards-daisies",
+      "title": "Artificial Bestseller Pair",
+      "reason": "excluded by keyword 'artificial'"
     },
     {
-      "source": "jonathan-adler",
-      "title": "Globo Medium Onyx Box",
-      "reason": "excluded by keyword 'box'"
+      "source": "houseplant-co",
+      "title": "Swiss Cheese Plant",
+      "reason": "excluded by keyword 'plant pot'"
     },
     {
-      "source": "jonathan-adler",
-      "title": "Globo Small Onyx Box",
-      "reason": "excluded by keyword 'box'"
+      "source": "houseplant-co",
+      "title": "Prayer Plant | Lemon Lime | Rare Plant",
+      "reason": "excluded by keyword 'plant pot'"
     },
     {
-      "source": "jonathan-adler",
-      "title": "Globo Large Onyx Box",
-      "reason": "excluded by keyword 'box'"
+      "source": "houseplant-co",
+      "title": "ZZ Plant",
+      "reason": "excluded by keyword 'plant pot'"
     },
     {
-      "source": "the-sill",
-      "title": "Leaf Care Spray",
-      "reason": "excluded by keyword 'plant care'"
+      "source": "houseplant-co",
+      "title": "Chinese Money Plant",
+      "reason": "excluded by keyword 'plant pot'"
     },
     {
-      "source": "the-sill",
-      "title": "Monstera Thai Constellation",
-      "reason": "excluded by keyword 'planter'"
+      "source": "houseplant-co",
+      "title": "Swiss Cheese Plant",
+      "reason": "excluded by keyword 'plant pot'"
     },
     {
-      "source": "the-sill",
-      "title": "Succulent Assorted",
-      "reason": "description too short (0 chars)"
+      "source": "houseplant-co",
+      "title": "Prayer Plant | Lemon Lime | Rare Plant",
+      "reason": "excluded by keyword 'plant pot'"
     },
     {
-      "source": "the-sill",
-      "title": "Leaf Care Spray",
-      "reason": "excluded by keyword 'plant care'"
+      "source": "houseplant-co",
+      "title": "ZZ Plant",
+      "reason": "excluded by keyword 'plant pot'"
     },
     {
-      "source": "the-sill",
-      "title": "Monstera Thai Constellation",
-      "reason": "excluded by keyword 'planter'"
-    },
-    {
-      "source": "the-sill",
-      "title": "Succulent Assorted",
-      "reason": "description too short (0 chars)"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "'Autumn' Fern - 4\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Peperomia 'Ginny' - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Hoya Carnosa 'Tricolor' - 6\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Hoya Carnosa 'Tricolor' - 4\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Hoya Carnosa 'Chelsea' - 6\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Hoya Carnosa 'Chelsea' - 4\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Hoya Carnosa - 4\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Snake Plant Cylindrica - 4\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Snake Plant Moonshine - 6\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Snake Plant Moonshine - 4\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Snake Plant Black Robusta - 4\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Snake Plant Gold Hahnii - 4\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Scindapsus pictus 'Exotica' - 4\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Scindapsus pictus 'Exotica' - 6\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Chinese Evergreen 'Silver Bay' - 6\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Chinese Evergreen 'Silver Bay' - 4\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Chinese Evergreen 'Lady Valentine' - 4\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Alocasia Polly 'African Mask' - 6\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "English Ivy Gold Child - 6\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Alocasia Polly 'African Mask' - 4\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "English Ivy Gold Child - 4\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Ficus Elastica 'Tineke' - 4\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Ficus Elastica 'Ruby Pink' - 6\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Ficus Elastica 'Ruby Pink' - 4\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Ficus Elastica 'Burgundy' - 6\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Ficus Elastica 'Burgundy' - 4\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Dracaena 'Janet Craig' - 6\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Peperomia 'Rana Verde' - 4\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Dracaena 'Janet Craig' - 4\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Dracaena 'Warneckii White Jewel' - 6\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Dracaena 'Warneckii White Jewel' - 4\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Philodendron 'Congo Green' - 6\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Philodendron 'Congo Rojo' - 6\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Philodendron 'Congo Green' - 4\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Philodendron 'Congo Rojo' - 4\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Philodendron 'Neon' - 6\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Philodendron 'Brasil' - 6\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Philodendron 'Neon' - 4\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Philodendron 'Brasil' - 4\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Philodendron 'Moonlight' - 6\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Philodendron 'Moonlight' - 4\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Philodendron 'Birkin' - 6\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Philodendron 'Birkin' - 4\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Calathea Rufibarba 'Furry Feather' - 6\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Calathea Rufibarba 'Furry Feather' - 4\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Calathea Concinna 'Freddie' - 6\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Calathea Concinna 'Freddie' - 4\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Calathea 'White Fusion' - 6\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Calathea 'White Fusion' - 4\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Calathea 'Makoyana' - 6\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Calathea 'Makoyana' - 4\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Calathea 'Dottie' - 6\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Calathea 'Beauty Star' - 6\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Calathea 'Dottie' - 4\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Calathea 'Beauty Star' - 4\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Fern 'Kangaroo Paw' - 6\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Fern 'Kangaroo Paw' - 4\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Austral Gem Fern - 4\" Pot - NURSERY POT ONLY",
-      "reason": "excluded by keyword 'pot only'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Best Value Succulents Bulk Pack (25-100 Plants, 2\" Pots)",
-      "reason": "excluded by keyword 'pack'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Trailing & Strings Succulents Pack (6-12 Plants, 2\" Pots)",
-      "reason": "excluded by keyword 'pack'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "'Gift-Worthy' Succulent Pack",
-      "reason": "excluded by keyword 'pack'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Cactus Pack (6-12 Plants, 2\" Pots)",
-      "reason": "excluded by keyword 'pack'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Succulent Cuttings Variety Pack (10-50 Plants, 2-3\")",
-      "reason": "excluded by keyword 'pack'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Crassula & Jade Succulents Pack (6-12 Plants, 2\" Pots)",
-      "reason": "excluded by keyword 'pack'"
-    },
-    {
-      "source": "leaf-clay",
-      "title": "Easy Indoor Succulents Pack (6-20 Varieties, 2\" Pots)",
-      "reason": "excluded by keyword 'pack'"
+      "source": "houseplant-co",
+      "title": "Chinese Money Plant",
+      "reason": "excluded by keyword 'plant pot'"
     }
   ],
-  "validation_failures": []
+  "validation_failures": [
+    {
+      "id": "jonathan-adler-6d4fc34666",
+      "sourceURL": "https://uk.jonathanadler.com/products/glass-menagerie-fox",
+      "reasons": [
+        "sourceURL unreachable: HTTP 404"
+      ]
+    }
+  ]
 }
