@@ -1,8 +1,8 @@
 {
-  "total_items": 892,
+  "total_items": 890,
   "per_category": {
     "paintings": 135,
-    "plants": 146,
+    "plants": 144,
     "posters": 369,
     "sculptures": 76,
     "wall_decorations": 166
@@ -11,10 +11,10 @@
     "Abstract House": 80,
     "Olivia's": 50,
     "Partnership Editions": 60,
-    "Beards & Daisies": 17,
+    "Beards & Daisies": 16,
     "Conservatory Archives": 40,
     "House Plant": 36,
-    "Leaf Envy": 53,
+    "Leaf Envy": 52,
     "Drool Art": 75,
     "Jealous Gallery": 40,
     "The Poster Club": 105,
@@ -250,6 +250,11 @@
     {
       "source": "beards-daisies",
       "title": "Artificial Bonsai & Pot",
+      "reason": "excluded by keyword 'artificial'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "Artificial Boston Fern",
       "reason": "excluded by keyword 'artificial'"
     },
     {
