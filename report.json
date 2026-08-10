@@ -1,27 +1,27 @@
 {
-  "total_items": 890,
+  "total_items": 884,
   "per_category": {
     "paintings": 135,
-    "plants": 144,
+    "plants": 139,
     "posters": 369,
     "sculptures": 76,
-    "wall_decorations": 166
+    "wall_decorations": 165
   },
   "per_vendor": {
     "Abstract House": 80,
     "Olivia's": 50,
     "Partnership Editions": 60,
-    "Beards & Daisies": 16,
+    "Beards & Daisies": 15,
     "Conservatory Archives": 40,
     "House Plant": 36,
-    "Leaf Envy": 52,
+    "Leaf Envy": 48,
     "Drool Art": 75,
     "Jealous Gallery": 40,
     "The Poster Club": 105,
     "Project Nord": 75,
     "PSTR Studio": 74,
     "Jonathan Adler UK": 40,
-    "Rockett St George": 87,
+    "Rockett St George": 86,
     "Cult Furniture": 50,
     "Nkuku": 10
   },
@@ -69,6 +69,11 @@
     },
     {
       "source": "rockett-st-george",
+      "title": "Oops I Did It Again...Framed Neon Wall Light - Available in Two Options",
+      "reason": "excluded by keyword 'light'"
+    },
+    {
+      "source": "rockett-st-george",
       "title": "Fabulous Antique Gold Whale Ornament/Ashtray",
       "reason": "excluded by keyword 'tray'"
     },
@@ -90,6 +95,11 @@
     {
       "source": "leaf-envy",
       "title": "Hard to Kill Tall Bundle",
+      "reason": "excluded by keyword 'bundle'"
+    },
+    {
+      "source": "leaf-envy",
+      "title": "Air Purifying Bundle",
       "reason": "excluded by keyword 'bundle'"
     },
     {
@@ -120,11 +130,6 @@
     {
       "source": "beards-daisies",
       "title": "Artificial Agave Plant",
-      "reason": "excluded by keyword 'artificial'"
-    },
-    {
-      "source": "beards-daisies",
-      "title": "Artificial Alocasia Colocasia",
       "reason": "excluded by keyword 'artificial'"
     },
     {
@@ -260,6 +265,16 @@
     {
       "source": "beards-daisies",
       "title": "Artificial Boston Fern",
+      "reason": "excluded by keyword 'artificial'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "Artificial Boxwood Hanging",
+      "reason": "excluded by keyword 'artificial'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "Artificial Burgundy Orchid & pot",
       "reason": "excluded by keyword 'artificial'"
     },
     {
