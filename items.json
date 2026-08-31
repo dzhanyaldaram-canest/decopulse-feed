@@ -2376,21 +2376,6 @@
     "category": "plants"
   },
   {
-    "id": "beards-daisies-daf6eea63f",
-    "name": "Anthracite Sereh Pot 25cm",
-    "description": "Show your plant off in style with this grey statement pot from Elho’s Sereh collection. Inspired by gently swaying grass, its textured finish brings a soft, natural feel to any indoor or outdoor space while remaining lightweight and practical. Designed to handle every season, this durable pot is frost-resistant and colour-fast, keeping its look year round. Suitable for indoor and outdoor use…",
-    "price": 21.0,
-    "vendor": "Beards & Daisies",
-    "sourceURL": "https://beardsanddaisies.co.uk/products/anthracite-sereh-pot-25cm",
-    "imageURL": "https://cdn.shopify.com/s/files/1/0056/8970/4482/files/Sereh_Anthracite_25cm_Pot.jpg?v=1776417914&width=900",
-    "imageURLs": [
-      "https://cdn.shopify.com/s/files/1/0056/8970/4482/files/Sereh_Anthracite_25cm_Pot.jpg?v=1776417914&width=900",
-      "https://cdn.shopify.com/s/files/1/0056/8970/4482/files/SerehAnthracite25cmCloseupPot.jpg?v=1776417914&width=900",
-      "https://cdn.shopify.com/s/files/1/0056/8970/4482/files/New_Box_Shot_Doorway_2026_263eb721-a177-41c5-b140-b094bf7a8ffd.jpg?v=1776426787&width=900"
-    ],
-    "category": "plants"
-  },
-  {
     "id": "beards-daisies-ef3d5b17b8",
     "name": "African Fig",
     "description": "African Fig - Ficus Cyathistipula The Ficus Cyathistipula, more commonly known as the Fig Tree is a well-loved plant due to it's fast-growing tendencies - it's also incredibly easy to care for. If you like to feel rewarded by your hard work plant-parenting, then this is the perfect plant for you! As it's name suggests, it originates in Africa, where it can be found amongst the dense forest…",
@@ -3662,20 +3647,6 @@
     "category": "plants"
   },
   {
-    "id": "leaf-envy-0120c83b25",
-    "name": "Bamboo Orchid",
-    "description": "This tall, elegant houseplant is a true beauty. The Bamboo Orchid features the delicate, well-loved flowers of the orchid as well as the tall, thin stems of the bamboo plant. What’s not to love? Native to Asia, where this unusual orchid grows on the rocks and trees, for many years it’s actually been used in traditional Chinese medicine. A striking houseplant, which will look beautiful in any…",
-    "price": 24.0,
-    "vendor": "Leaf Envy",
-    "sourceURL": "https://leafenvy.co.uk/products/bamboo-orchid",
-    "imageURL": "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/Bamboo_Orchid_Dendrobium-120.jpg?v=1751895124&width=900",
-    "imageURLs": [
-      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/Bamboo_Orchid_Dendrobium-120.jpg?v=1751895124&width=900",
-      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/BambooOrchidDendrobium-120.jpg?v=1751895124&width=900"
-    ],
-    "category": "plants"
-  },
-  {
     "id": "leaf-envy-03d864f772",
     "name": "Cowboy Cactus",
     "description": "Cowboy Cactus - Opuntia Rubescens Consolea The quirky Road Kill Cactus is exactly as you might imagine from its slightly amusing name - the iconic cactus, but just a little flatter! This tall cactus is a real statement plant, with its flat fronds and bumpy texture, this stylish plant looks great paired with a colourful pot to really let it steal the show. Decorative pot not included.",
@@ -3686,6 +3657,20 @@
     "imageURLs": [
       "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/OpuntiaConsoleaCowboyCactus-207.jpg?v=1751897343&width=900",
       "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/OpuntiaConsoleaCowboyCactus-207_08867a9f-0226-4099-b872-b5d148c4bd15.jpg?v=1751897361&width=900"
+    ],
+    "category": "plants"
+  },
+  {
+    "id": "leaf-envy-045789bc98",
+    "name": "Schefflera on Lava",
+    "description": "Schefflera on Lava - Schefflera Arboricola Have you ever owned a plant that lives on its own rock? We didn’t think so! Our Schefflera on Lava sits on its very own rock - impressive, right? Not only is this tiny tree an absolute bucket list plant to own for any plant collector, but it's also incredibly easy to care for. Make sure you sit your Schefflera in a spot with plenty of bright but indirect…",
+    "price": 30.4,
+    "vendor": "Leaf Envy",
+    "sourceURL": "https://leafenvy.co.uk/products/schefflera-on-lava",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/ScheffleraonLava-479_2cf83d91-4407-4610-a936-35491990c278.jpg?v=1751896041&width=900",
+    "imageURLs": [
+      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/ScheffleraonLava-479_2cf83d91-4407-4610-a936-35491990c278.jpg?v=1751896041&width=900",
+      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/ScheffleraonLava-479.jpg?v=1751896040&width=900"
     ],
     "category": "plants"
   },
@@ -3724,20 +3709,6 @@
     "category": "plants"
   },
   {
-    "id": "leaf-envy-12425160b0",
-    "name": "Tradescantia Nanouk",
-    "description": "Tradescantia Nanouk In plant years, the Tradescantia Nanouk is practically a baby! Dating back to just 2012, when the plant was first developed in the Netherlands - a purposely engineered result of the cross-pollination of two Tradescantia albiflora seedlings. But you'll discover it's parent plant, part of the Commelinaceae family, is native to Central & South America, as well as Mexico. This…",
-    "price": 14.4,
-    "vendor": "Leaf Envy",
-    "sourceURL": "https://leafenvy.co.uk/products/pink-tradescantia-nanouk",
-    "imageURL": "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/TradescantiaNanouk-488_9c870e72-327b-4cc1-a6d9-b7d9308b9f85.jpg?v=1751895521&width=900",
-    "imageURLs": [
-      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/TradescantiaNanouk-488_9c870e72-327b-4cc1-a6d9-b7d9308b9f85.jpg?v=1751895521&width=900",
-      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/TradescantiaNanouk-488.jpg?v=1751895521&width=900"
-    ],
-    "category": "plants"
-  },
-  {
     "id": "leaf-envy-13d1245097",
     "name": "Peace Lily Large",
     "description": "Why you’ll love it This larger Peace Lily makes a calm, elegant statement in your home. It’s easy to care for, copes well in lower light, and clearly lets you know when it needs watering, making it a reassuring choice for busy households. With its broad, glossy leaves and striking white flowers, it adds presence and freshness without feeling fussy. Good to know Peace Lily prefers consistently…",
@@ -3747,6 +3718,23 @@
     "imageURL": "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/Peace_Lily_Large_8e9421af-e5a6-41f4-9b56-33f5a9f36cc0.jpg?v=1766856617&width=900",
     "imageURLs": [
       "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/Peace_Lily_Large_8e9421af-e5a6-41f4-9b56-33f5a9f36cc0.jpg?v=1766856617&width=900"
+    ],
+    "category": "plants"
+  },
+  {
+    "id": "leaf-envy-16cc3d40ce",
+    "name": "Dracaena Fragrans Steudneri",
+    "description": "The Dracaena family are native to Africa, Central America and Asia. They form part of the asparagus family and they get their name from the Greek dracaena meaning female dragon, due to the red resin in its stems that is said to resemble dragon blood. This variety of Dragon Tree originated in the tropics of Africa where it is often used as a decorative outdoor plant. It is fantastic for air…",
+    "price": 28.0,
+    "vendor": "Leaf Envy",
+    "sourceURL": "https://leafenvy.co.uk/products/dracaena-fragrans-steudneri",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/Dracaena_Fragrans_Steudneri_Family.jpg?v=1766872768&width=900",
+    "imageURLs": [
+      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/Dracaena_Fragrans_Steudneri_Family.jpg?v=1766872768&width=900",
+      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/DracaenaSteudneri60cm-021.jpg?v=1766872768&width=900",
+      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/DracaenaSteudneri120cm-019.jpg?v=1766872768&width=900",
+      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/DracaenaSteudneriFamily-017.jpg?v=1766872768&width=900",
+      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/Dracaena_Steudneri_120cm-019_1.jpg?v=1766872768&width=900"
     ],
     "category": "plants"
   },
@@ -3781,6 +3769,23 @@
       "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/HoweaForsterianaP13cmXH30-136.jpg?v=1766855922&width=900",
       "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/HoweaForsterianaP13cmXH30-136_96421af7-429e-4ca4-ba07-d218ce4a2022.jpg?v=1766855922&width=900",
       "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/HoweaForsterianaP17cmH60-009.jpg?v=1766855922&width=900"
+    ],
+    "category": "plants"
+  },
+  {
+    "id": "leaf-envy-2be3bbd660",
+    "name": "Large Rubber Plant",
+    "description": "If you’re looking for a plant that’s easy to live with, the Rubber Plant is a great place to start. It’s known for being low maintenance and happy in lower light, making it a reliable choice for busy homes or rooms that don’t get much sun. Its large, dark green leaves have a natural shine that adds an instant sense of calm and structure to any space. Part of the fig family, Ficus elastica…",
+    "price": 80.0,
+    "vendor": "Leaf Envy",
+    "sourceURL": "https://leafenvy.co.uk/products/large-rubber-plant",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/Large_Rubber_Plant_Black_Concrete.jpg?v=1766536405&width=900",
+    "imageURLs": [
+      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/Large_Rubber_Plant_Black_Concrete.jpg?v=1766536405&width=900",
+      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/Large_Rubber_Plant_Elho_Smooth_Black.jpg?v=1766536405&width=900",
+      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/Large_Rubber_Plant_Elho_Smooth_White.jpg?v=1766536405&width=900",
+      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/Large_Rubber_Plant_Elho_Black_Vibes.jpg?v=1766536405&width=900",
+      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/Large_Rubber_Plant_Elho_Linen_Vibes.jpg?v=1766536405&width=900"
     ],
     "category": "plants"
   },
@@ -3826,6 +3831,20 @@
     "category": "plants"
   },
   {
+    "id": "leaf-envy-3342c414f8",
+    "name": "Philodendron Pink Princess",
+    "description": "Philodendron Pink Princess It’s the pink plant of our dreams – the rare and highly-desired Pink Princess is here. With beautiful, variegated heart-shaped leaves, this Philodendron will be the shining star in your plant collection. You’d be forgiven for thinking that such a Princess would have a list of diva demands, but this pink and green Philo is as chilled as they come. Just keep yours out of…",
+    "price": 24.0,
+    "vendor": "Leaf Envy",
+    "sourceURL": "https://leafenvy.co.uk/products/philodendron-pink-princess-2",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/PhilodendronPinkPrincess-212.jpg?v=1751969741&width=900",
+    "imageURLs": [
+      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/PhilodendronPinkPrincess-212.jpg?v=1751969741&width=900",
+      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/PhilodendronPinkPrincess-212_cc7b3af2-8486-4b6e-bdf2-3cb0d9af865d.jpg?v=1751969746&width=900"
+    ],
+    "category": "plants"
+  },
+  {
     "id": "leaf-envy-34439df14a",
     "name": "Neon Pothos",
     "description": "Why you’ll love it Neon Pothos is a bright, easy-care plant that brings colour to your space without adding extra work. It’s low maintenance, tolerant of lower light, and forgiving if you forget the occasional watering, making it a great choice for busy homes or beginners. Its vivid, lime-green leaves add instant freshness and lift to any room. Good to know This is a resilient trailing plant that…",
@@ -3853,6 +3872,20 @@
     "category": "plants"
   },
   {
+    "id": "leaf-envy-38d0623d36",
+    "name": "Money Tree & Pot",
+    "description": "While we can’t promise it will grow you a fortune, the Money Tree has long been cherished as a symbol of prosperity, harmony, and positive energy. Its signature braided trunk is said to weave good luck into the plant itself, making it a thoughtful gift or an uplifting addition to your own space. Often placed near cash registers in businesses as a charm for success, the Money Tree has an…",
+    "price": 28.8,
+    "vendor": "Leaf Envy",
+    "sourceURL": "https://leafenvy.co.uk/products/money-tree-pot-2",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/Money_tree_sculture_pot.jpg?v=1767701333&width=900",
+    "imageURLs": [
+      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/Money_tree_sculture_pot.jpg?v=1767701333&width=900",
+      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/BD_PACHIRA_CLOSEUP_1000x1100_1083e82e-c80f-4dc4-9e64-8ca6a2fc7f13.jpg?v=1767701333&width=900"
+    ],
+    "category": "plants"
+  },
+  {
     "id": "leaf-envy-3bd218076c",
     "name": "Money Tree",
     "description": "Money Tree - Pachira Aquatica While we can’t guarantee this plant will grow money (we wish!), it’s believed to bring prosperity and positive energy, with good luck said to be woven into its twisted trunks. These beauties make thoughtful gifts or are a lovely treat for yourself. Many businesses place their tree near the cash register for a boost of good fortune. Even if wealth isn’t your main…",
@@ -3866,6 +3899,19 @@
       "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/PachiraAquatica70-232copy.jpg?v=1766757072&width=900",
       "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/PachiraAquatica70-232copy_c4015778-d7f2-4bf1-acf3-7bf1c9afcb1d.jpg?v=1766757072&width=900",
       "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/PachiraPaquatica-228copy.jpg?v=1766757072&width=900"
+    ],
+    "category": "plants"
+  },
+  {
+    "id": "leaf-envy-3d25f2ef26",
+    "name": "Fatsia Japonica",
+    "description": "Why you’ll love it Fatsia Japonica is a bold, leafy houseplant that brings character to your space on a smaller scale. Easy to care for and happy in lower light, it suits a simple, hands-off routine and works well in darker rooms. Its glossy, hand-shaped leaves add structure and interest without taking up much space. Good to know This plant is naturally resilient and prefers consistently moist…",
+    "price": 11.2,
+    "vendor": "Leaf Envy",
+    "sourceURL": "https://leafenvy.co.uk/products/fatsia-japonica",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/Fatsia_Japonica.jpg?v=1766965998&width=900",
+    "imageURLs": [
+      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/Fatsia_Japonica.jpg?v=1766965998&width=900"
     ],
     "category": "plants"
   },
@@ -3982,23 +4028,6 @@
     "category": "plants"
   },
   {
-    "id": "leaf-envy-76733fda8e",
-    "name": "Bamboo Orchid & Pot",
-    "description": "Tall, graceful, and effortlessly refined, the Bamboo Orchid is a plant lover’s dream. Combining the delicate, much-loved blooms of a classic orchid with the slender, architectural stems reminiscent of bamboo, it brings a serene, sculptural beauty to any space. Native to Asia, this unique orchid is found growing on rocks and trees in its natural habitat and has even held a place in traditional…",
-    "price": 36.0,
-    "vendor": "Leaf Envy",
-    "sourceURL": "https://leafenvy.co.uk/products/bamboo-orchid-pot-1",
-    "imageURL": "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/bamboo_orchid_earthenware_pink.jpg?v=1772565093&width=900",
-    "imageURLs": [
-      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/bamboo_orchid_earthenware_pink.jpg?v=1772565093&width=900",
-      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/bamboo_orchid_earthenware_inkyblue.jpg?v=1772565093&width=900",
-      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/bamboo_orchid_earthenware_oyster.jpg?v=1772565093&width=900",
-      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/bamboo_orchid_earthenware_pistachio.jpg?v=1763638081&width=900",
-      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/bamboo_orchid_earthenware_graphite.jpg?v=1763638081&width=900"
-    ],
-    "category": "plants"
-  },
-  {
     "id": "leaf-envy-7a5320b873",
     "name": "Pineapple Plant",
     "description": "Ananas - Pineapple Plant This is a fun houseplant with lovely lush green spiky leaves and a pineapple nestling in the middle! A real talking point. Tempted to take nibble? You could but a tropically grown fruit will be much sweeter! Part of the Bromeliad family, they are native to Brazil but now seen growing in tropical regions across the globe where they are cultivated for their delicious fruit…",
@@ -4022,22 +4051,6 @@
     "imageURL": "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/Calathea_Makoyana_Light.jpg?v=1766963136&width=900",
     "imageURLs": [
       "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/Calathea_Makoyana_Light.jpg?v=1766963136&width=900"
-    ],
-    "category": "plants"
-  },
-  {
-    "id": "leaf-envy-7e86f04abf",
-    "name": "Swiss Cheese Plant & Pot",
-    "description": "The Swiss Cheese Plant is one of the most iconic houseplants of all time — its dramatic, perforated leaves so distinctive that they’ve become a staple in artwork, textiles, and interior design. With its bold, sculptural foliage and lush tropical presence, it brings an instant touch of greenery and modern elegance to any room. Native to the warm, humid rainforests of southern Mexico and Panama…",
-    "price": 50.4,
-    "vendor": "Leaf Envy",
-    "sourceURL": "https://leafenvy.co.uk/products/swiss-cheese-plant-pot",
-    "imageURL": "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/W17SwissCheesegranitecapri.png?v=1764088558&width=900",
-    "imageURLs": [
-      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/W17SwissCheesegranitecapri.png?v=1764088558&width=900",
-      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/Plant_and_pot_masterArtboard133-Copy.jpg?v=1764088575&width=900",
-      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/W17SwissCheesecollgreycapri.png?v=1764088575&width=900",
-      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/W17SwissCheesegreencapri.png?v=1764088575&width=900"
     ],
     "category": "plants"
   },
@@ -4172,6 +4185,19 @@
     "category": "plants"
   },
   {
+    "id": "leaf-envy-aa77c4bbc1",
+    "name": "Marble Queen Pothos",
+    "description": "Why you’ll love it Marble Queen Pothos is an easy-going plant that’s simple to care for and well suited to lower light spaces. It’s forgiving, low maintenance, and happy to grow at its own pace, making it a great choice for busy homes or anyone new to houseplants. Its marbled green and cream leaves add gentle pattern and brightness without feeling overpowering. Good to know This trailing plant is…",
+    "price": 17.6,
+    "vendor": "Leaf Envy",
+    "sourceURL": "https://leafenvy.co.uk/products/marble-queen-pothos",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/Marble_Queen.jpg?v=1766687167&width=900",
+    "imageURLs": [
+      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/Marble_Queen.jpg?v=1766687167&width=900"
+    ],
+    "category": "plants"
+  },
+  {
     "id": "leaf-envy-ae1b2540be",
     "name": "Monstera Deliciosa",
     "description": "Swiss Cheese Plant - Monstera Deliciosa The Swiss Cheese Plant is one of the most iconic houseplants, with its distinctive leaves often featured in patterns and prints. Native to the tropical rainforests of Southern Mexico and Panama, this plant thrives in warm, humid conditions. Its leaves can grow impressively large, adding a bold, tropical touch to any space. Decorative pot not included.",
@@ -4239,23 +4265,6 @@
     "category": "plants"
   },
   {
-    "id": "leaf-envy-c847e8fd40",
-    "name": "Philodendron Pedatum",
-    "description": "Philodendron Pedatum Meet the jungle-lover your home’s been waiting for. The Philodendron pedatum is a botanical showstopper with striking, deeply lobed leaves that only get more dramatic as it matures. It's a climbing variety, so it'll happily make itself at home on its moss pole. Native to South America, this beauty brings bold, tropical vibes while staying low-maintenance - just how we like…",
-    "price": 96.0,
-    "vendor": "Leaf Envy",
-    "sourceURL": "https://leafenvy.co.uk/products/philodendron-pedatum",
-    "imageURL": "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/Artboard2_a109aa00-036a-45da-abf1-b759d357183a.jpg?v=1752766489&width=900",
-    "imageURLs": [
-      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/Artboard2_a109aa00-036a-45da-abf1-b759d357183a.jpg?v=1752766489&width=900",
-      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/PhilodendronPedatum120-003.jpg?v=1752766489&width=900",
-      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/PhilodendronPedatum120-003_ff15bb3c-ab4f-4817-8825-5a492e42fb7b.jpg?v=1752766489&width=900",
-      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/PhilodendronPedatum160-003.jpg?v=1752766489&width=900",
-      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/PhilodendronPedatum160-003_39e873d4-9ca5-4e70-a063-d3d967f539a6.jpg?v=1752766489&width=900"
-    ],
-    "category": "plants"
-  },
-  {
     "id": "leaf-envy-ccf5811acf",
     "name": "ZZ Plant Large",
     "description": "ZZ Plant - Zamioculcas Zamiifolia With its striking dark green, glossy leaves, the ZZ Plant is not only visually appealing but also incredibly low-maintenance. Its smooth, waxy leaves help reflect light, brightening up any room. An excellent air purifier, studies show that the ZZ Plant is effective at removing toxins from the air. Native to eastern Africa, it can be found growing from Kenya to…",
@@ -4282,6 +4291,34 @@
       "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/FicuselasticaRobustaSmall-205_210ed69a-b19a-4b99-a679-157683769ef5.jpg?v=1751962842&width=900",
       "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/RubberPlantMedium-193.jpg?v=1751962842&width=900",
       "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/RubberPlantMedium-193_477d9118-cc0c-4997-b641-d89359a8c342.jpg?v=1751962842&width=900"
+    ],
+    "category": "plants"
+  },
+  {
+    "id": "leaf-envy-d0ffa6439c",
+    "name": "Jade Plant",
+    "description": "Jade Plant - Crassula Ovata With lots of glossy green round leaves, the Jade Plant is a stunning succulent which can brighten up any spot. Otherwise known as the money plant or friendship plant, this houseplant is said to bring good fortune and prosperity to its owner, making it a perfect housewarming gift. Native to southern Africa, the Jade Plant is a slow grower but can reach an impressive 2…",
+    "price": 12.0,
+    "vendor": "Leaf Envy",
+    "sourceURL": "https://leafenvy.co.uk/products/jade-plant",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/Jade-Crassula-299.jpg?v=1751964599&width=900",
+    "imageURLs": [
+      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/Jade-Crassula-299.jpg?v=1751964599&width=900",
+      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/Jade-Crassula-299_32553681-17d8-4451-8ab9-92c135d1c98f.jpg?v=1751964606&width=900"
+    ],
+    "category": "plants"
+  },
+  {
+    "id": "leaf-envy-d3a692ae13",
+    "name": "Vriesea Astrid",
+    "description": "Vriesea Astrid Vriesea Astrid is quite the elegant name and this houseplant certainly lives up to it. It flowers for three to six months of the year, and its blooms are spectacular. There are 250 varieties of Vriesea and this plant has origins in south and central America. It's an epiphyte in its native habitat, which means that despite its tendency to grow on other plants, it doesn't harm them…",
+    "price": 17.6,
+    "vendor": "Leaf Envy",
+    "sourceURL": "https://leafenvy.co.uk/products/vriesea-astrid",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/VrieseaAstrid-461.jpg?v=1751895449&width=900",
+    "imageURLs": [
+      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/VrieseaAstrid-461.jpg?v=1751895449&width=900",
+      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/VrieseaAstrid-461_c501dc84-2450-4652-980a-87b41e31bc7a.jpg?v=1751895455&width=900"
     ],
     "category": "plants"
   },
@@ -4393,7 +4430,7 @@
     "id": "drool-art-05e835e625",
     "name": "Feel it",
     "description": "Antoine Paikert aka Esquive Studio (b. 1996) is a French, Helsinki-based, self-taught multidisciplinary creative. Antoine finds inspiration in the seemingly insignificant human emotions. An exposure to art from his roots in the french Mediterranean enriched through travels, living in Germany, China and Finland has gifted him with a unique vision and take on design.",
-    "price": 40.0,
+    "price": 50.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/feel-it-by-antoine-paikert",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/files/kjbD2X-F5s7yFN50_nlWXy0R3t7MDkKmp0335d9CNsc.jpg?v=1770160361&width=900",
@@ -4410,7 +4447,7 @@
     "id": "drool-art-09e0dd2ca9",
     "name": "Tlalocan 6",
     "description": "\"My artistic process has always been connected with exploring the painting medium through the continuous intertwining of creation and destruction, appearance and disappearance. I am interested in the ways and means with which we build and destroy civilisation, and then reconstruct it in traces of corrosive material with a different perspective and the same admiration. The materials and techniques…",
-    "price": 144.0,
+    "price": 180.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/tlalocan-6-by-aleksandar-bezinovic",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/files/yUD_IJdl4748sJQkqw_kcv4bFh5jzowKrXVhURbPAYE.jpg?v=1770160859&width=900",
@@ -4427,7 +4464,7 @@
     "id": "drool-art-0a876ff4ef",
     "name": "Bleh",
     "description": "Jorge Santos enjoys creating posters that explore his thoughts and ideas about the world. He's always learning new techniques to enhance his perspective on reality and create art that filters his experiences",
-    "price": 28.0,
+    "price": 35.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/bleh-by-jorge-santos",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/products/req-def5179e-0abd-4bdc-8869-4efa8d210eb0.jpg?v=1770161989&width=900",
@@ -4444,7 +4481,7 @@
     "id": "drool-art-0fc64cfde4",
     "name": "Blob",
     "description": "\"Driven by soundscapes and inspired by obscure old sci-fi posters, Henry M. explores a colorful dreamworld, waiting to find its way onto your walls. Expect bright and funky colours, transporting you to other planes of existence!\"",
-    "price": 28.0,
+    "price": 35.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/blob-by-henry-m",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/files/E5AhKcntrj7lbtWXfey5va6h9iX8VikM8pFlt3PgjKM.jpg?v=1770160269&width=900",
@@ -4461,7 +4498,7 @@
     "id": "drool-art-11d345a831",
     "name": "Something is missing",
     "description": "Salome Frenzel is a German freelance multidisciplinary artist and graphic designer and 25 years old. She graduated in graphic design in 2021 and since then she is active on Instagram and other social media platforms. Her style mixes Swiss typography with experimental influences and contemporary art. Salome as a designer not only creates posters, but is also active in editorial, corporate…",
-    "price": 28.0,
+    "price": 21.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/something-is-missing-by-salome-frenzel",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/products/req-001a31fd-a0e3-4428-9409-62506cfd5d14.jpg?v=1770161801&width=900",
@@ -4478,7 +4515,7 @@
     "id": "drool-art-14e95c2849",
     "name": "Comfort Food",
     "description": "Drew Van Dahl was born in a small town in the Netherlands, outside of Amsterdam. Although tucked away and somewhat isolated in the dim corner of northern Europe, it was here that he began to navigate a rich inner dialogue, translating the natural beauty that surrounded him. This dreamy introspection has never failed him. Drew left the idyllic flats of his hometown at 18 and moved to Amsterdam. He…",
-    "price": 64.0,
+    "price": 80.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/comfort-food-by-drew-van-dahl",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/files/iuBvmjbn7URKX6z2-7yCQmrvzq1DgoTR_fLRLHUhWGI.jpg?v=1770160307&width=900",
@@ -4495,7 +4532,7 @@
     "id": "drool-art-1c7dcd79d7",
     "name": "Sea",
     "description": "fresh. fun. frisk. frisk is a design studio focussing on creating fun and playful prints to brighten up your home",
-    "price": 28.0,
+    "price": 21.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/sea-by-mya-jess-ray",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/files/c6ajFIMBUuERZa_w4ygYg8-UejAZAZUiLVGu-coKS8U.jpg?v=1770160636&width=900",
@@ -4512,7 +4549,7 @@
     "id": "drool-art-1d30709b71",
     "name": "Nothing has any importancey",
     "description": "Shapes from language: In the process of transmission, words inevitably suffer some loss, gradually losing their original form due to different rules and restrictions. However, this may not hinder the continuation of a certain poetic essence",
-    "price": 28.0,
+    "price": 35.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/nothing-has-any-importancey-by-cloud-cb",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/products/req-d50e9c8f-9817-4ffe-a479-4c782b7ecbdb.jpg?v=1770162129&width=900",
@@ -4529,7 +4566,7 @@
     "id": "drool-art-219b8357ca",
     "name": "Idol 4",
     "description": "Aleksandar Bezinovic's artistic process intertwines creation and destruction, focusing on how civilisations are built, destroyed, and then reconstructed. He works with various materials such as charcoal, dry pigments, and acrylic paints, expressing a complex admiration for civilisation's traces in his art",
-    "price": 36.8,
+    "price": 46.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/idol-4-by-aleksandar-bezinovic",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/products/req-b6ed8b45-900b-4a4e-a773-9820f1525367.jpg?v=1770746659&width=900",
@@ -4546,7 +4583,7 @@
     "id": "drool-art-2695d47bda",
     "name": "Celestial Moment",
     "description": "Antoine Paikert aka Esquive Studio (b. 1996) is a French, Helsinki-based, self-taught multidisciplinary creative. Antoine finds inspiration in the seemingly insignificant human emotions. An exposure to art from his roots in the french Mediterranean enriched through travels, living in Germany, China and Finland has gifted him with a unique vision and take on design.",
-    "price": 40.0,
+    "price": 50.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/celestial-moment-by-antoine-paikert",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/files/jE8sQSZpcLdldlg_pey4XLGTsUXmz1D6QTFeI-T44HA.jpg?v=1770160287&width=900",
@@ -4563,7 +4600,7 @@
     "id": "drool-art-2ea3bcff6b",
     "name": "Manachopsis",
     "description": "Coveposter's work is focused on translating emotions into digital art using colors and shapes. Their inspiration often draws from music and quotes, using their work to evoke feelings of exploration and creativity in viewers",
-    "price": 28.0,
+    "price": 21.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/manachopsis-by-coveposter",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/files/req-0ad9c37e-56c4-4ea0-bf19-1026bcb2a37d.jpg?v=1770161796&width=900",
@@ -4580,7 +4617,7 @@
     "id": "drool-art-31dcc99a1e",
     "name": "F050123.01",
     "description": "Mya Jess Ray's design studio, frisk, specializes in creating playful prints to invigorate any home. With fresh and fun designs, frisk transforms living spaces.",
-    "price": 32.0,
+    "price": 50.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/f050123-01-by-frisk",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/products/req-4d066f45-a6e9-4c01-829c-ee66d06a18e6.jpg?v=1770161678&width=900",
@@ -4597,7 +4634,7 @@
     "id": "drool-art-3488aa601b",
     "name": "Together",
     "description": "Antoine Paikert is a Helsinki-based, self-taught multidisciplinary creative. His unique vision and take on design are influenced by human emotions and his French Mediterranean roots",
-    "price": 40.0,
+    "price": 30.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/together-by-antoine-paikert",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/files/req-eec1a363-5e0f-4afb-84a8-e944e7d035c2.jpg?v=1770747497&width=900",
@@ -4614,7 +4651,7 @@
     "id": "drool-art-37e191353c",
     "name": "Rien ne va plus",
     "description": "Sara Cristina Moser is based in Berlin with her multidisciplinary studio for visual communication. Her focus is on exploring experimental ways of visual language and generating new aesthetics, always in search of an overarching design and conceptual system. Her work has been exhibited and awarded internationally, including by the Macau Design Award, the Type Directors Club Tokyo and the Biennale…",
-    "price": 28.0,
+    "price": 35.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/rien-ne-va-plus-by-sara-cristina-moser",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/products/req-bd6ad5d9-0626-447c-9697-5812712ce5cc.jpg?v=1770162120&width=900",
@@ -4631,7 +4668,7 @@
     "id": "drool-art-3bfafb6af4",
     "name": "Point of view",
     "description": "\"Driven by soundscapes and inspired by obscure old sci-fi posters, Henry M. explores a colorful dreamworld, waiting to find its way onto your walls. Expect bright and funky colours, transporting you to other planes of existence!\"",
-    "price": 28.0,
+    "price": 21.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/point-of-view-by-henry-m",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/files/VsFGYjzNGTF76cqKquWmjdoAAp3oAix4S1l4jvdStRE.jpg?v=1770160597&width=900",
@@ -4648,7 +4685,7 @@
     "id": "drool-art-41112e3225",
     "name": "What Happened",
     "description": "Antoine Paikert aka Esquive Studio (b. 1996) is a French, Helsinki-based, self-taught multidisciplinary creative. Antoine finds inspiration in the seemingly insignificant human emotions. An exposure to art from his roots in the french Mediterranean enriched through travels, living in Germany, China and Finland has gifted him with a unique vision and take on design.",
-    "price": 40.0,
+    "price": 50.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/what-happened-by-antoine-paikert",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/files/g_RNF6B9XYjLGjYpcSFiC8GOT_jMaEAxwG-jVPcqjs.jpg?v=1770160816&width=900",
@@ -4665,7 +4702,7 @@
     "id": "drool-art-43d55b2f11",
     "name": "Papaver",
     "description": "Rikki Hewitt is an artist and printmaker exploring abstract image-making and natural world interpretations. His approach to image-making swings between minimalism, abstract expressionism, and elements of European folk art",
-    "price": 28.0,
+    "price": 35.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/papaver-by-rikki-hewitt",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/products/req-d9895d86-fe65-41ab-a1c9-19de4a80fe4b.jpg?v=1770745940&width=900",
@@ -4682,7 +4719,7 @@
     "id": "drool-art-454c1b089e",
     "name": "Fantasy",
     "description": "Jasmin Chavez is a graphic designer and visual artist based in Singapore. She retains an ever-growing interest in expressive lettering and typography while her illustrative work captures a wistful soft-glow ambiance through a new lens",
-    "price": 33.6,
+    "price": 25.2,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/fantasy-by-jasmin-chavez",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/products/req-95f522d6-e3fb-49b0-bbd5-c771d2ca0cb1.jpg?v=1770161887&width=900",
@@ -4699,7 +4736,7 @@
     "id": "drool-art-49510c5bf7",
     "name": "Every Dog",
     "description": "Beginning his creative journey in architecture, UK-based artist and designer Alexander Khabbazi now explores form and materiality in two dimensions. His unique process merges physical and digital techniques to form striking, definitive artworks, lending his distinctive style to musicians, record labels, and fashion brands for collaborative releases",
-    "price": 28.0,
+    "price": 35.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/every-dog-by-alexander-khabbazi",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/products/req-4eb0bf98-b787-48ff-a542-614671c6da10.jpg?v=1770162139&width=900",
@@ -4716,7 +4753,7 @@
     "id": "drool-art-4c5c4bf104",
     "name": "Particles of a lost cause",
     "description": "DROOL’s lineup features a carefully curated selection of unique art from independent and emerging artists from around the world. Refresh your wall art with eye-catching design while supporting underrepresented creative talent.",
-    "price": 70.4,
+    "price": 110.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/particles-of-a-lost-cause-by-billy-bagilhole",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/files/Xuw35pDdHuaozBSCNKWnQDaRlm0-32FTZ__hBOortRw.jpg?v=1770160870&width=900",
@@ -4733,7 +4770,7 @@
     "id": "drool-art-4c6d7b63ae",
     "name": "Floating Shapes #4",
     "description": "fresh. fun. frisk. frisk is a design studio focussing on creating fun and playful prints to brighten up your home",
-    "price": 28.0,
+    "price": 35.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/floating-shapes-4-by-mya-jess-ray",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/files/MqGzw3ntwtdJit3aFXxsMIn8GjH_7mrUYE7E22VUGUw.jpg?v=1770160378&width=900",
@@ -4750,7 +4787,7 @@
     "id": "drool-art-525d193509",
     "name": "Bones",
     "description": "Coveposter's work is focused on translating emotions into digital art using colors and shapes. Their inspiration often draws from music and quotes, using their work to evoke feelings of exploration and creativity in viewers",
-    "price": 28.0,
+    "price": 21.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/bones-by-coveposter",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/products/req-5a29059b-a2a5-4d76-ae78-815b7713de19.jpg?v=1770161780&width=900",
@@ -4767,7 +4804,7 @@
     "id": "drool-art-54025e1010",
     "name": "BIRD I",
     "description": "Eamonn O’Boyle is an Irish artist and illustrator based in Amsterdam. He is 6 feet 3 inches tall and the proud father of a ten-year-old boy called Oskar. He is a graduate of the National College of Art & Design Ireland (NCAD) and has exhibited in Ireland, Hong Kong, Japan and the United States. His love of outsider art has been a major influence in his work, which is a mixture of analogue and…",
-    "price": 28.0,
+    "price": 35.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/bird-i-by-eamonn-oboyle",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/files/PQKGHG92Is13JDIrm3I9ZgdArQuJzX-FXuz5KYcGB-4.jpg?v=1770160266&width=900",
@@ -4784,7 +4821,7 @@
     "id": "drool-art-551fb40f6b",
     "name": "Mind Control",
     "description": "Antoine Paikert aka Esquive Studio (b. 1996) is a French, Helsinki-based, self-taught multidisciplinary creative. Antoine finds inspiration in the seemingly insignificant human emotions. An exposure to art from his roots in the french Mediterranean enriched through travels, living in Germany, China and Finland has gifted him with a unique vision and take on design.",
-    "price": 40.0,
+    "price": 30.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/mind-control-by-antoine-paikert",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/files/0XgaEIRoSQtxpoBHtZVf9yn6FByESd64qZqdsM49zeM.jpg?v=1770160531&width=900",
@@ -4801,7 +4838,7 @@
     "id": "drool-art-57aa22961b",
     "name": "Linum",
     "description": "Rikki Hewitt is an artist and printmaker exploring abstract image-making and natural world interpretations. His approach to image-making swings between minimalism, abstract expressionism, and elements of European folk art",
-    "price": 28.0,
+    "price": 35.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/linum-by-rikki-hewitt",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/products/req-65be3c4e-5174-4784-8904-867e9f7e8ca0.jpg?v=1770162088&width=900",
@@ -4818,7 +4855,7 @@
     "id": "drool-art-57afbf1c49",
     "name": "Comet",
     "description": "Todd Pham is a graphic designer based in Vietnam who is passionate about creating artwork that merges Japanese typography with contemporary design techniques. The designer's works are heavily influenced by the simplicity and elegance of monochrome colour schemes, as well as the texture and feel of aged paper",
-    "price": 28.0,
+    "price": 21.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/comet-by-todd-pham",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/products/req-fb6b2d81-f203-471c-96b6-b31b3a51a25a.jpg?v=1770162208&width=900",
@@ -4835,7 +4872,7 @@
     "id": "drool-art-590f1d6198",
     "name": "Oculus Waves",
     "description": "DROOL’s lineup features a carefully curated selection of unique art from independent and emerging artists from around the world. Refresh your wall art with eye-catching design while supporting underrepresented creative talent.",
-    "price": 28.0,
+    "price": 21.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/oculus-waves-by-tristan-miller",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/files/tehVxk2qcX35njDGj3SHhrrBvUr_kMWgLtDwtYH5wlc.jpg?v=1770160563&width=900",
@@ -4852,7 +4889,7 @@
     "id": "drool-art-5bb635b672",
     "name": "d.",
     "description": "Brad Mead is a designer based in Norwich, UK. His work is bold and impactful, with the intention to evoke emotion, thought and action. Everything's been done before, but who's to say we can't do it differently?",
-    "price": 40.0,
+    "price": 30.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/d-by-brad-mead",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/products/req-f3deb711-66fb-4e04-a00a-decb3ebef226.jpg?v=1770161697&width=900",
@@ -4869,7 +4906,7 @@
     "id": "drool-art-5c691704d5",
     "name": "Old feelings",
     "description": "\"In my works I aim to convey my feelings onto a digital artwork with colours and shapes. I like to experiment and explore with open, relatable and positive themes and to create a feeling of exploration, openness and creativity. My inspiration often comes from music – a certain way it makes me feel, or words and quotes from anywhere. I think the colours and shapes I use are a good way to evoke a…",
-    "price": 14.0,
+    "price": 17.5,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/old-feelings-by-coveposter",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/files/oHT0rtVtLkrQCYj72qS6VruZpwmup6Dl10D4Dq0Iakc.jpg?v=1770160944&width=900",
@@ -4884,7 +4921,7 @@
     "id": "drool-art-5f487a78b3",
     "name": "Blur Into You",
     "description": "Edvinas Reika is a Visual Artist and Graphic Designer based in Vilnius, Lithuania. In his work, Edvinas explores the intangible—inner feelings, emotions and the relationship we have with ourselves and with others.",
-    "price": 22.4,
+    "price": 35.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/blur-into-you-by-ed-reika",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/products/req-4d541e71-fe91-4492-be9b-56770601499a.jpg?v=1770162013&width=900",
@@ -4901,7 +4938,7 @@
     "id": "drool-art-6032951e55",
     "name": "Lost cause Lucky",
     "description": "Billy Bagilhole is an artist based in South East London UK. Bagilhole predominantly works through the mediums of painting and tattooing. Often covering canvases with salt and thick paint, he enjoys the technicality within painting, within colour and within the eye of the lens. Bagilhole frequently works through internal gestures and hints of nostalgic representations on abstracted life. Often…",
-    "price": 28.0,
+    "price": 21.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/lost-cause-lucky-by-billy-bagilhole",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/products/req-818dcc71-fbd4-41a9-bc49-6fb18d0c7432.jpg?v=1770162202&width=900",
@@ -4918,7 +4955,7 @@
     "id": "drool-art-6093915bae",
     "name": "Sunny",
     "description": "Tolga Tarhan, an Istanbul-born artist, combines his classical training with his contemporary skills in illustration, animation, and motion design. He's based in New York, creating stunning visual art inspired by his diverse educational background.",
-    "price": 28.0,
+    "price": 35.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/sunny-by-tolga-tarhan",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/products/req-d0aae053-c11b-4e96-8d1d-5a905a03fb69.jpg?v=1770746474&width=900",
@@ -4935,7 +4972,7 @@
     "id": "drool-art-6a765d6411",
     "name": "Support Your Local Record Store",
     "description": "Jérôme Bizien is a French graphic designer based in St. Gallen, Switzerland. Since he’s finished with his Master of Communication Design (HKB) Jérôme had the opportunity to work for institutions, individuals, and companies in both cultural and commercial fields. Jérôme has particularly flourished in the music industry where he had over the years the privilege of working with bands and iconic…",
-    "price": 28.0,
+    "price": 21.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/support-your-local-record-store-by-jerome-bizien",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/products/req-d1d5d798-bde6-4d2c-b427-0412d1d875e1.jpg?v=1770162098&width=900",
@@ -4952,7 +4989,7 @@
     "id": "drool-art-72f20e7e94",
     "name": "Idol 9",
     "description": "Aleksandar Bezinovic's artistic process intertwines creation and destruction, focusing on how civilisations are built, destroyed, and then reconstructed. He works with various materials such as charcoal, dry pigments, and acrylic paints, expressing a complex admiration for civilisation's traces in his art",
-    "price": 36.8,
+    "price": 46.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/idol-9-by-aleksandar-bezinovic",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/products/req-805180df-23c6-41cd-965c-2786f522dcc9.jpg?v=1770746698&width=900",
@@ -4969,7 +5006,7 @@
     "id": "drool-art-760c01744d",
     "name": "Paper Garden I-I",
     "description": "DROOL’s lineup features a carefully curated selection of unique art from independent and emerging artists from around the world. Refresh your wall art with eye-catching design while supporting underrepresented creative talent.",
-    "price": 28.0,
+    "price": 35.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/paper-garden-i-i-by-stell-paper",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/files/BPx4QEHrdXilVg9wPqWA1L2zUYH9u7sooVnJFZwIkrQ.jpg?v=1770160573&width=900",
@@ -4986,7 +5023,7 @@
     "id": "drool-art-76fc4ad60b",
     "name": "Idol 7",
     "description": "Aleksandar Bezinovic's artistic process intertwines creation and destruction, focusing on how civilisations are built, destroyed, and then reconstructed. He works with various materials such as charcoal, dry pigments, and acrylic paints, expressing a complex admiration for civilisation's traces in his art",
-    "price": 36.8,
+    "price": 46.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/idol-7-by-aleksandar-bezinovic",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/products/req-a422c067-a900-4dd7-8cba-d8b5244fcc76.jpg?v=1770746647&width=900",
@@ -5003,7 +5040,7 @@
     "id": "drool-art-8a30eae8ff",
     "name": "Lot Lizards",
     "description": "Each DROOL artist is carefully selected for their unique ability to immerse the viewer in their creation. Whether bright, bold, or muted, each artwork is a statement piece, borne from creativity",
-    "price": 20.0,
+    "price": 25.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/lot-lizards-by-drew-van-dahl",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/products/req-a6d2b74a-afef-468a-a0c9-6ca5ca045720_988a1562-6b2d-4b44-9444-692db79dae50.jpg?v=1770746602&width=900",
@@ -5020,7 +5057,7 @@
     "id": "drool-art-9045c3c2b7",
     "name": "Big Flowers in a Big Vase",
     "description": "Els Jennings is an enthusiastic and passionate multidisciplinary artist specialising in textiles, pottery and painting. She uses an illustrative, multimedia approach that explores a variety of abstract and vibrant imagery, highly influenced by her fascination and appreciation of organic landscapes, architecture and nature. Specialising in digital design, typography and raw materials, Els has…",
-    "price": 28.0,
+    "price": 21.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/big-flowers-in-a-big-vase-by-els-jennings",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/files/p_sCUp9wwwpSBdIv2WyhKxLdRenUgr_0eHI6IB1_icE.jpg?v=1770160264&width=900",
@@ -5036,7 +5073,7 @@
     "id": "drool-art-90a3061226",
     "name": "Inner Worlds",
     "description": "Antoine Paikert is a Helsinki-based, self-taught multidisciplinary creative. His unique vision and take on design are influenced by human emotions and his French Mediterranean roots",
-    "price": 40.0,
+    "price": 30.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/inner-worlds-by-antoine-paikert",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/files/req-e45ab3fa-b05b-4794-a611-a0c1d2c8e7bf.jpg?v=1770747514&width=900",
@@ -5053,7 +5090,7 @@
     "id": "drool-art-9697f6c1da",
     "name": "Life Goes On After 11PM",
     "description": "Maxim Dosca is a Venice-based graphic designer specializing in editorial design, poster design, visual identities, and illustration",
-    "price": 28.0,
+    "price": 21.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/life-goes-on-after-11pm-by-maxim-dosca",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/products/req-5218734a-5236-4dfd-abca-9098f97d2715.jpg?v=1770162168&width=900",
@@ -5070,7 +5107,7 @@
     "id": "drool-art-96f1140004",
     "name": "The Mirror",
     "description": "Tolga Tarhan, an Istanbul-born artist, combines his classical training with his contemporary skills in illustration, animation, and motion design. He's based in New York, creating stunning visual art inspired by his diverse educational background.",
-    "price": 28.0,
+    "price": 21.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/the-mirror-by-tolga-tarhan",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/products/req-fcdb56f1-6111-442c-abb8-ce52783627ba.jpg?v=1770746711&width=900",
@@ -5087,7 +5124,7 @@
     "id": "drool-art-99085db168",
     "name": "Idol 10",
     "description": "Aleksandar Bezinovic's artistic process intertwines creation and destruction, focusing on how civilisations are built, destroyed, and then reconstructed. He works with various materials such as charcoal, dry pigments, and acrylic paints, expressing a complex admiration for civilisation's traces in his art",
-    "price": 80.0,
+    "price": 100.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/idol-10-by-aleksandar-bezinovic",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/products/req-35d31f8c-a31e-4407-becd-4a8cdd103cf0.jpg?v=1770746673&width=900",
@@ -5104,7 +5141,7 @@
     "id": "drool-art-a17ad8b3a0",
     "name": "Mind Maze #2",
     "description": "Lou's artistic style is characterized by a unique fusion of geometric patterns, vivid colors, and thought-provoking text. His work often explores the relationship between visual perception and reality, challenging viewers to see beyond the obvious. This is evident in their \"Mind Maze\" series, which features intricate black and white patterns interspersed with bold, colorful shapes that play…",
-    "price": 28.0,
+    "price": 21.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/mind-maze-2-by-lou-wang",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/files/aylhx82X4AiGaO1ElDKeUQeaW7tSk4cwSR7t9Gx33jY.jpg?v=1770160535&width=900",
@@ -5121,7 +5158,7 @@
     "id": "drool-art-a4c786dec0",
     "name": "Floating Shapes #1",
     "description": "fresh. fun. frisk. frisk is a design studio focussing on creating fun and playful prints to brighten up your home",
-    "price": 28.0,
+    "price": 35.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/floating-shapes-1-by-mya-jess-ray",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/files/b1mRPi5cTdxXAgHZdsgn43Dlv-MlPcXlW1qICbfXenI.jpg?v=1770160374&width=900",
@@ -5138,7 +5175,7 @@
     "id": "drool-art-a5e2d5add8",
     "name": "Mind Maze #1",
     "description": "Lou's artistic style is characterized by a unique fusion of geometric patterns, vivid colors, and thought-provoking text. His work often explores the relationship between visual perception and reality, challenging viewers to see beyond the obvious. This is evident in their \"Mind Maze\" series, which features intricate black and white patterns interspersed with bold, colorful shapes that play…",
-    "price": 28.0,
+    "price": 21.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/mind-maze-1-by-lou-wang",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/files/H4LVOh0v36pWC70GLqMKigOB8vyCS3qzq35F3-C4m1Y.jpg?v=1770160532&width=900",
@@ -5155,7 +5192,7 @@
     "id": "drool-art-ab14fbdff5",
     "name": "SAD",
     "description": "Each DROOL artist is carefully selected for their unique ability to immerse the viewer in their creation. Whether bright, bold, or muted, each artwork is a statement piece, borne from creativity",
-    "price": 22.4,
+    "price": 35.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/sad-by-sven-silk",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/products/req-bd765b6b-e61b-40f9-bc7f-6f91ef2ce2ff.jpg?v=1770161817&width=900",
@@ -5172,7 +5209,7 @@
     "id": "drool-art-ab84f369ae",
     "name": "Anomaly",
     "description": "Todd Pham is a graphic designer based in Vietnam who is passionate about creating artwork that merges Japanese typography with contemporary design techniques. The designer's works are heavily influenced by the simplicity and elegance of monochrome colour schemes, as well as the texture and feel of aged paper",
-    "price": 28.0,
+    "price": 35.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/anomaly2-by-todd-pham",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/products/req-4ffdf433-ec4e-4dd4-aaef-dc1385ea386c.jpg?v=1770162272&width=900",
@@ -5189,7 +5226,7 @@
     "id": "drool-art-b12a7e1480",
     "name": "Gate",
     "description": "Jorge Santos enjoys creating posters that explore his thoughts and ideas about the world. He's always learning new techniques to enhance his perspective on reality and create art that filters his experiences",
-    "price": 28.0,
+    "price": 35.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/gate-by-jorge-santos",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/products/req-241e4133-c024-4bae-a8d4-23923ab5296a.jpg?v=1770161984&width=900",
@@ -5206,7 +5243,7 @@
     "id": "drool-art-b1c8922897",
     "name": "Yes!",
     "description": "\"I enjoy exploring my thoughts and ideas about the world around me through the creation of posters. I am constantly striving to expand my skillset and learn new techniques in order to enhance my perspective on reality. I always try to learn new ways of creating something that can enhance my way of filtering reality\"",
-    "price": 28.0,
+    "price": 35.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/yes-by-jorge-santos",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/files/lodOhywGlvWayykJx6EfXV1Pptz_bdX7eVQtmF3s8p0.jpg?v=1770160829&width=900",
@@ -5223,7 +5260,7 @@
     "id": "drool-art-b2964e4a28",
     "name": "Paper Garden II-I",
     "description": "Stell Colour’s work is characterized by a vibrant use of color, geometric shapes, and abstract forms. Drawing inspiration from both natural and urban environments, Stell creates pieces that explore the relationship between form and color. Their art often features a playful mix of organic and structured elements, creating a dynamic visual balance Stell Colour employs a variety of techniques in…",
-    "price": 28.0,
+    "price": 21.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/paper-garden-ii-i-by-stell-paper",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/files/zcNejBnrn_HlvQRoWWy1LrKbuqeTZU9WbJVmUd0ENJ8.jpg?v=1770160575&width=900",
@@ -5240,7 +5277,7 @@
     "id": "drool-art-b3e1d6a7a9",
     "name": "Moss",
     "description": "fresh. fun. frisk. frisk is a design studio focussing on creating fun and playful prints to brighten up your home",
-    "price": 28.0,
+    "price": 35.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/moss-by-mya-jess-ray",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/files/ehviebuzHHaLg1SQUymSpm9HnmjjE2qU1x58pwY9cJA.jpg?v=1770160544&width=900",
@@ -5257,7 +5294,7 @@
     "id": "drool-art-b7b764e81b",
     "name": "PLEASE DON'T FORGET",
     "description": "GOOD OMEN's designs blend contemporary symbols, bold color palettes, and text into playful, curious, and surreal art pieces",
-    "price": 28.0,
+    "price": 35.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/please-dont-forget-by-good-omen",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/products/req-42ec2350-3e06-4fab-a107-77868bab5462.jpg?v=1770161813&width=900",
@@ -5274,7 +5311,7 @@
     "id": "drool-art-bbdff3323b",
     "name": "Endless",
     "description": "Utsav Verma, an independent graphic designer, focuses on visual communication heavily influenced by typography and illustration. His work blends eclectic aesthetics with design functionality, drawing influence from various subjects such as language, philosophy, art history and psychology",
-    "price": 28.0,
+    "price": 21.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/endless-by-utsav-verma",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/products/req-dddeef6d-4bce-40ed-8efb-f2b57cfffa96.jpg?v=1770745814&width=900",
@@ -5291,7 +5328,7 @@
     "id": "drool-art-c0f0a519b8",
     "name": "Touch",
     "description": "Antoine Paikert aka Esquive Studio (b. 1996) is a French, Helsinki-based, self-taught multidisciplinary creative. Antoine finds inspiration in the seemingly insignificant human emotions. An exposure to art from his roots in the french Mediterranean enriched through travels, living in Germany, China and Finland has gifted him with a unique vision and take on design.",
-    "price": 40.0,
+    "price": 50.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/touch-by-antoine-paikert",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/files/LtZ4Dwz6-HsQElHYSuwcNO8AlB5epzMFMLhaLPKvz8U.jpg?v=1770160755&width=900",
@@ -5308,7 +5345,7 @@
     "id": "drool-art-c543995965",
     "name": "Swirl",
     "description": "\"Driven by soundscapes and inspired by obscure old sci-fi posters, Henry M. explores a colorful dreamworld, waiting to find its way onto your walls. Expect bright and funky colours, transporting you to other planes of existence!\"",
-    "price": 28.0,
+    "price": 35.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/swirl-by-henry-m",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/files/1LcoCqYlwQfgYv4g0xmOQjo5SAU_ry86gEYBiBa6uHs.jpg?v=1770160697&width=900",
@@ -5325,7 +5362,7 @@
     "id": "drool-art-c779b1658b",
     "name": "Ikebana Cuttings",
     "description": "Lauren Doughty is an Illustrator and Artist (born in Singapore, 1991), based in London. Her work draws attention to the natural world, showing appreciation of its links with human wellbeing – using colour, iconography and recurring motifs, informed by her experience of growing up in different countries and cultures, and her half British half Balkan heritage. Influenced by everyday life and…",
-    "price": 28.0,
+    "price": 35.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/ikebana-cuttings-by-lauren-doughty",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/files/3CHKT9cuPVX-owNINXfv2w7gnE89C0h1q3gW4QkK-8E.jpg?v=1770160448&width=900",
@@ -5340,7 +5377,7 @@
     "id": "drool-art-ca23c6ffa7",
     "name": "Paper Garden",
     "description": "Stell Colour’s work is characterized by a vibrant use of color, geometric shapes, and abstract forms. Drawing inspiration from both natural and urban environments, Stell creates pieces that explore the relationship between form and color. Their art often features a playful mix of organic and structured elements, creating a dynamic visual balance Stell Colour employs a variety of techniques in…",
-    "price": 28.0,
+    "price": 21.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/paper-garden-by-stell-paper",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/files/b2cy3zXeZs13CBOaUnWrZZjH_DprxDdvRozeJqTYWIA.jpg?v=1770160571&width=900",
@@ -5357,7 +5394,7 @@
     "id": "drool-art-d027239de3",
     "name": "LEAVES",
     "description": "Eamonn O’Boyle is an Irish artist and illustrator based in Amsterdam. He is 6 feet 3 inches tall and the proud father of a ten-year-old boy called Oskar. He is a graduate of the National College of Art & Design Ireland (NCAD) and has exhibited in Ireland, Hong Kong, Japan and the United States. His love of outsider art has been a major influence in his work, which is a mixture of analogue and…",
-    "price": 28.0,
+    "price": 35.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/leaves-by-eamonn-oboyle",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/files/ALb8fD_u3uBLoMPhT6S8wifKac2b0wWeZJe-1K-vTxk.jpg?v=1770160493&width=900",
@@ -5374,7 +5411,7 @@
     "id": "drool-art-d048ef93e0",
     "name": "Blooming",
     "description": "Antoine Paikert is a Helsinki-based, self-taught multidisciplinary creative. His unique vision and take on design are influenced by human emotions and his French Mediterranean roots",
-    "price": 40.0,
+    "price": 50.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/blooming-by-antoine-paikert",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/files/req-cd6f98be-225a-4ad2-a4a6-2d319601d8c4.jpg?v=1770747485&width=900",
@@ -5391,7 +5428,7 @@
     "id": "drool-art-d24eab93dd",
     "name": "Paper Garden III",
     "description": "Stell Colour’s work is characterized by a vibrant use of color, geometric shapes, and abstract forms. Drawing inspiration from both natural and urban environments, Stell creates pieces that explore the relationship between form and color. Their art often features a playful mix of organic and structured elements, creating a dynamic visual balance Stell Colour employs a variety of techniques in…",
-    "price": 28.0,
+    "price": 35.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/paper-garden-iii-by-stell-paper",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/files/O4e6WOnvvAtclonSnZz3Juw-NGXHMsmusZ7frU4H5AA.jpg?v=1770160576&width=900",
@@ -5408,7 +5445,7 @@
     "id": "drool-art-d39bdfacef",
     "name": "Figure 8",
     "description": "Jasmin Chavez is a graphic designer and visual artist based in Singapore. She retains an ever-growing interest in expressive lettering and typography while her illustrative work captures a wistful soft-glow ambiance through a new lens",
-    "price": 33.6,
+    "price": 42.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/figure-8-by-jasmin-chavez",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/products/req-46a7f9d5-67da-4858-b0b4-aac477483b64.jpg?v=1770746684&width=900",
@@ -5425,7 +5462,7 @@
     "id": "drool-art-d4bf336983",
     "name": "Mouth-to-mouth",
     "description": "Sven is not just a graphic designer and image manipulator; he is a conjurer of emotions, a weaver of stories, and a capturer of raw, unfiltered moments. Sven's inspiration stems from the pulsating heart of Berlin's electrifying nightlife culture. Berlin, with its dichotomy of vibrant daylight and enigmatic nightlife, became the crucible in which Sven forged his artistic identity. The city's…",
-    "price": 28.0,
+    "price": 35.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/mouth-to-mouth-by-sven-silk",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/files/Rp0Y26xidMLrR3CWlACi67PDcdZCiM-l7dyp5vGfaQw.jpg?v=1770160544&width=900",
@@ -5441,7 +5478,7 @@
     "id": "drool-art-d4cbd1c2e8",
     "name": "Soulmates & Strangers",
     "description": "Antoine Paikert aka Esquive Studio (b. 1996) is a French, Helsinki-based, self-taught multidisciplinary creative. Antoine finds inspiration in the seemingly insignificant human emotions. An exposure to art from his roots in the french Mediterranean enriched through travels, living in Germany, China and Finland has gifted him with a unique vision and take on design.",
-    "price": 40.0,
+    "price": 30.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/soulmates-strangers-by-antoine-paikert",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/files/QpNbTG_iKOdtTrkJKuF1AMvdEEAeY4BaXpSR5ChZGos.jpg?v=1770160673&width=900",
@@ -5458,7 +5495,7 @@
     "id": "drool-art-d680bfe44a",
     "name": "JUICY",
     "description": "Nadia Ryder is a photographer based in South East London UK. Her work explores intimacy and connection, often with a painterly quality, achieved through her use of light and colour. Nadia's work has attracted brands such as Harrods, Net-a-Porter and Saks Fifth Avenue, and has been published in Magazines such as Elle UK, Metal and RUSSH",
-    "price": 28.0,
+    "price": 21.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/juicy-by-nadia-ryder",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/files/req-5c020973-c1c1-4fe4-96e4-caf5b304d6f8.jpg?v=1770161674&width=900",
@@ -5475,7 +5512,7 @@
     "id": "drool-art-dae51db9d7",
     "name": "Imagined Flora in Green",
     "description": "Lauren Doughty is an Illustrator and Artist (born in Singapore, 1991), based in London. Her work draws attention to the natural world, showing appreciation of its links with human wellbeing – using colour, iconography and recurring motifs, informed by her experience of growing up in different countries and cultures, and her half British half Balkan heritage. Influenced by everyday life and…",
-    "price": 40.0,
+    "price": 50.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/imagined-flora-in-green-by-lauren-doughty",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/files/zF1zhSY-cZds72Pyri7fOS2xESVzO5lGVInXMxIzafY.jpg?v=1770160451&width=900",
@@ -5490,7 +5527,7 @@
     "id": "drool-art-dd21052049",
     "name": "Paper Garden II",
     "description": "Stell Colour’s work is characterized by a vibrant use of color, geometric shapes, and abstract forms. Drawing inspiration from both natural and urban environments, Stell creates pieces that explore the relationship between form and color. Their art often features a playful mix of organic and structured elements, creating a dynamic visual balance Stell Colour employs a variety of techniques in…",
-    "price": 28.0,
+    "price": 35.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/paper-garden-ii-by-stell-paper",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/files/JjPkeyUbzBjd5hTsoBOYMHtGblcpBLxaAB-af6xLu4o.jpg?v=1770160575&width=900",
@@ -5507,7 +5544,7 @@
     "id": "drool-art-df59a8ab14",
     "name": "Energy",
     "description": "Antoine Paikert aka Esquive Studio (b. 1996) is a French, Helsinki-based, self-taught multidisciplinary creative. Antoine finds inspiration in the seemingly insignificant human emotions. An exposure to art from his roots in the french Mediterranean enriched through travels, living in Germany, China and Finland has gifted him with a unique vision and take on design.",
-    "price": 40.0,
+    "price": 50.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/energy-by-antoine-paikert",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/files/mVdOFDvpBJT1sF-RzdggcfEju34igEa1FNZqRMsyTrs.jpg?v=1770160337&width=900",
@@ -5523,7 +5560,7 @@
     "id": "drool-art-e0520c2aa9",
     "name": "Parallels",
     "description": "\"Driven by soundscapes and inspired by obscure old sci-fi posters, Henry M. explores a colorful dreamworld, waiting to find its way onto your walls. Expect bright and funky colours, transporting you to other planes of existence!\"",
-    "price": 28.0,
+    "price": 21.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/parallels-by-henry-m",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/files/vRWvtJIndN584_X-BUmEK5JtGhi8hg5tnVjjyNBuLjY.jpg?v=1770160578&width=900",
@@ -5540,7 +5577,7 @@
     "id": "drool-art-f1aa6ccb3c",
     "name": "GRID",
     "description": "Sara Cristina Moser is based in Berlin with her multidisciplinary studio for visual communication. Her focus is on exploring experimental ways of visual language and generating new aesthetics, always in search of an overarching design and conceptual system. The studio is working in a variety of cultural, institutional, art and economical fields, as well as on self initiated projects. Her work has…",
-    "price": 28.0,
+    "price": 35.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/grid-by-sara-cristina-moser",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/products/req-10d41a83-2c43-4c39-b10a-3aadd72fd65a.jpg?v=1770162093&width=900",
@@ -5557,7 +5594,7 @@
     "id": "drool-art-f1d56d94f7",
     "name": "Heatwave",
     "description": "\"Driven by soundscapes and inspired by obscure old sci-fi posters, Henry M. explores a colorful dreamworld, waiting to find its way onto your walls. Expect bright and funky colours, transporting you to other planes of existence!\"",
-    "price": 28.0,
+    "price": 21.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/heatwave-by-henry-m",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/files/xXsJK4k-2qwbb9Ls27cI9BzearNtTmR47m3Ru9p7CLs.jpg?v=1770160433&width=900",
@@ -5574,7 +5611,7 @@
     "id": "drool-art-f31752e22a",
     "name": "Music Donut",
     "description": "Maxim Dosca is a Venice-based graphic designer specializing in editorial design, poster design, visual identities, and illustration",
-    "price": 28.0,
+    "price": 21.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/music-donut-by-maxim-dosca",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/products/req-2e0f6e2f-6f7b-44b3-8167-0e65ec0e4197.jpg?v=1770162170&width=900",
@@ -5591,7 +5628,7 @@
     "id": "drool-art-f8071e87a7",
     "name": "IFHY",
     "description": "Jasmin Chavez is a graphic designer and visual artist based in Singapore. She retains an ever-growing interest in expressive lettering and typography while her illustrative work captures a wistful soft-glow ambiance through a new lens",
-    "price": 33.6,
+    "price": 25.2,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/ifhy-by-jasmin-chavez",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/products/req-f8c7457d-bc18-4801-a271-443c4b22a088.jpg?v=1770161885&width=900",
@@ -5608,7 +5645,7 @@
     "id": "drool-art-f9ac8e80cb",
     "name": "Falling Upwards To The Clouds",
     "description": "Antoine Paikert aka Esquive Studio (b. 1996) is a French, Helsinki-based, self-taught multidisciplinary creative. Antoine finds inspiration in the seemingly insignificant human emotions. An exposure to art from his roots in the french Mediterranean enriched through travels, living in Germany, China and Finland has gifted him with a unique vision and take on design.",
-    "price": 40.0,
+    "price": 30.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/falling-upwards-to-the-clouds-by-antoine-paikert-1",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/files/U3PtR1RM7FhGSNcwT4wXwg2pxlCMsujlxB56RDcvRzw.jpg?v=1770160360&width=900",
@@ -5623,7 +5660,7 @@
     "id": "drool-art-fc1f2f4d80",
     "name": "Always looking at you",
     "description": "Jorge Santos enjoys creating posters that explore his thoughts and ideas about the world. He's always learning new techniques to enhance his perspective on reality and create art that filters his experiences",
-    "price": 28.0,
+    "price": 35.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/always-looking-at-you-by-jorge-santos",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/products/req-05a3eccd-5353-4c5e-a682-f1cde090ce3c.jpg?v=1770161986&width=900",
@@ -5640,7 +5677,7 @@
     "id": "drool-art-fd2b33fddf",
     "name": "Evergreen",
     "description": "George Kempster, a graphic designer from Manchester, began sharing his art and design on Instagram at the start of the decade. His posted works are a selection from this period",
-    "price": 22.4,
+    "price": 35.0,
     "vendor": "Drool Art",
     "sourceURL": "https://drool-art.com/products/evergreen-by-george-kempster",
     "imageURL": "https://cdn.shopify.com/s/files/1/0623/5367/0303/products/req-adad6f85-550a-46a7-ad4f-6b7f9a83be7b.jpg?v=1770161861&width=900",
@@ -6450,6 +6487,19 @@
     "category": "posters"
   },
   {
+    "id": "partnership-editions-9a1c710fe2",
+    "name": "Ofrenda 1 (Framed)",
+    "description": "Photopolymer etching 46 x 58 cm framed 2024 Cherry wood with antireflective glass",
+    "price": 595.0,
+    "vendor": "Partnership Editions",
+    "sourceURL": "https://partnershipeditions.com/products/ines-fernandez-de-cordova-ofrenda-1-framed",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0246/2259/6168/files/Ofrenda1.jpg?v=1784105127&width=900",
+    "imageURLs": [
+      "https://cdn.shopify.com/s/files/1/0246/2259/6168/files/Ofrenda1.jpg?v=1784105127&width=900"
+    ],
+    "category": "posters"
+  },
+  {
     "id": "partnership-editions-a28b48d78c",
     "name": "Contra Viento y Marea",
     "description": "Dry point & photopolymer etching 46 x 50 cm 2026 Unframed Limited edition of 5",
@@ -6571,21 +6621,6 @@
     "imageURL": "https://cdn.shopify.com/s/files/1/0246/2259/6168/files/Adayforalay2_4PlatonicBlowSeries.jpg?v=1770301934&width=900",
     "imageURLs": [
       "https://cdn.shopify.com/s/files/1/0246/2259/6168/files/Adayforalay2_4PlatonicBlowSeries.jpg?v=1770301934&width=900"
-    ],
-    "category": "posters"
-  },
-  {
-    "id": "partnership-editions-efcefbdfbb",
-    "name": "Desencadenado (Framed)",
-    "description": "Dry point & monotype 42 x 58,5 cm framed 2026 Beech wood with antireflective glass",
-    "price": 560.0,
-    "vendor": "Partnership Editions",
-    "sourceURL": "https://partnershipeditions.com/products/ines-fernandez-de-cordova-desencadenado-framed",
-    "imageURL": "https://cdn.shopify.com/s/files/1/0246/2259/6168/files/Desencadenado_F.jpg?v=1784104057&width=900",
-    "imageURLs": [
-      "https://cdn.shopify.com/s/files/1/0246/2259/6168/files/Desencadenado_F.jpg?v=1784104057&width=900",
-      "https://cdn.shopify.com/s/files/1/0246/2259/6168/files/framedfadedmonotypesrow_f2249f6b-64f5-4b25-89c1-b8a49ca2fa2e.jpg?v=1778576783&width=900",
-      "https://cdn.shopify.com/s/files/1/0246/2259/6168/files/Desencadenado.jpg?v=1778576778&width=900"
     ],
     "category": "posters"
   },
@@ -11136,6 +11171,23 @@
     "category": "sculptures"
   },
   {
+    "id": "rockett-st-george-63afcd20b3",
+    "name": "White Swallow Bird Ornament",
+    "description": "The White Swallow Bird Ornament is a returning Rockett St George favourite. As a bestseller many years ago and a secret weapon for decorating with personality, we’ve brought this beautiful white bird ornament back from the archive to help update the style spots in your home. With subtle attention to detail, the dainty white ceramic bird can perch on the edge of your lampshade, planter or shelf…",
+    "price": 20.0,
+    "vendor": "Rockett St George",
+    "sourceURL": "https://rockettstgeorge.co.uk/products/white-swallow-bird-ornament",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-White-Swallow-Bird-Ornament-lores-3.jpg?v=1694784161&width=900",
+    "imageURLs": [
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-White-Swallow-Bird-Ornament-lores-3.jpg?v=1694784161&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-White-Swallow-Bird-Ornament-lores-2.jpg?v=1694784161&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-White-Swallow-Bird-Ornament-lores-1.jpg?v=1694784161&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-White-Swallow-Bird-Ornament-lores-7.jpg?v=1691767109&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-White-Swallow-Bird-Ornament-lores-6.jpg?v=1691767108&width=900"
+    ],
+    "category": "sculptures"
+  },
+  {
     "id": "rockett-st-george-6e7edbb35e",
     "name": "Silver Disco Ball",
     "description": "Introducing disco party décor – the OG, the icon, the one that never goes out of style: the Silver Disco Ball. At a perfect 30cm, this classic beauty is here to bring instant sparkle and good vibes to your space. No trends, no fuss – just timeless, light-catching magic that works every single time. It’s bright, shiny and knows exactly what it’s doing. Pop her in the sunlight and watch your room…",
@@ -11404,23 +11456,6 @@
     "category": "sculptures"
   },
   {
-    "id": "rockett-st-george-c5d068f263",
-    "name": "Set Of 4 Black Bird Wall Ornaments",
-    "description": "The Set Of 4 Black Bird Wall Ornaments introduces a beautiful, natural scene to the walls of your home. We are so obsessed with hanging things on our walls that Lucy St George has devised a new name for this wall art style – the wallnament. A gorgeous alternative to traditional wall art, the black bird set brings nature into your home in a modern way and celebrates the ethereal magic of birds in…",
-    "price": 45.0,
-    "vendor": "Rockett St George",
-    "sourceURL": "https://rockettstgeorge.co.uk/products/set-of-4-black-bird-wall-ornaments",
-    "imageURL": "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Set-Of-4-Black-Birds-Wall-Ornaments-lores-1.jpg?v=1689262679&width=900",
-    "imageURLs": [
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Set-Of-4-Black-Birds-Wall-Ornaments-lores-1.jpg?v=1689262679&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Set-Of-4-Black-Birds-Wall-Ornaments-lores-2.jpg?v=1689262678&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Set-Of-4-Black-Birds-Wall-Ornaments-lores-3.jpg?v=1689262679&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Set-Of-4-Black-Birds-Wall-Ornaments-lores-4.jpg?v=1689262678&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Set-Of-4-Black-Birds-Wall-Ornaments-lores-6.jpg?v=1689262679&width=900"
-    ],
-    "category": "sculptures"
-  },
-  {
     "id": "rockett-st-george-d4bc686988",
     "name": "Brushed Gold Faux Sea Shell Ornament",
     "description": "About The Brushed Gold Faux Sea Shell Ornament A beautiful accessory that celebrates the call of the coast, the Brushed Gold Faux Sea Shell Ornament is the perfect piece to take your home styling to the next level. Made from porcelain with a distressed gold finish, the sea shell design measures H20cm x W29cm x D16cm. Please note, the gold shell has an antique look with black flecks in the finish…",
@@ -11438,19 +11473,19 @@
     "category": "sculptures"
   },
   {
-    "id": "rockett-st-george-d523c2fa2e",
-    "name": "Vintage-Style Poison Ornamental Glass Bottle",
-    "description": "<!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--> Say hello to Dr. Graves's Vintage-Style Poison Glass Bottle – the perfect mix of antique charm and dark humour. With its aged label, quirky typography, and just the right amount of “hmm… should I be drinking this?” energy, this glass water bottle is an absolute must-have for anyone with a cheeky sense of style. Use it as a…",
-    "price": 22.0,
+    "id": "rockett-st-george-d9071d6a86",
+    "name": "Vintage-Style Swan Planter",
+    "description": "Graceful, a little bit whimsical, and effortlessly chic – meet the Vintage-Style Swan Planter. Designed in a soft stone grey, this beauty brings a touch of timeless charm to your quirky homeware. With its elegant curved neck and vintage-inspired detailing, it’s the kind of piece that quietly steals the spotlight. Perfect for shelves, windowsills, or as a standout centrepiece, it pairs beautifully…",
+    "price": 55.0,
     "vendor": "Rockett St George",
-    "sourceURL": "https://rockettstgeorge.co.uk/products/vintage-style-poison-ornamental-glass-bottle",
-    "imageURL": "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Vintage-Style-Poison-Ornamental-Glass-Bottle-Halloween-2025-lowres.jpg?v=1756723659&width=900",
+    "sourceURL": "https://rockettstgeorge.co.uk/products/vintage-style-swan-planter",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Vintage-Style-Swan-Planter-lowres-1_bcdf2bb2-21ad-4a69-8fec-6deeeba8dbdf.jpg?v=1777376953&width=900",
     "imageURLs": [
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Vintage-Style-Poison-Ornamental-Glass-Bottle-Halloween-2025-lowres.jpg?v=1756723659&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/Vintage-StylePoisonOrnamentalGlassBottle-1-lowres.jpg?v=1756723659&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/Vintage-StylePoisonOrnamentalGlassBottle-2-lowres.jpg?v=1756723659&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/Vintage-StylePoisonOrnamentalGlassBottle-3-lowres.jpg?v=1756723659&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/Vintage-StylePoisonOrnamentalGlassBottle-4-lowres.jpg?v=1756723659&width=900"
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Vintage-Style-Swan-Planter-lowres-1_bcdf2bb2-21ad-4a69-8fec-6deeeba8dbdf.jpg?v=1777376953&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Vintage-Style-Swan-Planter-lowres-2_bc4b205c-dfe9-46b4-b7b4-21e7ba140f95.jpg?v=1777376953&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Vintage-Style-Swan-Planter-lowres-3_b6711f5e-aac2-4bae-a9c4-309e698c46ac.jpg?v=1777376953&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Vintage-Style-Swan-Planter-lowres-4_b3f16d21-12bd-4749-9fc8-44410a0eb4cf.jpg?v=1777376953&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Vintage-Style-Swan-Planter-lowres-5_a8b91ecb-f4e8-4bc2-9b32-257f87f3e67f.jpg?v=1777376953&width=900"
     ],
     "category": "sculptures"
   },
@@ -11468,6 +11503,23 @@
       "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Large-Mirrored-Star-Wall-Decoration-lores-3.jpg?v=1727956327&width=900",
       "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Large-Mirrored-Star-Wall-Decoration-lores-4.jpg?v=1727956327&width=900",
       "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Large-Mirrored-Star-Wall-Decoration-cutout-lores_82a9a76e-d343-4dd6-a968-e472c9dc3101.jpg?v=1752134675&width=900"
+    ],
+    "category": "sculptures"
+  },
+  {
+    "id": "rockett-st-george-ebc3b41ccf",
+    "name": "Press For Champagne Wall Ornament",
+    "description": "<!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--> If you’ve ever wondered what it would feel like to have Champagne on tap, here’s your answer. In what’s possibly the best idea for a wall ornament ever, this beautifully ornate piece features fronds and frills picked out in gilt, which frame a white centrepiece featuring a golden bell. We’re instructed to ‘Press for…",
+    "price": 35.0,
+    "vendor": "Rockett St George",
+    "sourceURL": "https://rockettstgeorge.co.uk/products/press-for-champagne-wall-ornament",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-press-for-champagne-gold-wall-ornament-lowres.jpg?v=1752839041&width=900",
+    "imageURLs": [
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-press-for-champagne-gold-wall-ornament-lowres.jpg?v=1752839041&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Press-For-Champagne-Wall-Ornament-lowres.jpg?v=1752839041&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-press-for-champagne-gold-sign-lowres.jpg?v=1752839041&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Press-For-Champagne-Wall-Ornament-lowres-2.jpg?v=1752839041&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Press-For-Champagne-Wall-Ornament-lowres-3.jpg?v=1752839041&width=900"
     ],
     "category": "sculptures"
   },
@@ -12626,23 +12678,6 @@
     "category": "wall_decorations"
   },
   {
-    "id": "rockett-st-george-049842aca8",
-    "name": "Set of 12 Antique Green & Gold Convex Framed Mirrors",
-    "description": "<!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--> Elevate your space with our Set of 12 Antique Green & Gold Convex Framed Mirrors, each a masterpiece of elegance. Showcasing a luxurious emerald green hue paired with striking gold rims, these mirrors are a beautiful embodiment of opulence. The set includes a variety of frames – some thin, others thick, and a few distinctive…",
-    "price": 345.0,
-    "vendor": "Rockett St George",
-    "sourceURL": "https://rockettstgeorge.co.uk/products/set-of-12-antique-green-gold-convex-framed-mirrors",
-    "imageURL": "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Set-of-12-Antique-Green-_-Gold-Convex-Framed-Mirrors-lores-1.jpg?v=1735819950&width=900",
-    "imageURLs": [
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Set-of-12-Antique-Green-_-Gold-Convex-Framed-Mirrors-lores-1.jpg?v=1735819950&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Set-of-12-Antique-Green-_-Gold-Convex-Framed-Mirrors-lores-3.jpg?v=1736960211&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Set-of-12-Antique-Green-_-Gold-Convex-Framed-Mirrors-lores-2.jpg?v=1736960211&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Set-of-12-Antique-Green-_-Gold-Convex-Framed-Mirrors-lores-4.jpg?v=1735819950&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Set-of-12-Antique-Green-_-Gold-Convex-Framed-Mirrors-cutout-lores.jpg?v=1735819953&width=900"
-    ],
-    "category": "wall_decorations"
-  },
-  {
     "id": "rockett-st-george-054c4643b5",
     "name": "70s-Inspired Copper Wall Mirror",
     "description": "The 70s-Inspired Copper Wall Mirror is equal parts a practical wall mirror and a statement art piece. Made from two-tone glass, the clear mirror pairs with diagonal stripes of warm copper-tinted mirror to create a fabulous deco feel. The perfect size to display above a mantelpiece or install on the wall - this wall mirror promises an impressive impact in your living room, bedroom or hallway. From…",
@@ -12656,6 +12691,23 @@
       "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-70s-inspired-Copper-Wall-Mirror-lores-3.jpg?v=1750427738&width=900",
       "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-70s-inspired-Copper-Wall-Mirror-lores-4.jpg?v=1750427737&width=900",
       "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-70s-inspired-Copper-Wall-Mirror-lores-5.jpg?v=1750427738&width=900"
+    ],
+    "category": "wall_decorations"
+  },
+  {
+    "id": "rockett-st-george-07679fe8ad",
+    "name": "Vintage-Style Showgirls Wall Art",
+    "description": "<!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--> Cue the spotlight—the Vintage-Inspired Showgirls Wall Art is ready to steal the show! With its distressed finish and warm hues of retro red and off-yellow, this stunning wall art instantly adds a touch of old Hollywood circus glamour to any space. Whether you're sprucing up your home bar or creating a cosy lounge nook, this…",
+    "price": 25.0,
+    "vendor": "Rockett St George",
+    "sourceURL": "https://rockettstgeorge.co.uk/products/vintage-style-showgirls-wall-art",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Vintage-Style-Showgirls-Wall-Art-lores-v2-1.jpg?v=1738687910&width=900",
+    "imageURLs": [
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Vintage-Style-Showgirls-Wall-Art-lores-v2-1.jpg?v=1738687910&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Vintage-Style-Showgirls-Wall-Art-lores.jpg?v=1738687910&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Vintage-Style-Showgirls-Wall-Art-lores-v2-2.jpg?v=1738687910&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Vintage-Style-Showgirls-Wall-Art-lores-2.jpg?v=1738687910&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Vintage-Style-Showgirls-Wall-Art-lores-3.jpg?v=1738687910&width=900"
     ],
     "category": "wall_decorations"
   },
@@ -12806,23 +12858,6 @@
       "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Floral-_-Black-Metal-Display-Shelves-lowres-3.jpg?v=1730126427&width=900",
       "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Floral-_-Black-Metal-Display-Shelves-lowres-4.jpg?v=1730126427&width=900",
       "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Floral-_-Black-Metal-Display-Shelves-lowres-5.jpg?v=1730126427&width=900"
-    ],
-    "category": "wall_decorations"
-  },
-  {
-    "id": "rockett-st-george-409d1b26dd",
-    "name": "Antiqued-Style Metal Heart Hanging Decoration",
-    "description": "<!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--> Ready to fall head over heels? This Antiqued-Style Metal Heart Hanging Decoration is pure decorative joy when it comes to quirky decorative ornaments – with a little bit of vintage allure thrown in for good measure. Radiating with charm, this metal beauty is all about making your space and unusual home accessories feel more…",
-    "price": 30.0,
-    "vendor": "Rockett St George",
-    "sourceURL": "https://rockettstgeorge.co.uk/products/antiqued-style-metal-heart-hanging-decoration",
-    "imageURL": "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Antiqued-Style-Metal-Heart-Hanging-Decoration-lores-1_4e825cc6-71ab-4221-8ade-459d8b1e6c6f.jpg?v=1752134389&width=900",
-    "imageURLs": [
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Antiqued-Style-Metal-Heart-Hanging-Decoration-lores-1_4e825cc6-71ab-4221-8ade-459d8b1e6c6f.jpg?v=1752134389&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Antiqued-Style-Decorations-lifestyle-lores-2_a4cecd1c-80ed-4d68-b3bb-b92800cf920b.jpg?v=1752134389&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Antiqued-Style-Metal-Heart-Hanging-Decoration-lores-2_eff4b99c-0a6d-4939-a77c-c19a1d06d472.jpg?v=1752134389&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Antiqued-Style-Decorations-lifestyle-lores-1_c953bf3a-dd40-4cbb-b506-11c3bdfc75c0.jpg?v=1752134389&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Antiqued-Style-Metal-Heart-Hanging-Decoration-lores-3_79101595-d5c8-4cd4-ac5f-eb71df2495e8.jpg?v=1752134389&width=900"
     ],
     "category": "wall_decorations"
   },
@@ -13010,23 +13045,6 @@
     "category": "wall_decorations"
   },
   {
-    "id": "rockett-st-george-67c52e7e15",
-    "name": "Do Not Use The Toilet When The Train... Hanging Sign",
-    "description": "<!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--> Introducing the Do Not Use The Toilet When The Train… Hanging Sign! This impressive sign is a whimsical and nostalgic addition to your home. The white sign is complete with a smart black border, featuring the amusing warning: ‘Do not use the toilet while the train is standing in the station.’ Creating a welcoming feel of the…",
-    "price": 28.0,
-    "vendor": "Rockett St George",
-    "sourceURL": "https://rockettstgeorge.co.uk/products/do-not-use-the-toilet-when-the-train-hanging-sign",
-    "imageURL": "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Do-Not-Use-The-Toilet-When-The-Train-Hanging-Sign-lowres.jpg?v=1727170864&width=900",
-    "imageURLs": [
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Do-Not-Use-The-Toilet-When-The-Train-Hanging-Sign-lowres.jpg?v=1727170864&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Do-Not-Use-The-Toilet-When-The-Train-Hanging-Sign-lowres-4.jpg?v=1727170864&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Do-Not-Use-The-Toilet-When-The-Train-Hanging-Sign-lowres-2.jpg?v=1727170864&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Do-Not-Use-The-Toilet-When-The-Train-Hanging-Sign-lowres-3.jpg?v=1727170864&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Do-Not-Use-The-Toilet-When-The-Train-Hanging-Sign-lowres-5.jpg?v=1727170864&width=900"
-    ],
-    "category": "wall_decorations"
-  },
-  {
     "id": "rockett-st-george-680e3ac862",
     "name": "Lucky Bitch Decorative Wall Plate",
     "description": "Bring a little charm and a lot of cheek to your wall art décor with our Lucky Bitch Decorative Wall Plate. Featuring a bold black horseshoe with delicate white floral accents, this stylish plate hides a playful twist – the words “Lucky Bitch” pop from the centre in bright pink, adding sass to the superstition, perfect for all your wall décor ideas. It’s the perfect mix of pretty and punchy – a…",
@@ -13111,23 +13129,6 @@
     "category": "wall_decorations"
   },
   {
-    "id": "rockett-st-george-821f24bfab",
-    "name": "Set of 3 Colourful Face Wall Plates",
-    "description": "Who said unusual wall décor had to take itself so seriously? Our Set of 3 Colourful Face Wall Plates is the perfect mix of quirky charm and artistic elegance. Designed to work together to create a playful face on your wall, these decorative plates are guaranteed to bring personality, colour and plenty of compliments to your space. This set includes a beautiful green square plate featuring a…",
-    "price": 38.0,
-    "vendor": "Rockett St George",
-    "sourceURL": "https://rockettstgeorge.co.uk/products/set-of-3-colourful-face-wall-plates",
-    "imageURL": "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Set-of-3-Colourful-Face-Wall-Plates-lore-1.jpg?v=1786958397&width=900",
-    "imageURLs": [
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Set-of-3-Colourful-Face-Wall-Plates-lore-1.jpg?v=1786958397&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Set-of-3-Colourful-Face-Wall-Plates-lore-2.jpg?v=1786958398&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Set-of-3-Colourful-Face-Wall-Plates-lore-3.jpg?v=1786958397&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Set-of-3-Colourful-Face-Wall-Plates-lore-4.jpg?v=1786958397&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Set-of-3-Colourful-Face-Wall-Plates-lore-5.jpg?v=1786958397&width=900"
-    ],
-    "category": "wall_decorations"
-  },
-  {
     "id": "rockett-st-george-8cf01687e2",
     "name": "Ornate Bronze Metal Heart Mirror",
     "description": "A little bit romantic, a little bit dramatic… just how we like it. This ornate mirror is here to bring all the vintage charm to your walls. With its elegant oval shape, rich bronze finish and the most beautiful floral-inspired detailing, it’s already a showstopper… and then there’s the heart cut-out at the centre. The metal mirror sits perfectly within that heart, catching the light and adding a…",
@@ -13141,6 +13142,23 @@
       "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Ornate-Bronze-Metal-Heart-Mirror-lowres-3.jpg?v=1776332630&width=900",
       "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Ornate-Bronze-Metal-Heart-Mirror-lowres-4.jpg?v=1776332630&width=900",
       "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Ornate-Bronze-Metal-Heart-Mirror-lowres-5.jpg?v=1776332630&width=900"
+    ],
+    "category": "wall_decorations"
+  },
+  {
+    "id": "rockett-st-george-94ef5895e2",
+    "name": "Vintage-Style Circus Wall Art",
+    "description": "<!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--> Step right up, the Vintage-Style Circus Hanging Sign is here to dazzle and delight! With its distressed finish and warm tones of off-yellow and retro red, this charming wall art brings all the fun and whimsy of a classic circus straight into your home. Whether you're giving your home bar a playful twist, adding flair to a…",
+    "price": 25.0,
+    "vendor": "Rockett St George",
+    "sourceURL": "https://rockettstgeorge.co.uk/products/vintage-style-circus-wall-art",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Vintage-Style-Circus-Wall-Art-lores-v2-1.jpg?v=1738688089&width=900",
+    "imageURLs": [
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Vintage-Style-Circus-Wall-Art-lores-v2-1.jpg?v=1738688089&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Vintage-Style-Circus-Hanging-Sign-lowres-3.jpg?v=1738688089&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Vintage-Style-Circus-Wall-Art-lores-v2-2.jpg?v=1738688089&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Vintage-Style-Circus-Hanging-Sign-lowres.jpg?v=1738688008&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Vintage-Style-Circus-Hanging-Sign-lowres-2.jpg?v=1738688008&width=900"
     ],
     "category": "wall_decorations"
   },
@@ -13192,6 +13210,23 @@
       "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Black-_-Gold-Sacred-Heart-Hanging-Ornament-lores-3.jpg?v=1696588452&width=900",
       "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Black-_-Gold-Sacred-Heart-Hanging-Ornament-lores-4.jpg?v=1696588451&width=900",
       "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Black-_-Gold-Sacred-Heart-Hanging-Ornament-lores-5.jpg?v=1696588452&width=900"
+    ],
+    "category": "wall_decorations"
+  },
+  {
+    "id": "rockett-st-george-b25a7cf2ec",
+    "name": "Large Rainforest Wall Art",
+    "description": "<!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--> Bring the wild beauty of nature right to your walls with the Large Rainforest Wall Art. This piece is the most dramatic, refreshing and unique version of pictures and art prints. With lush tropical foliage, towering palm trees, misty mountains in the distance, and a graceful heron relaxing by the water, it’s like stepping…",
+    "price": 70.0,
+    "vendor": "Rockett St George",
+    "sourceURL": "https://rockettstgeorge.co.uk/products/large-rainforest-wall-art",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/LargeRainforestWallArt-2-lowres.jpg?v=1744805591&width=900",
+    "imageURLs": [
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/LargeRainforestWallArt-2-lowres.jpg?v=1744805591&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/LargeRainforestWallArt-1-lowres.jpg?v=1744805591&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/LargeRainforestWallArt-3-lowres.jpg?v=1741185786&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/LargeRainforestWallArt-4-lowres.jpg?v=1741185786&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Large-Rainforest-Wall-Art-cutout-lores.jpg?v=1744805591&width=900"
     ],
     "category": "wall_decorations"
   },
@@ -13326,6 +13361,23 @@
       "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Black-Starburst-Traditional-Convex-Mirror-lowres-3.jpg?v=1746615343&width=900",
       "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Black-Starburst-Traditional-Convex-Mirror-lowres-4.jpg?v=1746615343&width=900",
       "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Black-Starburst-Traditional-Convex-Mirror-lowres-5.jpg?v=1746615343&width=900"
+    ],
+    "category": "wall_decorations"
+  },
+  {
+    "id": "rockett-st-george-dbea67b988",
+    "name": "Art Deco Decorative Mirror",
+    "description": "Avert your gaze to the Art Deco Decorative Mirror – bold, glamorous and absolutely not here to blend in. This wall mirror takes its cues from classic Art Deco design – think strong lines, striking shapes and a whole lot of vintage glamour – and turns them into one seriously statement-making mirror. The sculptural silhouette is what makes it. Elegant, dramatic and a little bit extra. It draws the…",
+    "price": 55.0,
+    "vendor": "Rockett St George",
+    "sourceURL": "https://rockettstgeorge.co.uk/products/art-deco-decorative-mirror",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Art-Deco-Decorative-Mirror-lores-1.jpg?v=1772720983&width=900",
+    "imageURLs": [
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Art-Deco-Decorative-Mirror-lores-1.jpg?v=1772720983&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Art-Deco-Decorative-Mirror-lores-2.jpg?v=1772720983&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Art-Deco-Decorative-Mirror-lores-3.jpg?v=1772720983&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Art-Deco-Decorative-Mirror-lores-4.jpg?v=1772720983&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Art-Deco-Decorative-Mirror-lores-5.jpg?v=1772720983&width=900"
     ],
     "category": "wall_decorations"
   },
