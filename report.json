@@ -2,26 +2,26 @@
   "total_items": 832,
   "per_category": {
     "paintings": 135,
-    "plants": 140,
+    "plants": 141,
     "posters": 369,
     "sculptures": 74,
-    "wall_decorations": 114
+    "wall_decorations": 113
   },
   "per_vendor": {
     "Abstract House": 80,
     "Olivia's": 50,
     "Partnership Editions": 60,
-    "Beards & Daisies": 12,
+    "Beards & Daisies": 11,
     "Conservatory Archives": 40,
-    "House Plant": 37,
-    "Leaf Envy": 51,
+    "House Plant": 38,
+    "Leaf Envy": 52,
     "Drool Art": 75,
     "Jealous Gallery": 40,
     "The Poster Club": 105,
     "Project Nord": 75,
     "PSTR Studio": 74,
     "Jonathan Adler UK": 37,
-    "Rockett St George": 86,
+    "Rockett St George": 85,
     "Nkuku": 10
   },
   "thin_categories": [],
@@ -98,6 +98,11 @@
     },
     {
       "source": "beards-daisies",
+      "title": "Air Purifying Pair",
+      "reason": "excluded by keyword 'bundle'"
+    },
+    {
+      "source": "beards-daisies",
       "title": "Artificial African Fig Tree",
       "reason": "excluded by keyword 'artificial'"
     },
@@ -169,11 +174,6 @@
     {
       "source": "beards-daisies",
       "title": "Artificial Bamboo Burgundy",
-      "reason": "excluded by keyword 'artificial'"
-    },
-    {
-      "source": "beards-daisies",
-      "title": "Artificial Bamboo Hanging",
       "reason": "excluded by keyword 'artificial'"
     },
     {
@@ -272,6 +272,11 @@
       "reason": "excluded by keyword 'artificial'"
     },
     {
+      "source": "beards-daisies",
+      "title": "Artificial Cherry Blossom Bunch",
+      "reason": "excluded by keyword 'artificial'"
+    },
+    {
       "source": "houseplant-co",
       "title": "Swiss Cheese Plant",
       "reason": "excluded by keyword 'plant pot'"
@@ -328,8 +333,8 @@
       ]
     },
     {
-      "id": "cult-furniture-c06ea29431",
-      "sourceURL": "https://cultfurniture.com/products/maida-wall-mirror-natural-burl-wood",
+      "id": "cult-furniture-e2819691f8",
+      "sourceURL": "https://cultfurniture.com/products/osaka-wavy-wall-mirror-walnut",
       "reasons": [
         "sourceURL unreachable: HTTP 403"
       ]
@@ -349,8 +354,8 @@
       ]
     },
     {
-      "id": "cult-furniture-e2819691f8",
-      "sourceURL": "https://cultfurniture.com/products/osaka-wavy-wall-mirror-walnut",
+      "id": "cult-furniture-a04d2cab1f",
+      "sourceURL": "https://cultfurniture.com/products/jasper-wall-mirror-high-gloss-burgundy",
       "reasons": [
         "sourceURL unreachable: HTTP 403"
       ]
@@ -358,13 +363,6 @@
     {
       "id": "cult-furniture-b73c8af4dd",
       "sourceURL": "https://cultfurniture.com/products/oxleigh-arch-full-length-mirror-walnut",
-      "reasons": [
-        "sourceURL unreachable: HTTP 403"
-      ]
-    },
-    {
-      "id": "cult-furniture-a04d2cab1f",
-      "sourceURL": "https://cultfurniture.com/products/jasper-wall-mirror-high-gloss-burgundy",
       "reasons": [
         "sourceURL unreachable: HTTP 403"
       ]
@@ -384,22 +382,15 @@
       ]
     },
     {
-      "id": "cult-furniture-3c80593177",
-      "sourceURL": "https://cultfurniture.com/products/gabriel-wall-mirror-brass",
-      "reasons": [
-        "sourceURL unreachable: HTTP 403"
-      ]
-    },
-    {
-      "id": "cult-furniture-1327d49ac7",
-      "sourceURL": "https://cultfurniture.com/products/morris-round-wall-mirror-nude-gloss",
-      "reasons": [
-        "sourceURL unreachable: HTTP 403"
-      ]
-    },
-    {
       "id": "cult-furniture-2c1df0c1cb",
       "sourceURL": "https://cultfurniture.com/products/ashby-full-length-mirror-walnut",
+      "reasons": [
+        "sourceURL unreachable: HTTP 403"
+      ]
+    },
+    {
+      "id": "cult-furniture-c0443fbeea",
+      "sourceURL": "https://cultfurniture.com/products/ridley-wavy-full-length-mirror-walnut",
       "reasons": [
         "sourceURL unreachable: HTTP 403"
       ]
@@ -412,8 +403,64 @@
       ]
     },
     {
-      "id": "cult-furniture-c0443fbeea",
-      "sourceURL": "https://cultfurniture.com/products/ridley-wavy-full-length-mirror-walnut",
+      "id": "cult-furniture-58394b945d",
+      "sourceURL": "https://cultfurniture.com/products/arlon-arch-wall-mirror-black",
+      "reasons": [
+        "sourceURL unreachable: HTTP 403"
+      ]
+    },
+    {
+      "id": "cult-furniture-2586273aa3",
+      "sourceURL": "https://cultfurniture.com/products/herman-wall-mirror-cream",
+      "reasons": [
+        "sourceURL unreachable: HTTP 403"
+      ]
+    },
+    {
+      "id": "cult-furniture-ba18f92c32",
+      "sourceURL": "https://cultfurniture.com/products/kaya-rectangle-full-length-mirror-black",
+      "reasons": [
+        "sourceURL unreachable: HTTP 403"
+      ]
+    },
+    {
+      "id": "cult-furniture-dc66fd91a2",
+      "sourceURL": "https://cultfurniture.com/products/alana-wall-mirror-high-gloss-burgundy",
+      "reasons": [
+        "sourceURL unreachable: HTTP 403"
+      ]
+    },
+    {
+      "id": "cult-furniture-a1d88edba5",
+      "sourceURL": "https://cultfurniture.com/products/spencer-full-length-floor-mirror-sky-blue",
+      "reasons": [
+        "sourceURL unreachable: HTTP 403"
+      ]
+    },
+    {
+      "id": "cult-furniture-3c80593177",
+      "sourceURL": "https://cultfurniture.com/products/gabriel-wall-mirror-brass",
+      "reasons": [
+        "sourceURL unreachable: HTTP 403"
+      ]
+    },
+    {
+      "id": "cult-furniture-d80b7bbad1",
+      "sourceURL": "https://cultfurniture.com/products/lenny-wavy-wall-mirror-high-gloss-burgundy",
+      "reasons": [
+        "sourceURL unreachable: HTTP 403"
+      ]
+    },
+    {
+      "id": "cult-furniture-1327d49ac7",
+      "sourceURL": "https://cultfurniture.com/products/morris-round-wall-mirror-nude-gloss",
+      "reasons": [
+        "sourceURL unreachable: HTTP 403"
+      ]
+    },
+    {
+      "id": "cult-furniture-004239e8c8",
+      "sourceURL": "https://cultfurniture.com/products/alana-wall-mirror-high-gloss-clay-green",
       "reasons": [
         "sourceURL unreachable: HTTP 403"
       ]
@@ -433,57 +480,22 @@
       ]
     },
     {
-      "id": "cult-furniture-58394b945d",
-      "sourceURL": "https://cultfurniture.com/products/arlon-arch-wall-mirror-black",
-      "reasons": [
-        "sourceURL unreachable: HTTP 403"
-      ]
-    },
-    {
-      "id": "cult-furniture-a1d88edba5",
-      "sourceURL": "https://cultfurniture.com/products/spencer-full-length-floor-mirror-sky-blue",
-      "reasons": [
-        "sourceURL unreachable: HTTP 403"
-      ]
-    },
-    {
-      "id": "cult-furniture-ba18f92c32",
-      "sourceURL": "https://cultfurniture.com/products/kaya-rectangle-full-length-mirror-black",
-      "reasons": [
-        "sourceURL unreachable: HTTP 403"
-      ]
-    },
-    {
-      "id": "cult-furniture-2586273aa3",
-      "sourceURL": "https://cultfurniture.com/products/herman-wall-mirror-cream",
-      "reasons": [
-        "sourceURL unreachable: HTTP 403"
-      ]
-    },
-    {
-      "id": "cult-furniture-dc66fd91a2",
-      "sourceURL": "https://cultfurniture.com/products/alana-wall-mirror-high-gloss-burgundy",
-      "reasons": [
-        "sourceURL unreachable: HTTP 403"
-      ]
-    },
-    {
-      "id": "cult-furniture-004239e8c8",
-      "sourceURL": "https://cultfurniture.com/products/alana-wall-mirror-high-gloss-clay-green",
-      "reasons": [
-        "sourceURL unreachable: HTTP 403"
-      ]
-    },
-    {
-      "id": "cult-furniture-d80b7bbad1",
-      "sourceURL": "https://cultfurniture.com/products/lenny-wavy-wall-mirror-high-gloss-burgundy",
-      "reasons": [
-        "sourceURL unreachable: HTTP 403"
-      ]
-    },
-    {
       "id": "cult-furniture-f52372389c",
       "sourceURL": "https://cultfurniture.com/products/alana-full-length-wall-mirror-high-gloss-clay-green",
+      "reasons": [
+        "sourceURL unreachable: HTTP 403"
+      ]
+    },
+    {
+      "id": "cult-furniture-2d767d0dfb",
+      "sourceURL": "https://cultfurniture.com/products/ashby-round-wall-mirror-walnut",
+      "reasons": [
+        "sourceURL unreachable: HTTP 403"
+      ]
+    },
+    {
+      "id": "cult-furniture-f3667517bd",
+      "sourceURL": "https://cultfurniture.com/products/black-op-art-bauhaus-graphic-print",
       "reasons": [
         "sourceURL unreachable: HTTP 403"
       ]
@@ -503,8 +515,8 @@
       ]
     },
     {
-      "id": "cult-furniture-f3667517bd",
-      "sourceURL": "https://cultfurniture.com/products/black-op-art-bauhaus-graphic-print",
+      "id": "cult-furniture-3a9dac5008",
+      "sourceURL": "https://cultfurniture.com/products/balance-graphic-print",
       "reasons": [
         "sourceURL unreachable: HTTP 403"
       ]
@@ -517,8 +529,92 @@
       ]
     },
     {
+      "id": "cult-furniture-38c4703355",
+      "sourceURL": "https://cultfurniture.com/products/mind-graphic-print",
+      "reasons": [
+        "sourceURL unreachable: HTTP 403"
+      ]
+    },
+    {
       "id": "cult-furniture-c9baf0e631",
       "sourceURL": "https://cultfurniture.com/products/vinyl-vino-graphic-print",
+      "reasons": [
+        "sourceURL unreachable: HTTP 403"
+      ]
+    },
+    {
+      "id": "cult-furniture-21ac942222",
+      "sourceURL": "https://cultfurniture.com/products/pasta-party-graphic-print",
+      "reasons": [
+        "sourceURL unreachable: HTTP 403"
+      ]
+    },
+    {
+      "id": "cult-furniture-df2fa74be7",
+      "sourceURL": "https://cultfurniture.com/products/aperol-olives-club-graphic-print",
+      "reasons": [
+        "sourceURL unreachable: HTTP 403"
+      ]
+    },
+    {
+      "id": "cult-furniture-a7e7a6e64c",
+      "sourceURL": "https://cultfurniture.com/products/sip-spin-graphic-print",
+      "reasons": [
+        "sourceURL unreachable: HTTP 403"
+      ]
+    },
+    {
+      "id": "cult-furniture-8a0ee150e0",
+      "sourceURL": "https://cultfurniture.com/products/send-noods-graphic-print",
+      "reasons": [
+        "sourceURL unreachable: HTTP 403"
+      ]
+    },
+    {
+      "id": "cult-furniture-5d2084af2d",
+      "sourceURL": "https://cultfurniture.com/products/brunch-club-graphic-print",
+      "reasons": [
+        "sourceURL unreachable: HTTP 403"
+      ]
+    },
+    {
+      "id": "cult-furniture-3cf8883602",
+      "sourceURL": "https://cultfurniture.com/products/abstract-pottery-graphic-print",
+      "reasons": [
+        "sourceURL unreachable: HTTP 403"
+      ]
+    },
+    {
+      "id": "cult-furniture-b553bf8950",
+      "sourceURL": "https://cultfurniture.com/products/minimalist-painting-iv-graphic-print",
+      "reasons": [
+        "sourceURL unreachable: HTTP 403"
+      ]
+    },
+    {
+      "id": "cult-furniture-6e19531ef0",
+      "sourceURL": "https://cultfurniture.com/products/wabi-sabi-ii-graphic-print",
+      "reasons": [
+        "sourceURL unreachable: HTTP 403"
+      ]
+    },
+    {
+      "id": "cult-furniture-54c85b38b7",
+      "sourceURL": "https://cultfurniture.com/products/intiution-graphic-print",
+      "reasons": [
+        "sourceURL unreachable: HTTP 403"
+      ]
+    },
+    {
+      "id": "cult-furniture-eb54b51337",
+      "sourceURL": "https://cultfurniture.com/products/oui-oui-peach-graphic-print",
+      "reasons": [
+        "sourceURL unreachable: HTTP 403"
+      ]
+    },
+    {
+      "id": "cult-furniture-9e78a8eb34",
+      "sourceURL": "https://cultfurniture.com/products/flourish-graphic-print",
       "reasons": [
         "sourceURL unreachable: HTTP 403"
       ]
@@ -538,71 +634,8 @@
       ]
     },
     {
-      "id": "cult-furniture-a7e7a6e64c",
-      "sourceURL": "https://cultfurniture.com/products/sip-spin-graphic-print",
-      "reasons": [
-        "sourceURL unreachable: HTTP 403"
-      ]
-    },
-    {
-      "id": "cult-furniture-54c85b38b7",
-      "sourceURL": "https://cultfurniture.com/products/intiution-graphic-print",
-      "reasons": [
-        "sourceURL unreachable: HTTP 403"
-      ]
-    },
-    {
-      "id": "cult-furniture-3cf8883602",
-      "sourceURL": "https://cultfurniture.com/products/abstract-pottery-graphic-print",
-      "reasons": [
-        "sourceURL unreachable: HTTP 403"
-      ]
-    },
-    {
-      "id": "cult-furniture-21ac942222",
-      "sourceURL": "https://cultfurniture.com/products/pasta-party-graphic-print",
-      "reasons": [
-        "sourceURL unreachable: HTTP 403"
-      ]
-    },
-    {
-      "id": "cult-furniture-8a0ee150e0",
-      "sourceURL": "https://cultfurniture.com/products/send-noods-graphic-print",
-      "reasons": [
-        "sourceURL unreachable: HTTP 403"
-      ]
-    },
-    {
-      "id": "cult-furniture-38c4703355",
-      "sourceURL": "https://cultfurniture.com/products/mind-graphic-print",
-      "reasons": [
-        "sourceURL unreachable: HTTP 403"
-      ]
-    },
-    {
-      "id": "cult-furniture-6e19531ef0",
-      "sourceURL": "https://cultfurniture.com/products/wabi-sabi-ii-graphic-print",
-      "reasons": [
-        "sourceURL unreachable: HTTP 403"
-      ]
-    },
-    {
-      "id": "cult-furniture-df2fa74be7",
-      "sourceURL": "https://cultfurniture.com/products/aperol-olives-club-graphic-print",
-      "reasons": [
-        "sourceURL unreachable: HTTP 403"
-      ]
-    },
-    {
-      "id": "cult-furniture-b553bf8950",
-      "sourceURL": "https://cultfurniture.com/products/minimalist-painting-iv-graphic-print",
-      "reasons": [
-        "sourceURL unreachable: HTTP 403"
-      ]
-    },
-    {
-      "id": "cult-furniture-9e78a8eb34",
-      "sourceURL": "https://cultfurniture.com/products/flourish-graphic-print",
+      "id": "cult-furniture-6a9e4e81e3",
+      "sourceURL": "https://cultfurniture.com/products/hi-graphic-print",
       "reasons": [
         "sourceURL unreachable: HTTP 403"
       ]
@@ -629,36 +662,8 @@
       ]
     },
     {
-      "id": "cult-furniture-eb54b51337",
-      "sourceURL": "https://cultfurniture.com/products/oui-oui-peach-graphic-print",
-      "reasons": [
-        "sourceURL unreachable: HTTP 403"
-      ]
-    },
-    {
-      "id": "cult-furniture-6a9e4e81e3",
-      "sourceURL": "https://cultfurniture.com/products/hi-graphic-print",
-      "reasons": [
-        "sourceURL unreachable: HTTP 403"
-      ]
-    },
-    {
-      "id": "cult-furniture-5d2084af2d",
-      "sourceURL": "https://cultfurniture.com/products/brunch-club-graphic-print",
-      "reasons": [
-        "sourceURL unreachable: HTTP 403"
-      ]
-    },
-    {
-      "id": "cult-furniture-e6ea16802c",
-      "sourceURL": "https://cultfurniture.com/products/sushi-me-rollin-graphic-print",
-      "reasons": [
-        "sourceURL unreachable: HTTP 403"
-      ]
-    },
-    {
-      "id": "cult-furniture-a191789bbc",
-      "sourceURL": "https://cultfurniture.com/products/nyc-sunset-society-blue-graphic-print",
+      "id": "cult-furniture-c0f37f5b05",
+      "sourceURL": "https://cultfurniture.com/products/marron-abstract-graphic-print",
       "reasons": [
         "sourceURL unreachable: HTTP 403"
       ]
