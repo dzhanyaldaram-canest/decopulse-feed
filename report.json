@@ -1,27 +1,27 @@
 {
-  "total_items": 829,
+  "total_items": 833,
   "per_category": {
     "paintings": 133,
-    "plants": 142,
+    "plants": 148,
     "posters": 369,
     "sculptures": 75,
-    "wall_decorations": 110
+    "wall_decorations": 108
   },
   "per_vendor": {
     "Abstract House": 78,
     "Olivia's": 50,
     "Partnership Editions": 60,
-    "Beards & Daisies": 16,
+    "Beards & Daisies": 15,
     "Conservatory Archives": 40,
     "House Plant": 37,
-    "Leaf Envy": 49,
+    "Leaf Envy": 56,
     "Drool Art": 75,
     "Jealous Gallery": 40,
     "The Poster Club": 105,
     "Project Nord": 75,
     "PSTR Studio": 74,
     "Jonathan Adler UK": 37,
-    "Rockett St George": 83,
+    "Rockett St George": 81,
     "Nkuku": 10
   },
   "thin_categories": [],
@@ -44,8 +44,8 @@
     },
     {
       "source": "rockett-st-george",
-      "title": "Mirror, Mirror...Framed Neon Wall Light",
-      "reason": "excluded by keyword 'light'"
+      "title": "Gold Star Candle Wall Sconce",
+      "reason": "excluded by keyword 'candle'"
     },
     {
       "source": "rockett-st-george",
@@ -56,11 +56,6 @@
       "source": "rockett-st-george",
       "title": "Gold Milagro Heart Candlestick Wall Sconce",
       "reason": "excluded by keyword 'candle'"
-    },
-    {
-      "source": "rockett-st-george",
-      "title": "Mirror, Mirror...Framed Neon Wall Light",
-      "reason": "excluded by keyword 'light'"
     },
     {
       "source": "rockett-st-george",
@@ -80,16 +75,6 @@
     {
       "source": "leaf-envy",
       "title": "Hard to Kill Bundle",
-      "reason": "excluded by keyword 'bundle'"
-    },
-    {
-      "source": "leaf-envy",
-      "title": "Hard to Kill Tall Bundle",
-      "reason": "excluded by keyword 'bundle'"
-    },
-    {
-      "source": "leaf-envy",
-      "title": "Air Purifying Bundle",
       "reason": "excluded by keyword 'bundle'"
     },
     {
@@ -260,6 +245,11 @@
     {
       "source": "beards-daisies",
       "title": "Artificial Caladium",
+      "reason": "excluded by keyword 'artificial'"
+    },
+    {
+      "source": "beards-daisies",
+      "title": "Artificial Calathea Bush",
       "reason": "excluded by keyword 'artificial'"
     },
     {

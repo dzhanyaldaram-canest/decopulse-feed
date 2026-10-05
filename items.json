@@ -61,8 +61,7 @@
     "imageURLs": [
       "https://cdn.shopify.com/s/files/1/3099/2610/files/blue-green-abstract-seascape-original-painting-50x70cm.jpg?v=1783772933&width=900",
       "https://cdn.shopify.com/s/files/1/3099/2610/files/50x70-framed-wall-art-original-painting.jpg?v=1783772933&width=900",
-      "https://cdn.shopify.com/s/files/1/3099/2610/files/blue-green-abstract-original-painting-50x70cm.jpg?v=1783772933&width=900",
-      "https://cdn.shopify.com/s/files/1/3099/2610/files/closeup-passage-2-through-50x70cm-original-abstract-seascape-painting.jpg?v=1783772934&width=900"
+      "https://cdn.shopify.com/s/files/1/3099/2610/files/blue-green-abstract-original-painting-50x70cm.jpg?v=1783772933&width=900"
     ],
     "category": "paintings"
   },
@@ -129,7 +128,6 @@
       "https://cdn.shopify.com/s/files/1/3099/2610/files/abstract-seascape-original-painting-canvas-art.jpg?v=1783772930&width=900",
       "https://cdn.shopify.com/s/files/1/3099/2610/files/blue-green-abstract-wall-art-original-painting-kitchen-art.jpg?v=1783772930&width=900",
       "https://cdn.shopify.com/s/files/1/3099/2610/files/blue-green-abstract-wall-art-original-painting.jpg?v=1783772930&width=900",
-      "https://cdn.shopify.com/s/files/1/3099/2610/files/closeup-passage-through-50x70cm-original-abstract-seascape-painting.jpg?v=1783772931&width=900",
       "https://cdn.shopify.com/s/files/1/3099/2610/files/entery-way-original-abstract-painting.jpg?v=1783772930&width=900"
     ],
     "category": "paintings"
@@ -593,10 +591,10 @@
     "imageURL": "https://cdn.shopify.com/s/files/1/3099/2610/files/large_oil_painting_abstract_landscape_living_room_large_art.jpg?v=1756677877&width=900",
     "imageURLs": [
       "https://cdn.shopify.com/s/files/1/3099/2610/files/large_oil_painting_abstract_landscape_living_room_large_art.jpg?v=1756677877&width=900",
-      "https://cdn.shopify.com/s/files/1/3099/2610/files/closeup_large_abstract_painting_oil_landscape_omar_obaid.jpg?v=1756677877&width=900",
-      "https://cdn.shopify.com/s/files/1/3099/2610/files/detail_large_abstract_painting_oil_landscape_omar_obaid.jpg?v=1756677877&width=900",
       "https://cdn.shopify.com/s/files/1/3099/2610/files/large_abstract_landscape_painting_above_sofa_living_room_art.jpg?v=1756677876&width=900",
-      "https://cdn.shopify.com/s/files/1/3099/2610/files/large_blue_oil_painting_abstract_landscape_dining_room_art.jpg?v=1756677876&width=900"
+      "https://cdn.shopify.com/s/files/1/3099/2610/files/large_blue_oil_painting_abstract_landscape_dining_room_art.jpg?v=1756677876&width=900",
+      "https://cdn.shopify.com/s/files/1/3099/2610/files/large_expressionist_painting_original_oil_picture_living_room_art.jpg?v=1756677876&width=900",
+      "https://cdn.shopify.com/s/files/1/3099/2610/files/large_oil_painting_abstract_landscape_picture_art.jpg?v=1756677876&width=900"
     ],
     "category": "paintings"
   },
@@ -761,9 +759,9 @@
     "imageURLs": [
       "https://cdn.shopify.com/s/files/1/3099/2610/files/modern-large-colourful-abstract-painting-original-living-room-art.jpg?v=1781704390&width=900",
       "https://cdn.shopify.com/s/files/1/3099/2610/files/extra_large_abstract_painting_60_inches_original_fine_art.jpg?v=1751102141&width=900",
-      "https://cdn.shopify.com/s/files/1/3099/2610/files/closeup_extra_large_abstract_painting_omar_obaid_artist.jpg?v=1751102141&width=900",
       "https://cdn.shopify.com/s/files/1/3099/2610/files/detail_extra_large_abstract_painting_omar_obaid_artist.jpg?v=1751102141&width=900",
-      "https://cdn.shopify.com/s/files/1/3099/2610/files/extra_large_canvas_art_abstract_living_room_wall_art_abstract_house_trying_to_let_go.jpg?v=1751102127&width=900"
+      "https://cdn.shopify.com/s/files/1/3099/2610/files/extra_large_canvas_art_abstract_living_room_wall_art_abstract_house_trying_to_let_go.jpg?v=1751102127&width=900",
+      "https://cdn.shopify.com/s/files/1/3099/2610/files/extra_large_wall_filler_abstract_painting.jpg?v=1751102127&width=900"
     ],
     "category": "paintings"
   },
@@ -1027,6 +1025,23 @@
     "category": "paintings"
   },
   {
+    "id": "abstract-house-d4ec27fc82",
+    "name": "Drifting II | Framed Original Painting",
+    "description": "Soft blue tones meet restrained forms in this calm, elegant and quietly contemporary composition. In Drifting II, restrained forms and considered negative space establish the character of the abstract composition. The eye moves between layered forms and open passages, allowing colour and mark-making to establish the structure of the piece. The result is an original painting with a confident…",
+    "price": 200.0,
+    "vendor": "Abstract House",
+    "sourceURL": "https://abstracthouse.com/products/drifting-ii-framed-original-painting",
+    "imageURL": "https://cdn.shopify.com/s/files/1/3099/2610/files/drifting-2-original-abstract-painting-blue-oil-painting-framed.jpg?v=1771714624&width=900",
+    "imageURLs": [
+      "https://cdn.shopify.com/s/files/1/3099/2610/files/drifting-2-original-abstract-painting-blue-oil-painting-framed.jpg?v=1771714624&width=900",
+      "https://cdn.shopify.com/s/files/1/3099/2610/files/closeup-abstract-picture-blue-art.jpg?v=1771714622&width=900",
+      "https://cdn.shopify.com/s/files/1/3099/2610/files/minimal-original-abstract-painting-blue-oil-painting-framed.jpg?v=1771714623&width=900",
+      "https://cdn.shopify.com/s/files/1/3099/2610/files/original-abstract-painting-blue-oil-painting-framed-dining-room-art.jpg?v=1771714623&width=900",
+      "https://cdn.shopify.com/s/files/1/3099/2610/files/original-abstract-painting-blue-oil-painting-framed.jpg?v=1771714623&width=900"
+    ],
+    "category": "paintings"
+  },
+  {
     "id": "abstract-house-d5f611e541",
     "name": "Searching | Original Painting | 150x90cm",
     "description": "Soft neutral tones meet expressive brushwork in this timeless, understated abstract composition. Searching is shaped through energetic marks and expressive movement, giving the landscape a clear sense of structure and movement. Layered planes and softened edges build a sense of foreground and distance without relying on unnecessary detail. As an original painting, it feels polished and considered…",
@@ -1146,23 +1161,6 @@
     "category": "paintings"
   },
   {
-    "id": "abstract-house-e3ee4e6e14",
-    "name": "The River Flows In You | Original Painting | 150x90cm",
-    "description": "Soft blue and crisp white tones meet expressive forms in this refined, contemporary composition. The River Flows In You is shaped through layered forms and expressive mark-making, giving the seascape a clear sense of structure and movement. Broad horizontal passages suggest open water and distance, while softer transitions keep the scene atmospheric. As an original painting, it feels polished and…",
-    "price": 1800.0,
-    "vendor": "Abstract House",
-    "sourceURL": "https://abstracthouse.com/products/the-river-flows-in-you-original-painting-150x90cm",
-    "imageURL": "https://cdn.shopify.com/s/files/1/3099/2610/files/The-River-Flows-In-You-original-abstract-painting-blue-and-white-authentic-acrylic-painting-on-canvas-modern-art.jpg?v=1772532706&width=900",
-    "imageURLs": [
-      "https://cdn.shopify.com/s/files/1/3099/2610/files/The-River-Flows-In-You-original-abstract-painting-blue-and-white-authentic-acrylic-painting-on-canvas-modern-art.jpg?v=1772532706&width=900",
-      "https://cdn.shopify.com/s/files/1/3099/2610/files/extra-large-abstract-painting-blue-white-seascape-artist-omar-obaid.jpg?v=1772532706&width=900",
-      "https://cdn.shopify.com/s/files/1/3099/2610/files/large-abstract-painting-white-blue-in-the-studio.jpg?v=1772532706&width=900",
-      "https://cdn.shopify.com/s/files/1/3099/2610/files/closeup-seascape-abstract-omar-obaid-art.jpg?v=1772532706&width=900",
-      "https://cdn.shopify.com/s/files/1/3099/2610/files/painting-in-the-studio-artist-omar-obaid.jpg?v=1772532706&width=900"
-    ],
-    "category": "paintings"
-  },
-  {
     "id": "abstract-house-ef6a03d97e",
     "name": "Infinity 14 | Framed Original Painting",
     "description": "Deep black and earthy brown tones meet expressive forms in this refined, contemporary composition. Infinity 14 brings together layered forms and expressive mark-making in a botanical composition that feels layered without becoming overworked. Leaf-like shapes and flowing contours give the composition movement while keeping the overall arrangement elegant and controlled. This gives the original…",
@@ -1251,10 +1249,10 @@
     "imageURL": "https://cdn.shopify.com/s/files/1/3099/2610/files/minimal-colourful-abstract-painting-original-canvas-art.jpg?v=1783940256&width=900",
     "imageURLs": [
       "https://cdn.shopify.com/s/files/1/3099/2610/files/minimal-colourful-abstract-painting-original-canvas-art.jpg?v=1783940256&width=900",
-      "https://cdn.shopify.com/s/files/1/3099/2610/files/closeup-construct-large-original-geometric-painting.jpg?v=1783940257&width=900",
       "https://cdn.shopify.com/s/files/1/3099/2610/files/colourful-modern-canvas-original-painting.jpg?v=1783940257&width=900",
       "https://cdn.shopify.com/s/files/1/3099/2610/files/detail-construct-large-original-geometric-painting.jpg?v=1783940257&width=900",
-      "https://cdn.shopify.com/s/files/1/3099/2610/files/original-modern-abstract-painting-contemporary-living-room.jpg?v=1783940256&width=900"
+      "https://cdn.shopify.com/s/files/1/3099/2610/files/original-modern-abstract-painting-contemporary-living-room.jpg?v=1783940256&width=900",
+      "https://cdn.shopify.com/s/files/1/3099/2610/files/painterly-abstract-original-modern-painting-living-room-art.jpg?v=1783940256&width=900"
     ],
     "category": "paintings"
   },
@@ -2166,27 +2164,27 @@
     "category": "paintings"
   },
   {
-    "id": "beards-daisies-154eaff400",
-    "name": "Anthurium Lilli in Glass",
-    "description": "The Anthurium 'Lilli' proves a flowering plant doesn't have to shout to be noticed. Where the classic Anthurium goes for glossy red or crisp white, 'Lilli' is the quieter, prettier cousin: compact, easygoing and dressed in soft, pink-tinged spathes that lift a smaller space without taking it over. And rather than flowering in one showy burst and then disappearing, it blooms gently and steadily…",
-    "price": 37.0,
+    "id": "beards-daisies-0d893fe8e5",
+    "name": "African Fig in Self-watering Pot",
+    "description": "African Fig - Ficus cyathistipula The African Fig is the fig family's easygoing cousin. Native to tropical Africa, it carries rounded, deep green leaves on upright stems and grows into a handsome indoor tree. It copes with lower light better than most figs, though bright, indirect light will bring the best from it. The sap can upset cats and dogs, so best placed out of reach of curious pets. This…",
+    "price": 67.0,
     "vendor": "Beards & Daisies",
-    "sourceURL": "https://beardsanddaisies.co.uk/products/anthurium-lilli-in-glass",
-    "imageURL": "https://cdn.shopify.com/s/files/1/0056/8970/4482/files/Anthurium_Lilli_in_Glass_Hero.jpg?v=1781364211&width=900",
+    "sourceURL": "https://beardsanddaisies.co.uk/products/african-fig-self-watering",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0056/8970/4482/files/african_fig_p17_anthracite_eb277066-d92b-4710-9416-1944b30e249d.jpg?v=1790957123&width=900",
     "imageURLs": [
-      "https://cdn.shopify.com/s/files/1/0056/8970/4482/files/Anthurium_Lilli_in_Glass_Hero.jpg?v=1781364211&width=900",
-      "https://cdn.shopify.com/s/files/1/0056/8970/4482/files/Anthurium_Lilli_in_Glass_Roots.jpg?v=1781365510&width=900",
-      "https://cdn.shopify.com/s/files/1/0056/8970/4482/files/Anthurium_Lilli_in_Glass_Flowers_v1.jpg?v=1781376879&width=900",
-      "https://cdn.shopify.com/s/files/1/0056/8970/4482/files/Anthurium_Lilli_in_Glass_Gift.jpg?v=1781379298&width=900",
-      "https://cdn.shopify.com/s/files/1/0056/8970/4482/files/NewBoxShotDoorway2026_488903a5-c6a2-4469-bfc5-db5483f01da6.jpg?v=1781011367&width=900"
+      "https://cdn.shopify.com/s/files/1/0056/8970/4482/files/african_fig_p17_anthracite_eb277066-d92b-4710-9416-1944b30e249d.jpg?v=1790957123&width=900",
+      "https://cdn.shopify.com/s/files/1/0056/8970/4482/files/african_fig_p17_fern_9d448640-c7ac-4fb5-93c1-237c298b8f93.jpg?v=1790957123&width=900",
+      "https://cdn.shopify.com/s/files/1/0056/8970/4482/files/african_fig_p17_linen_af479c8c-a51b-4255-8a87-6267856de62b.jpg?v=1790957123&width=900",
+      "https://cdn.shopify.com/s/files/1/0056/8970/4482/files/Self-Watering_Pots.png?v=1790862714&width=900",
+      "https://cdn.shopify.com/s/files/1/0056/8970/4482/files/african_fig_p21_anthracite_ec8e2b7f-f502-4078-98cb-411d90be9bc4.jpg?v=1790956938&width=900"
     ],
     "category": "plants"
   },
   {
     "id": "beards-daisies-20aed412ee",
     "name": "Allium Globemaster Bulb",
-    "description": "Allium 'Globemaster' - Allium 'Globemaster' The largest of the ornamental alliums, producing violet globes up to 20cm across on thick, upright stems. A single bulb makes a statement, and the flowers hold for six weeks or more, far longer than most alliums. The seed heads stand well into autumn and can be cut and dried. Toxic to cats and dogs if eaten. 1 bulb included.",
-    "price": 4.99,
+    "description": "Allium 'Globemaster' - Allium 'Globemaster' The largest of the ornamental alliums, producing violet globes up to 20cm across on thick, upright stems. A single bulb makes a statement, and the flowers hold for six weeks or more, far longer than most alliums. The seed heads stand well into autumn and can be cut and dried. One bulb is enough to make a statement, or plant groups of 3–5, 25–30cm apart…",
+    "price": 5.99,
     "vendor": "Beards & Daisies",
     "sourceURL": "https://beardsanddaisies.co.uk/products/allium-globemaster-bulb",
     "imageURL": "https://cdn.shopify.com/s/files/1/0056/8970/4482/files/Globemaster_2_bc2af284-96d0-49dd-ae7e-e873372573bc.jpg?v=1790161888&width=900",
@@ -2248,7 +2246,7 @@
   {
     "id": "beards-daisies-6f2a687d05",
     "name": "Anemone De Caen Bulbs",
-    "description": "Anemone De Caen - Anemone coronaria Single poppy-shaped flowers in red, blue, pink and white, each with a black centre ringed by a fringe of dark stamens. They flower over a long stretch and cut well, producing more stems the more you take. The corms are hard and shrivelled on arrival, which is normal. Toxic to cats and dogs if eaten. 20 bulbs included.",
+    "description": "Anemone De Caen - Anemone coronaria Single poppy-shaped flowers in red, blue, pink and white, each with a black centre ringed by a fringe of dark stamens. They flower over a long stretch and cut well, producing more stems the more you take. The corms are hard and shrivelled on arrival, which is normal. Soak the corms for a few hours, then plant 10–15 in a 30cm pot, or 8–10cm apart in a sunny bed…",
     "price": 4.99,
     "vendor": "Beards & Daisies",
     "sourceURL": "https://beardsanddaisies.co.uk/products/anemone-de-caen-bulbs",
@@ -2298,7 +2296,7 @@
   {
     "id": "beards-daisies-939b7147ee",
     "name": "Allium Purple Sensation Bulbs",
-    "description": "Allium 'Purple Sensation' - Allium hollandicum 'Purple Sensation' Dense violet globes around 10cm across, held on tall bare stems well above the surrounding planting. It flowers in the gap between the last tulips and the first summer perennials, when borders often go flat. The dried seed heads hold their shape for months afterwards. Toxic to cats and dogs if eaten. 8 bulbs included.",
+    "description": "Allium 'Purple Sensation' - Allium hollandicum 'Purple Sensation' Dense violet globes around 10cm across, held on tall bare stems well above the surrounding planting. It flowers in the gap between the last tulips and the first summer perennials, when borders often go flat. The dried seed heads hold their shape for months afterwards. Plant in groups of 5–10, around 10–15cm apart, in a sunny border…",
     "price": 4.99,
     "vendor": "Beards & Daisies",
     "sourceURL": "https://beardsanddaisies.co.uk/products/allium-purple-sensation-bulbs",
@@ -2386,22 +2384,6 @@
       "https://cdn.shopify.com/s/files/1/0056/8970/4482/files/Sereh_Anthracite_25cm_Pot.jpg?v=1776417914&width=900",
       "https://cdn.shopify.com/s/files/1/0056/8970/4482/files/SerehAnthracite25cmCloseupPot.jpg?v=1776417914&width=900",
       "https://cdn.shopify.com/s/files/1/0056/8970/4482/files/New_Box_Shot_Doorway_2026_263eb721-a177-41c5-b140-b094bf7a8ffd.jpg?v=1776426787&width=900"
-    ],
-    "category": "plants"
-  },
-  {
-    "id": "beards-daisies-e9a4d9267d",
-    "name": "Alocasia Tiny Dancer",
-    "description": "Alocasia Tiny Dancer Say hello to your new leafy sidekick. With its upright stems and quirky, paddle-shaped leaves, Alocasia ‘Tiny Dancer’ is here to steal the show - without taking up all the space. Perfectly petite and full of personality, this little stunner brings sculptural vibes and a touch of the tropics to any corner of your home. It's a natural fit for shelves, desks, or anywhere that…",
-    "price": 18.0,
-    "vendor": "Beards & Daisies",
-    "sourceURL": "https://beardsanddaisies.co.uk/products/alocasia-tiny-dancer",
-    "imageURL": "https://cdn.shopify.com/s/files/1/0056/8970/4482/files/AlocasiaTinyDancer-202.jpg?v=1773066192&width=900",
-    "imageURLs": [
-      "https://cdn.shopify.com/s/files/1/0056/8970/4482/files/AlocasiaTinyDancer-202.jpg?v=1773066192&width=900",
-      "https://cdn.shopify.com/s/files/1/0056/8970/4482/files/AlocasiaTinyDancer-202_closeup.jpg?v=1773066192&width=900",
-      "https://cdn.shopify.com/s/files/1/0056/8970/4482/files/New_Box_Shot_Doorway_2026_981b4879-6bbf-42d3-ba42-28a6ccaf2689.jpg?v=1773066192&width=900",
-      "https://cdn.shopify.com/s/files/1/0056/8970/4482/files/BD_SMALL_GIFT_PACKAGING_bb727e84-5523-460c-bf6a-fcdaf2a1f184.jpg?v=1776266123&width=900"
     ],
     "category": "plants"
   },
@@ -3202,9 +3184,9 @@
     "price": 11.99,
     "vendor": "House Plant",
     "sourceURL": "https://houseplant.co.uk/products/parlour-palm",
-    "imageURL": "https://cdn.shopify.com/s/files/1/0648/8159/0495/files/Chamaedorea_Elegans_Parlour_Palm_Tropical_Indoor_Air_Purifying_Pet_Safe_Houseplant_1.jpg?v=1736947064&width=900",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0648/8159/0495/files/parlour.png?v=1790686052&width=900",
     "imageURLs": [
-      "https://cdn.shopify.com/s/files/1/0648/8159/0495/files/Chamaedorea_Elegans_Parlour_Palm_Tropical_Indoor_Air_Purifying_Pet_Safe_Houseplant_1.jpg?v=1736947064&width=900",
+      "https://cdn.shopify.com/s/files/1/0648/8159/0495/files/parlour.png?v=1790686052&width=900",
       "https://cdn.shopify.com/s/files/1/0648/8159/0495/files/Chamaedorea_Elegans_-_Parlour_Palm_-_Tropical_Indoor_Beginner_Houseplant.jpg?v=1736947064&width=900",
       "https://cdn.shopify.com/s/files/1/0648/8159/0495/files/Tropical_Chamaedorea_Elegans_Parlour_Palm_-_an_indoor_tropical_houseplant_beauty.jpg?v=1736947064&width=900",
       "https://cdn.shopify.com/s/files/1/0648/8159/0495/files/Chamaedorea_Elegans_Parlour_Palm_-_Tropical_Expansive_Office_Indoor_Plant.jpg?v=1736947064&width=900",
@@ -3250,13 +3232,13 @@
     "price": 9.99,
     "vendor": "House Plant",
     "sourceURL": "https://houseplant.co.uk/products/string-of-teardrops",
-    "imageURL": "https://cdn.shopify.com/s/files/1/0648/8159/0495/files/String_of_Teardrops_String_of_Beads_-_Senecio_Herreianus_Houseplant.jpg?v=1730463449&width=900",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0648/8159/0495/files/teardrop.jpg?v=1791195350&width=900",
     "imageURLs": [
-      "https://cdn.shopify.com/s/files/1/0648/8159/0495/files/String_of_Teardrops_String_of_Beads_-_Senecio_Herreianus_Houseplant.jpg?v=1730463449&width=900",
+      "https://cdn.shopify.com/s/files/1/0648/8159/0495/files/teardrop.jpg?v=1791195350&width=900",
       "https://cdn.shopify.com/s/files/1/0648/8159/0495/products/String_of_Teardrops_Hanging_Houseplant_-_String_of_Beads_Senecio_Herreianus.jpg?v=1730463433&width=900",
+      "https://cdn.shopify.com/s/files/1/0648/8159/0495/files/String_of_Teardrops_String_of_Beads_-_Senecio_Herreianus_Houseplant.jpg?v=1730463449&width=900",
       "https://cdn.shopify.com/s/files/1/0648/8159/0495/products/Small_String_of_Beads_String_of_Teardrops_-_Senecio_Herreianus_Houseplant.jpg?v=1730463288&width=900",
-      "https://cdn.shopify.com/s/files/1/0648/8159/0495/products/String_of_Teardrops_String_of_Beads_-_Senecio_Herreianus_Plant.jpg?v=1730463317&width=900",
-      "https://cdn.shopify.com/s/files/1/0648/8159/0495/products/String_of_Teardrops_String_of_Beads_-_Senecio_Herreianus_Houseplant_For_Sale.jpg?v=1730463414&width=900"
+      "https://cdn.shopify.com/s/files/1/0648/8159/0495/products/String_of_Teardrops_String_of_Beads_-_Senecio_Herreianus_Plant.jpg?v=1730463317&width=900"
     ],
     "category": "plants"
   },
@@ -3284,11 +3266,12 @@
     "price": 7.99,
     "vendor": "House Plant",
     "sourceURL": "https://houseplant.co.uk/products/dragon-tree-marginata",
-    "imageURL": "https://cdn.shopify.com/s/files/1/0648/8159/0495/files/Dragon_Tree_Marginata_Dracaena_Indoor_Tropical_Palm_Trees_Exotic_Beginner_Houseplants_-_shown_in_cosy_Lisbon_Sage_Green_pots_sold_separately..jpg?v=1738071766&width=900",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0648/8159/0495/files/MARG.png?v=1790940864&width=900",
     "imageURLs": [
-      "https://cdn.shopify.com/s/files/1/0648/8159/0495/files/Dragon_Tree_Marginata_Dracaena_Indoor_Tropical_Palm_Trees_Exotic_Beginner_Houseplants_-_shown_in_cosy_Lisbon_Sage_Green_pots_sold_separately..jpg?v=1738071766&width=900",
+      "https://cdn.shopify.com/s/files/1/0648/8159/0495/files/MARG.png?v=1790940864&width=900",
       "https://cdn.shopify.com/s/files/1/0648/8159/0495/files/Dragon_Tree_Marginata_Dracaena_Indoor_Tropical_Tree_Exotic_Beginner_Friendly_Houseplant_-_small_in_white_ceramic_pot.jpg?v=1738071798&width=900",
       "https://cdn.shopify.com/s/files/1/0648/8159/0495/files/Dragon_Tree_Marginata_Dracaena_Indoor_Tropical_Tree_Exotic_Beginner_Friendly_Houseplant.jpg?v=1738071807&width=900",
+      "https://cdn.shopify.com/s/files/1/0648/8159/0495/files/Dragon_Tree_Marginata_Dracaena_Indoor_Tropical_Palm_Trees_Exotic_Beginner_Houseplants_-_shown_in_cosy_Lisbon_Sage_Green_pots_sold_separately..jpg?v=1738071766&width=900",
       "https://cdn.shopify.com/s/files/1/0648/8159/0495/files/Dragon_Tree_Marginata_Dracaena_Indoor_Tropical_Tree_Exotic_Beginner_Friendly_Houseplant_M.jpg?v=1738071913&width=900"
     ],
     "category": "plants"
@@ -3356,7 +3339,7 @@
     "id": "houseplant-co-7bccd6bd4d",
     "name": "Button Fern | Hard To Find",
     "description": "As cute as a button! This delicate Button Fern is dressed in simple alternate leaves running down each frond. The stunning dark emerald-green leaves provide a sense of glamour to a simply elegant fern plant. Native to New Zealand, this plant is not to be confused with the lemon button fern which is actually part of the Boston fern family. Please note decorative pots are sold separately and your…",
-    "price": 9.99,
+    "price": 8.99,
     "vendor": "House Plant",
     "sourceURL": "https://houseplant.co.uk/products/button-fern",
     "imageURL": "https://cdn.shopify.com/s/files/1/0648/8159/0495/files/DSC02932.jpg?v=1746781310&width=900",
@@ -3551,13 +3534,13 @@
     "price": 13.99,
     "vendor": "House Plant",
     "sourceURL": "https://houseplant.co.uk/products/yucca",
-    "imageURL": "https://cdn.shopify.com/s/files/1/0648/8159/0495/files/Indoor_Tropical_Yucca_Elephantipes_Elephant_Exotic_Air_Purifying_Easy_Care_Succulent_Houseplant.jpg?v=1738072702&width=900",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0648/8159/0495/files/yucca.png?v=1791204823&width=900",
     "imageURLs": [
-      "https://cdn.shopify.com/s/files/1/0648/8159/0495/files/Indoor_Tropical_Yucca_Elephantipes_Elephant_Exotic_Air_Purifying_Easy_Care_Succulent_Houseplant.jpg?v=1738072702&width=900",
+      "https://cdn.shopify.com/s/files/1/0648/8159/0495/files/yucca.png?v=1791204823&width=900",
       "https://cdn.shopify.com/s/files/1/0648/8159/0495/files/Indoor_Tropical_Yucca_Elephantipes_Elephant_Exotic_Air_Purifying_Easy_Care_Succulent_Houseplant_S.jpg?v=1738072720&width=900",
+      "https://cdn.shopify.com/s/files/1/0648/8159/0495/files/Indoor_Tropical_Yucca_Elephantipes_Elephant_Exotic_Air_Purifying_Easy_Care_Succulent_Houseplant.jpg?v=1738072702&width=900",
       "https://cdn.shopify.com/s/files/1/0648/8159/0495/files/Indoor_Tropical_Yucca_Elephantipes_Elephant_Exotic_Air_Purifying_Easy_Care_Succulent_Houseplant_Range.jpg?v=1738072733&width=900",
-      "https://cdn.shopify.com/s/files/1/0648/8159/0495/files/Indoor_Tropical_Yucca_Elephantipes_Elephant_Exotic_Air_Purifying_Easy_Care_Succulent_Houseplant_M.jpg?v=1738072743&width=900",
-      "https://cdn.shopify.com/s/files/1/0648/8159/0495/files/Indoor_Tropical_Yucca_Elephantipes_Elephant_Exotic_Air_Purifying_Easy_Care_Succulent_Houseplant_L.jpg?v=1738072752&width=900"
+      "https://cdn.shopify.com/s/files/1/0648/8159/0495/files/Indoor_Tropical_Yucca_Elephantipes_Elephant_Exotic_Air_Purifying_Easy_Care_Succulent_Houseplant_M.jpg?v=1738072743&width=900"
     ],
     "category": "plants"
   },
@@ -3661,6 +3644,20 @@
     "category": "plants"
   },
   {
+    "id": "leaf-envy-0120c83b25",
+    "name": "Bamboo Orchid",
+    "description": "This tall, elegant houseplant is a true beauty. The Bamboo Orchid features the delicate, well-loved flowers of the orchid as well as the tall, thin stems of the bamboo plant. What’s not to love? Native to Asia, where this unusual orchid grows on the rocks and trees, for many years it’s actually been used in traditional Chinese medicine. A striking houseplant, which will look beautiful in any…",
+    "price": 24.0,
+    "vendor": "Leaf Envy",
+    "sourceURL": "https://leafenvy.co.uk/products/bamboo-orchid",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/Bamboo_Orchid_Dendrobium-120.jpg?v=1751895124&width=900",
+    "imageURLs": [
+      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/Bamboo_Orchid_Dendrobium-120.jpg?v=1751895124&width=900",
+      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/BambooOrchidDendrobium-120.jpg?v=1751895124&width=900"
+    ],
+    "category": "plants"
+  },
+  {
     "id": "leaf-envy-03d864f772",
     "name": "Cowboy Cactus",
     "description": "Cowboy Cactus - Opuntia Rubescens Consolea The quirky Road Kill Cactus is exactly as you might imagine from its slightly amusing name - the iconic cactus, but just a little flatter! This tall cactus is a real statement plant, with its flat fronds and bumpy texture, this stylish plant looks great paired with a colourful pot to really let it steal the show. Decorative pot not included.",
@@ -3719,6 +3716,20 @@
       "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/DracaenaWarneckei90cm-286.jpg?v=1767004691&width=900",
       "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/DracaenaWarneckei120cm-281.jpg?v=1767004691&width=900",
       "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/Dracaena_Warneckei_60cm-288.jpg?v=1767004691&width=900"
+    ],
+    "category": "plants"
+  },
+  {
+    "id": "leaf-envy-12425160b0",
+    "name": "Tradescantia Nanouk",
+    "description": "Tradescantia Nanouk In plant years, the Tradescantia Nanouk is practically a baby! Dating back to just 2012, when the plant was first developed in the Netherlands - a purposely engineered result of the cross-pollination of two Tradescantia albiflora seedlings. But you'll discover it's parent plant, part of the Commelinaceae family, is native to Central & South America, as well as Mexico. This…",
+    "price": 14.4,
+    "vendor": "Leaf Envy",
+    "sourceURL": "https://leafenvy.co.uk/products/pink-tradescantia-nanouk",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/TradescantiaNanouk-488_9c870e72-327b-4cc1-a6d9-b7d9308b9f85.jpg?v=1751895521&width=900",
+    "imageURLs": [
+      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/TradescantiaNanouk-488_9c870e72-327b-4cc1-a6d9-b7d9308b9f85.jpg?v=1751895521&width=900",
+      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/TradescantiaNanouk-488.jpg?v=1751895521&width=900"
     ],
     "category": "plants"
   },
@@ -3845,6 +3856,20 @@
     "category": "plants"
   },
   {
+    "id": "leaf-envy-3342c414f8",
+    "name": "Philodendron Pink Princess",
+    "description": "Philodendron Pink Princess It’s the pink plant of our dreams – the rare and highly-desired Pink Princess is here. With beautiful, variegated heart-shaped leaves, this Philodendron will be the shining star in your plant collection. You’d be forgiven for thinking that such a Princess would have a list of diva demands, but this pink and green Philo is as chilled as they come. Just keep yours out of…",
+    "price": 24.0,
+    "vendor": "Leaf Envy",
+    "sourceURL": "https://leafenvy.co.uk/products/philodendron-pink-princess-2",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/PhilodendronPinkPrincess-212.jpg?v=1751969741&width=900",
+    "imageURLs": [
+      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/PhilodendronPinkPrincess-212.jpg?v=1751969741&width=900",
+      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/PhilodendronPinkPrincess-212_cc7b3af2-8486-4b6e-bdf2-3cb0d9af865d.jpg?v=1751969746&width=900"
+    ],
+    "category": "plants"
+  },
+  {
     "id": "leaf-envy-34439df14a",
     "name": "Neon Pothos",
     "description": "Why you’ll love it Neon Pothos is a bright, easy-care plant that brings colour to your space without adding extra work. It’s low maintenance, tolerant of lower light, and forgiving if you forget the occasional watering, making it a great choice for busy homes or beginners. Its vivid, lime-green leaves add instant freshness and lift to any room. Good to know This is a resilient trailing plant that…",
@@ -3868,20 +3893,6 @@
     "imageURLs": [
       "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/FishboneCactus-307_2b7f0c53-dbf5-4f60-93c2-1d493ce15b45.jpg?v=1752057093&width=900",
       "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/FishboneCactus-307_4568345c-94a8-4c8d-9513-cb918f9da260.jpg?v=1752057115&width=900"
-    ],
-    "category": "plants"
-  },
-  {
-    "id": "leaf-envy-38d0623d36",
-    "name": "Money Tree & Pot",
-    "description": "While we can’t promise it will grow you a fortune, the Money Tree has long been cherished as a symbol of prosperity, harmony, and positive energy. Its signature braided trunk is said to weave good luck into the plant itself, making it a thoughtful gift or an uplifting addition to your own space. Often placed near cash registers in businesses as a charm for success, the Money Tree has an…",
-    "price": 28.8,
-    "vendor": "Leaf Envy",
-    "sourceURL": "https://leafenvy.co.uk/products/money-tree-pot-2",
-    "imageURL": "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/Money_tree_sculture_pot.jpg?v=1767701333&width=900",
-    "imageURLs": [
-      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/Money_tree_sculture_pot.jpg?v=1767701333&width=900",
-      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/BD_PACHIRA_CLOSEUP_1000x1100_1083e82e-c80f-4dc4-9e64-8ca6a2fc7f13.jpg?v=1767701333&width=900"
     ],
     "category": "plants"
   },
@@ -3996,6 +4007,20 @@
     "category": "plants"
   },
   {
+    "id": "leaf-envy-6070956d77",
+    "name": "String of Hearts",
+    "description": "String of Hearts - Ceropegia Woodii This charming houseplant features delicate, heart-shaped leaves, which is how it earned its lovely name! As a trailing vine, it produces long, graceful strands that add a touch of elegance to any space. Native to South Africa, Swaziland, and Zimbabwe, it’s a low-maintenance choice perfect for beginner plant parents. Decorative pot not included.",
+    "price": 14.4,
+    "vendor": "Leaf Envy",
+    "sourceURL": "https://leafenvy.co.uk/products/string-of-hearts",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/StringofHeartsP12cm-004.jpg?v=1751895560&width=900",
+    "imageURLs": [
+      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/StringofHeartsP12cm-004.jpg?v=1751895560&width=900",
+      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/StringofHeartsP12cm-004_67aa2b16-b839-4261-a9d0-1364c8f4e433.jpg?v=1751895564&width=900"
+    ],
+    "category": "plants"
+  },
+  {
     "id": "leaf-envy-6e41dce6bc",
     "name": "Money Tree & Pot",
     "description": "While we can’t promise it will grow you a fortune, the Money Tree has long been cherished as a symbol of prosperity, harmony, and positive energy. Its signature braided trunk is said to weave good luck into the plant itself, making it a thoughtful gift or an uplifting addition to your own space. This Pachira comes paired with our beautifully fitting Capri ceramic pot, creating a refined…",
@@ -4028,6 +4053,37 @@
     "category": "plants"
   },
   {
+    "id": "leaf-envy-76733fda8e",
+    "name": "Bamboo Orchid & Pot",
+    "description": "Tall, graceful, and effortlessly refined, the Bamboo Orchid is a plant lover’s dream. Combining the delicate, much-loved blooms of a classic orchid with the slender, architectural stems reminiscent of bamboo, it brings a serene, sculptural beauty to any space. Native to Asia, this unique orchid is found growing on rocks and trees in its natural habitat and has even held a place in traditional…",
+    "price": 36.0,
+    "vendor": "Leaf Envy",
+    "sourceURL": "https://leafenvy.co.uk/products/bamboo-orchid-pot-1",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/bamboo_orchid_earthenware_pink.jpg?v=1772565093&width=900",
+    "imageURLs": [
+      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/bamboo_orchid_earthenware_pink.jpg?v=1772565093&width=900",
+      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/bamboo_orchid_earthenware_inkyblue.jpg?v=1772565093&width=900",
+      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/bamboo_orchid_earthenware_oyster.jpg?v=1772565093&width=900",
+      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/bamboo_orchid_earthenware_pistachio.jpg?v=1763638081&width=900",
+      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/bamboo_orchid_earthenware_graphite.jpg?v=1763638081&width=900"
+    ],
+    "category": "plants"
+  },
+  {
+    "id": "leaf-envy-7a5320b873",
+    "name": "Pineapple Plant",
+    "description": "Ananas - Pineapple Plant This is a fun houseplant with lovely lush green spiky leaves and a pineapple nestling in the middle! A real talking point. Tempted to take nibble? You could but a tropically grown fruit will be much sweeter! Part of the Bromeliad family, they are native to Brazil but now seen growing in tropical regions across the globe where they are cultivated for their delicious fruit…",
+    "price": 30.4,
+    "vendor": "Leaf Envy",
+    "sourceURL": "https://leafenvy.co.uk/products/pineapple-plant",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/AnanasPineapplePlant-128.jpg?v=1751960869&width=900",
+    "imageURLs": [
+      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/AnanasPineapplePlant-128.jpg?v=1751960869&width=900",
+      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/AnanasPineapplePlant-128_11d7647a-d738-4323-bf4b-12297cca737f.jpg?v=1751960878&width=900"
+    ],
+    "category": "plants"
+  },
+  {
     "id": "leaf-envy-7b82f66e90",
     "name": "Calathea Makoyana",
     "description": "Why you’ll love it Calathea Makoyana, often called the Peacock Plant, is a striking, pet-friendly houseplant known for its detailed, patterned leaves. It’s easy to live with when given a gentle routine and prefers softer, indirect light, making it a great choice for creating interest in calmer spaces. Its layered green markings and deep purple undersides add colour without overwhelming a room…",
@@ -4037,22 +4093,6 @@
     "imageURL": "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/Calathea_Makoyana_Light.jpg?v=1766963136&width=900",
     "imageURLs": [
       "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/Calathea_Makoyana_Light.jpg?v=1766963136&width=900"
-    ],
-    "category": "plants"
-  },
-  {
-    "id": "leaf-envy-7e86f04abf",
-    "name": "Swiss Cheese Plant & Pot",
-    "description": "The Swiss Cheese Plant is one of the most iconic houseplants of all time — its dramatic, perforated leaves so distinctive that they’ve become a staple in artwork, textiles, and interior design. With its bold, sculptural foliage and lush tropical presence, it brings an instant touch of greenery and modern elegance to any room. Native to the warm, humid rainforests of southern Mexico and Panama…",
-    "price": 50.4,
-    "vendor": "Leaf Envy",
-    "sourceURL": "https://leafenvy.co.uk/products/swiss-cheese-plant-pot",
-    "imageURL": "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/W17SwissCheesegranitecapri.png?v=1764088558&width=900",
-    "imageURLs": [
-      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/W17SwissCheesegranitecapri.png?v=1764088558&width=900",
-      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/Plant_and_pot_masterArtboard133-Copy.jpg?v=1764088575&width=900",
-      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/W17SwissCheesecollgreycapri.png?v=1764088575&width=900",
-      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/W17SwissCheesegreencapri.png?v=1764088575&width=900"
     ],
     "category": "plants"
   },
@@ -4070,6 +4110,23 @@
       "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/ZZMedium-543.jpg?v=1766755699&width=900",
       "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/ZZPlantW24H90-100cm-007.jpg?v=1766755699&width=900",
       "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/ZZ_3.jpg?v=1766755699&width=900"
+    ],
+    "category": "plants"
+  },
+  {
+    "id": "leaf-envy-91c02b26c7",
+    "name": "String of Hearts & Pot",
+    "description": "Charming and effortlessly graceful, this hardy houseplant is named for its delicate, heart-shaped foliage. A natural trailing beauty, it grows into long, wispy vines that bring softness and movement to any space. Native to South Africa, Swaziland, and Zimbabwe, it’s wonderfully low maintenance — an ideal choice for new plant parents and seasoned collectors alike. Paired with a perfectly fitting…",
+    "price": 26.4,
+    "vendor": "Leaf Envy",
+    "sourceURL": "https://leafenvy.co.uk/products/string-of-hearts-pot-2",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/Plant_and_pot_masterArtboard115.jpg?v=1763649647&width=900",
+    "imageURLs": [
+      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/Plant_and_pot_masterArtboard115.jpg?v=1763649647&width=900",
+      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/Plant_and_pot_masterArtboard114.jpg?v=1763649647&width=900",
+      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/Plant_and_pot_masterArtboard116.jpg?v=1763649647&width=900",
+      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/Plant_and_pot_masterArtboard117.jpg?v=1763649647&width=900",
+      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/Plant_and_pot_masterArtboard113.jpg?v=1763649647&width=900"
     ],
     "category": "plants"
   },
@@ -4170,6 +4227,20 @@
     "category": "plants"
   },
   {
+    "id": "leaf-envy-a1d7fa224f",
+    "name": "Hoya Wayetii",
+    "description": "Hoya Wayetii The Hoya Wayetii is native to the Philippines, where it's trailing vines often grow up to an impressive 3 feet long! Part of the Asclepiadoideae family - also known as the Milkweed family. Hoya plants are known climbers, also popular for their waxy leaves and small, delicate flowers. If you have a bit of a sweet tooth, you'll fall in love with the delicious fragrance of the Hoya…",
+    "price": 20.0,
+    "vendor": "Leaf Envy",
+    "sourceURL": "https://leafenvy.co.uk/products/hoya-wayetii",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/HoyaWayetii-448.jpg?v=1751898175&width=900",
+    "imageURLs": [
+      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/HoyaWayetii-448.jpg?v=1751898175&width=900",
+      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/HoyaWayetii-448_e9a4026b-fae2-4f56-bace-43006cf76b27.jpg?v=1751898186&width=900"
+    ],
+    "category": "plants"
+  },
+  {
     "id": "leaf-envy-ae1b2540be",
     "name": "Monstera Deliciosa",
     "description": "Swiss Cheese Plant - Monstera Deliciosa The Swiss Cheese Plant is one of the most iconic houseplants, with its distinctive leaves often featured in patterns and prints. Native to the tropical rainforests of Southern Mexico and Panama, this plant thrives in warm, humid conditions. Its leaves can grow impressively large, adding a bold, tropical touch to any space. Decorative pot not included.",
@@ -4233,6 +4304,37 @@
       "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/Boston_Fern_-_Small_28113dfa-8e3b-4e7a-a5f0-e18bab1e13a4.jpg?v=1766762636&width=900",
       "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/Boston_Fern_-_Medium_-_004_1_49e9a0d3-45e5-48f8-a74d-a92b7cece6b5.jpg?v=1766762636&width=900",
       "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/Boston_Fern_-_Small_86132d58-cc33-443b-bd1a-82f2093fb77e.jpg?v=1766762636&width=900"
+    ],
+    "category": "plants"
+  },
+  {
+    "id": "leaf-envy-bfc9e33c60",
+    "name": "Lilac Peace Lily",
+    "description": "Peace Lily Bellini - Spathiphyllum wallisii Just when you thought the Peace Lily couldn’t get more beautiful, the Bellini variation features beautiful pops of lilac petals. Recognised as one of the best plants for improving air quality, removing toxins such as formaldehyde, ammonia and carbon monoxide from the air. The Peace Lily is easy to grow and is happy in most conditions - even a slightly…",
+    "price": 16.0,
+    "vendor": "Leaf Envy",
+    "sourceURL": "https://leafenvy.co.uk/products/lilac-peace-lily",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/PeaceLilyBelliniLilac-132_25590b4c-7ba7-4d71-8b07-546c44e781e1.jpg?v=1751966432&width=900",
+    "imageURLs": [
+      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/PeaceLilyBelliniLilac-132_25590b4c-7ba7-4d71-8b07-546c44e781e1.jpg?v=1751966432&width=900",
+      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/PeaceLilyBelliniLilac-132.jpg?v=1751966431&width=900"
+    ],
+    "category": "plants"
+  },
+  {
+    "id": "leaf-envy-c847e8fd40",
+    "name": "Philodendron Pedatum",
+    "description": "Philodendron Pedatum Meet the jungle-lover your home’s been waiting for. The Philodendron pedatum is a botanical showstopper with striking, deeply lobed leaves that only get more dramatic as it matures. It's a climbing variety, so it'll happily make itself at home on its moss pole. Native to South America, this beauty brings bold, tropical vibes while staying low-maintenance - just how we like…",
+    "price": 96.0,
+    "vendor": "Leaf Envy",
+    "sourceURL": "https://leafenvy.co.uk/products/philodendron-pedatum",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/Artboard2_a109aa00-036a-45da-abf1-b759d357183a.jpg?v=1752766489&width=900",
+    "imageURLs": [
+      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/Artboard2_a109aa00-036a-45da-abf1-b759d357183a.jpg?v=1752766489&width=900",
+      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/PhilodendronPedatum120-003.jpg?v=1752766489&width=900",
+      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/PhilodendronPedatum120-003_ff15bb3c-ab4f-4817-8825-5a492e42fb7b.jpg?v=1752766489&width=900",
+      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/PhilodendronPedatum160-003.jpg?v=1752766489&width=900",
+      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/PhilodendronPedatum160-003_39e873d4-9ca5-4e70-a063-d3d967f539a6.jpg?v=1752766489&width=900"
     ],
     "category": "plants"
   },
@@ -4351,20 +4453,6 @@
     "imageURL": "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/Snake_Large_Light.jpg?v=1766842838&width=900",
     "imageURLs": [
       "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/Snake_Large_Light.jpg?v=1766842838&width=900"
-    ],
-    "category": "plants"
-  },
-  {
-    "id": "leaf-envy-f06d9a6af4",
-    "name": "Alocasia Tiny Dancer",
-    "description": "Say hello to your new leafy sidekick. With its upright stems and quirky, paddle-shaped leaves, Alocasia ‘Tiny Dancer’ is here to steal the show - without taking up all the space. Perfectly petite and full of personality, this little stunner brings sculptural vibes and a touch of the tropics to any corner of your home. It's a natural fit for shelves, desks, or anywhere that could use a pop of…",
-    "price": 14.4,
-    "vendor": "Leaf Envy",
-    "sourceURL": "https://leafenvy.co.uk/products/alocasia-tiny-dancer",
-    "imageURL": "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/AlocasiaTinyDancer-470.jpg?v=1751893886&width=900",
-    "imageURLs": [
-      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/AlocasiaTinyDancer-470.jpg?v=1751893886&width=900",
-      "https://cdn.shopify.com/s/files/1/0093/4412/2980/files/Alocasia_Tiny_Dancer-470.jpg?v=1751893900&width=900"
     ],
     "category": "plants"
   },
@@ -5828,7 +5916,8 @@
     "sourceURL": "https://jealousgallery.com/products/ao-phrao-beach",
     "imageURL": "https://cdn.shopify.com/s/files/1/0503/2073/6418/files/JosieAppleby-AoPhraoBeach.png?v=1762627464&width=900",
     "imageURLs": [
-      "https://cdn.shopify.com/s/files/1/0503/2073/6418/files/JosieAppleby-AoPhraoBeach.png?v=1762627464&width=900"
+      "https://cdn.shopify.com/s/files/1/0503/2073/6418/files/JosieAppleby-AoPhraoBeach.png?v=1762627464&width=900",
+      "https://cdn.shopify.com/s/files/1/0503/2073/6418/files/JosieAppleby-PillarsofPinesSigning_944ea701-935d-4e5d-8169-8df8bb10eaa0.jpg?v=1790680035&width=900"
     ],
     "category": "posters"
   },
@@ -5910,7 +5999,8 @@
     "sourceURL": "https://jealousgallery.com/products/pillars-of-pines",
     "imageURL": "https://cdn.shopify.com/s/files/1/0503/2073/6418/files/Josie_Applby_-_Pillars_of_Pines_2b121a58-aa6d-4bdf-bb01-5828cd116967.jpg?v=1719409947&width=900",
     "imageURLs": [
-      "https://cdn.shopify.com/s/files/1/0503/2073/6418/files/Josie_Applby_-_Pillars_of_Pines_2b121a58-aa6d-4bdf-bb01-5828cd116967.jpg?v=1719409947&width=900"
+      "https://cdn.shopify.com/s/files/1/0503/2073/6418/files/Josie_Applby_-_Pillars_of_Pines_2b121a58-aa6d-4bdf-bb01-5828cd116967.jpg?v=1719409947&width=900",
+      "https://cdn.shopify.com/s/files/1/0503/2073/6418/files/JosieAppleby-PillarsofPinesSigning_10c7fcc4-59b1-47f0-b063-dce35880987c.jpg?v=1790680073&width=900"
     ],
     "category": "posters"
   },
@@ -6014,7 +6104,8 @@
     "sourceURL": "https://jealousgallery.com/products/ao-phrao-beach-copy",
     "imageURL": "https://cdn.shopify.com/s/files/1/0503/2073/6418/files/JosieAppleby-PaiCanyon_60f5edb7-1281-49e4-a13c-702e64f6e8eb.png?v=1773073039&width=900",
     "imageURLs": [
-      "https://cdn.shopify.com/s/files/1/0503/2073/6418/files/JosieAppleby-PaiCanyon_60f5edb7-1281-49e4-a13c-702e64f6e8eb.png?v=1773073039&width=900"
+      "https://cdn.shopify.com/s/files/1/0503/2073/6418/files/JosieAppleby-PaiCanyon_60f5edb7-1281-49e4-a13c-702e64f6e8eb.png?v=1773073039&width=900",
+      "https://cdn.shopify.com/s/files/1/0503/2073/6418/files/JosieAppleby-PaiCanyon.jpg?v=1790679955&width=900"
     ],
     "category": "posters"
   },
@@ -6067,7 +6158,8 @@
     "sourceURL": "https://jealousgallery.com/products/khmer-tnaot-tree",
     "imageURL": "https://cdn.shopify.com/s/files/1/0503/2073/6418/files/Josie_Appleby_-_Khmer_Tnaot_Tree.jpg?v=1719405517&width=900",
     "imageURLs": [
-      "https://cdn.shopify.com/s/files/1/0503/2073/6418/files/Josie_Appleby_-_Khmer_Tnaot_Tree.jpg?v=1719405517&width=900"
+      "https://cdn.shopify.com/s/files/1/0503/2073/6418/files/Josie_Appleby_-_Khmer_Tnaot_Tree.jpg?v=1719405517&width=900",
+      "https://cdn.shopify.com/s/files/1/0503/2073/6418/files/JosieAppleby-KhmerTnaotTree_b8cfffcd-0a8b-49f2-806e-9f4b2cd32992.jpg?v=1790680055&width=900"
     ],
     "category": "posters"
   },
@@ -11058,23 +11150,6 @@
     "category": "sculptures"
   },
   {
-    "id": "rockett-st-george-4c67103f00",
-    "name": "Red Fish Display Dish",
-    "description": "Make your shelves extra fishy. Say hello to the Red Fish Display Dish – a quirky little serving platter with serious personality. Drenched in a bold crimson red and shaped like the cutest fish, this red tableware is made for maximalist moments. Adorn it with rings, earrings and tiny treasures, style it on a shelf, or on a table for an unexpected pop of fun. It is food safe, so you could serve…",
-    "price": 26.0,
-    "vendor": "Rockett St George",
-    "sourceURL": "https://rockettstgeorge.co.uk/products/red-fish-display-dish",
-    "imageURL": "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Red-Fish-Serving-Dish-lowres-1.jpg?v=1771333119&width=900",
-    "imageURLs": [
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Red-Fish-Serving-Dish-lowres-1.jpg?v=1771333119&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Red-Fish-Serving-Dish-lowres-2.jpg?v=1771333119&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Red-Fish-Serving-Dish-lowres-3.jpg?v=1771333118&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Red-Fish-Serving-Dish-lowres-4.jpg?v=1771333119&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Red-Fish-Serving-Dish-lowres-5.jpg?v=1771333119&width=900"
-    ],
-    "category": "sculptures"
-  },
-  {
     "id": "rockett-st-george-54ecef0ef2",
     "name": "Gold Amour Heart Trinket Box",
     "description": "Keep your favourite treasures tucked away in style with this gorgeous keepsake box. Beautifully crafted in the shape of a heart, this luxurious little trinket dish is finished in a rich gold hue and topped with an intricate Milagro-inspired heart detail for an extra touch of romance and charm. Perfect for use as a jewellery holder or for storing those tiny treasures that deserve a special home…",
@@ -11310,23 +11385,6 @@
     "category": "sculptures"
   },
   {
-    "id": "rockett-st-george-adc0e25f54",
-    "name": "Vintage-Style Milagro Trinket Dish",
-    "description": "A little treasure box with a whole lot of magic. The Gold Milagro Heart Trinket box is the epitome of trinket dishes and trinket boxes. It looks like it has wandered straight out of a whimsical fairy tale, with its ornate heart-shaped design, antique gold finish and beautiful leafy details. Finished with a wonderfully dramatic flourish on top, it feels part sacred keepsake, part mystical…",
-    "price": 22.0,
-    "vendor": "Rockett St George",
-    "sourceURL": "https://rockettstgeorge.co.uk/products/vintage-style-milagro-trinket-dish",
-    "imageURL": "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Vintage-Style-Milagro-Trinket-Dish-lores-1.jpg?v=1789476738&width=900",
-    "imageURLs": [
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Vintage-Style-Milagro-Trinket-Dish-lores-1.jpg?v=1789476738&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Vintage-Style-Milagro-Trinket-Dish-lores-2.jpg?v=1789476738&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Vintage-Style-Milagro-Trinket-Dish-lores-3.jpg?v=1789476738&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Vintage-Style-Milagro-Trinket-Dish-lores-4.jpg?v=1789476738&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Vintage-Style-Milagro-Trinket-Dish-lores-5.jpg?v=1789476738&width=900"
-    ],
-    "category": "sculptures"
-  },
-  {
     "id": "rockett-st-george-b1d8e263c4",
     "name": "HKLIVING Pink Modernist Cube Ornament",
     "description": "Say hello to this gorgeous trinket dish – a playful take on a modernist design that proves practical can be pretty too. Its simple cube shape, honest form and gorgeous pink hue are softened by rounded edges, giving this small ornament a fun and tactile feel. Perfect for keeping bedroom accessories, your favourite trinkets, jewellery or tiny treasures tucked away, it’s storage that definitely…",
@@ -11428,6 +11486,40 @@
     "category": "sculptures"
   },
   {
+    "id": "rockett-st-george-ca3fb79122",
+    "name": "Alice In Wonderland Inspired Balancing Act White Rabbit Ornament",
+    "description": "Step into a world of wonder with this adorable balancing act white rabbit figurine, a magical tribute to Alice In Wonderland. Dressed to impress in a dapper waistcoat and a bowtie, this charming ornament is caught in a playful balancing act; teacups in hand, a delightful tiered cake perched on one foot, and a teapot stack sitting proudly on top of his hat. Every inch of this beautifully crafted…",
+    "price": 225.0,
+    "vendor": "Rockett St George",
+    "sourceURL": "https://rockettstgeorge.co.uk/products/alice-in-wonderland-inspired-balancing-act-white-rabbit-ornament",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Alice-In-Wonderland-Inspired-Balancing-Act-White-Rabbit-Ornament-lores-1.jpg?v=1739982891&width=900",
+    "imageURLs": [
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Alice-In-Wonderland-Inspired-Balancing-Act-White-Rabbit-Ornament-lores-1.jpg?v=1739982891&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Alice-In-Wonderland-Inspired-Balancing-Act-White-Rabbit-Ornament-lores-3.jpg?v=1739982891&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Alice-In-Wonderland-Inspired-Balancing-Act-White-Rabbit-Ornament-lores-7.jpg?v=1739982891&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Alice-In-Wonderland-Inspired-Balancing-Act-White-Rabbit-Ornament-lores-5.jpg?v=1739982891&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Alice-In-Wonderland-Inspired-Balancing-Act-White-Rabbit-Ornament-lores-2.jpg?v=1739982891&width=900"
+    ],
+    "category": "sculptures"
+  },
+  {
+    "id": "rockett-st-george-d1b0df8268",
+    "name": "Amber Smoked Glass Decanter",
+    "description": "<!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--> The Amber Smoked Glass Decanter is a charming blend of artistry and practicality, featuring a unique ball lid that slots perfectly into the bottle, creating the most elegant silhouette. The rich bronze hue, coupled with the artisanal craftsmanship offers a rustic appeal to this decorative bottle. Perfect for adding a touch…",
+    "price": 40.0,
+    "vendor": "Rockett St George",
+    "sourceURL": "https://rockettstgeorge.co.uk/products/small-bronze-bottle",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Small-Bronze-Bottle-lores-1.jpg?v=1728990103&width=900",
+    "imageURLs": [
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Small-Bronze-Bottle-lores-1.jpg?v=1728990103&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Small-Bronze-Bottle-lores-2.jpg?v=1728990102&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Small-Bronze-Bottle-lores-3.jpg?v=1728990102&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Small-Bronze-Bottle-lores-4.jpg?v=1728990102&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Small-Bronze-Bottle-lores-5.jpg?v=1728990102&width=900"
+    ],
+    "category": "sculptures"
+  },
+  {
     "id": "rockett-st-george-d4bc686988",
     "name": "Brushed Gold Faux Sea Shell Ornament",
     "description": "About The Brushed Gold Faux Sea Shell Ornament A beautiful accessory that celebrates the call of the coast, the Brushed Gold Faux Sea Shell Ornament is the perfect piece to take your home styling to the next level. Made from porcelain with a distressed gold finish, the sea shell design measures H20cm x W29cm x D16cm. Please note, the gold shell has an antique look with black flecks in the finish…",
@@ -11441,23 +11533,6 @@
       "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Brushed-Gold-Faux-Sea-Shell-Ornament-lores-3.jpg?v=1716550903&width=900",
       "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Brushed-Gold-Faux-Sea-Shell-Ornament-lores-4.jpg?v=1716550903&width=900",
       "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-brushed-gold-faux-sea-snail-ornament-lores.jpg?v=1716550903&width=900"
-    ],
-    "category": "sculptures"
-  },
-  {
-    "id": "rockett-st-george-d7aa2f7d03",
-    "name": "Set Of 3 Black Metal Stars",
-    "description": "The Set Of 3 Black Metal Stars is ideal for introducing magic and intrigue to the walls of your home. Made from metal, the set reveals three different-sized stars, with a beautiful antique black finish applied across each five-point star within the set. A great alternative to traditional wall art, these beautiful black stars are designed with fixings on the back and can be introduced to the walls…",
-    "price": 65.0,
-    "vendor": "Rockett St George",
-    "sourceURL": "https://rockettstgeorge.co.uk/products/set-of-3-black-metal-stars",
-    "imageURL": "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Set-Of-3-Black-Metal-Stars-hires-3.jpg?v=1727960517&width=900",
-    "imageURLs": [
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Set-Of-3-Black-Metal-Stars-hires-3.jpg?v=1727960517&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Set-Of-3-Black-Metal-Stars-lowres-lifestyle_2of4.jpg?v=1713973089&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Set-Of-3-Black-Metal-Stars-lowres-lifestyle_1of4.jpg?v=1762256160&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Set-Of-3-Black-Metal-Stars-lowres-lifestyle_4of4.jpg?v=1713973089&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Set-Of-3-Black-Metal-Stars-lowres-lifestyle_3of4.jpg?v=1713973089&width=900"
     ],
     "category": "sculptures"
   },
@@ -11526,6 +11601,23 @@
       "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Gold-Tortoise-Ornament-lores-3.jpg?v=1788866933&width=900",
       "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Gold-Tortoise-Ornament-lores-4.jpg?v=1788866933&width=900",
       "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Gold-Tortoise-Ornament-lores-5.jpg?v=1788866933&width=900"
+    ],
+    "category": "sculptures"
+  },
+  {
+    "id": "rockett-st-george-ef3a6d4120",
+    "name": "Scalloped Leopard Print Photo Frame",
+    "description": "The Scalloped Leopard Print Photo Frame is not here to blend into the background – it’s here to frame things fabulously. With its playful scalloped edges and bold leopard print finish, this leopard print home décor turns even the simplest photo into a full-on statement. The soft, velvety texture gives it that luxe feel, while the classic print keeps things effortlessly stylish with a hint of…",
+    "price": 28.0,
+    "vendor": "Rockett St George",
+    "sourceURL": "https://rockettstgeorge.co.uk/products/scalloped-leopard-print-photo-frame",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Scalloped-Edge-Leopard-Print-Frame-lores-1.jpg?v=1790928747&width=900",
+    "imageURLs": [
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Scalloped-Edge-Leopard-Print-Frame-lores-1.jpg?v=1790928747&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Scalloped-Edge-Leopard-Print-Frame-lores-2.jpg?v=1790928747&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Scalloped-Edge-Leopard-Print-Frame-lores-3.jpg?v=1790928747&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Scalloped-Edge-Leopard-Print-Frame-lores-4.jpg?v=1790928747&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Scalloped-Edge-Leopard-Print-Frame-lores-6.jpg?v=1790928747&width=900"
     ],
     "category": "sculptures"
   },
@@ -11617,7 +11709,7 @@
   {
     "id": "nkuku-34779b17e1",
     "name": "Sande Arched Mango Wood Mirror - Natural",
-    "description": "Our Sande Arched Mango Wood Mirror reimagines a classic arched design with a distinctive nkuku touch. Framed in sustainably sourced mango wood, its soft curves and textured finish bring warmth and character to any wall. Whether placed above a console or fireplace, this beautifully crafted mirror creates a striking focal point, adding both style and depth to your home.",
+    "description": "Our Sande Arched Mango Wood Mirror reimagines a classic arched design with a distinctive Nkuku touch. Framed in sustainably sourced mango wood, its soft curves and textured finish bring warmth and character to any wall. Whether placed above a console or fireplace, this beautifully crafted mirror creates a striking focal point, adding both style and depth to your home.",
     "price": 480.0,
     "vendor": "Nkuku",
     "sourceURL": "https://nkuku.com/products/sande-arched-mango-wood-mirror-natural-sm08",
@@ -12073,7 +12165,7 @@
   {
     "id": "olivias-c026e5b855",
     "name": "Quill Mirror 62x62cm",
-    "description": "Contemporary circular feather design mirror with intrciate detailing and a bevelled cetner mirror in an aged gold finish.",
+    "description": "Contemporary circular feather design mirror with intricate detailing and a bevelled centre mirror in an aged gold finish.",
     "price": 68.0,
     "vendor": "Olivia's",
     "sourceURL": "https://olivias.com/products/gallerydirect-quill-mirror",
@@ -12264,18 +12356,19 @@
     "category": "wall_decorations"
   },
   {
-    "id": "poster-club-4223e48046",
-    "name": "Inti",
-    "description": "Handcrafted in Argentina by Lucrecia Rey Caro, Inti is a ceramic art piece that celebrates the Sun deity of Inca cosmology – a symbol of life, warmth and creation – its form and craftsmanship echoing an ancient dialogue between hands and earth, embodying both vitality and reverence. Clay is humanity’s first language with the land and carries within it the ancestral pulse of creation. In Inti…",
-    "price": 162.0,
+    "id": "poster-club-3ccd785083",
+    "name": "Nawi",
+    "description": "Handcrafted in Argentina by Lucrecia Rey Caro, Nawi reflects the Andean concept of ñawi – the idea of vision as both physical sight and inner, ancestral perception – its form inviting contemplation and a way of seeing that bridges the visible and the unseen. Forged from natural clay, Nawi continues a lineage of sacred craftsmanship passed down through generations. In its curves and surface, the…",
+    "price": 137.0,
     "vendor": "The Poster Club",
-    "sourceURL": "https://theposterclub.com/products/lucrecia-rey-caro-inti",
-    "imageURL": "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Lucrecia_Rey_Caro_Product_01.jpg?v=1779277351&width=900",
+    "sourceURL": "https://theposterclub.com/products/lucrecia-rey-caro-nawi",
+    "imageURL": "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Lucrecia_Rey_Caro_Nawi_Product_Low_Res.jpg?v=1779277310&width=900",
     "imageURLs": [
-      "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Lucrecia_Rey_Caro_Product_01.jpg?v=1779277351&width=900",
-      "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Lucrecia_Rey_Caro_Lifestyle_01_02.jpg?v=1779277352&width=900",
-      "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Lucrecia_Rey_Caro_Lifestyle_01_01.jpg?v=1779277351&width=900",
-      "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Lucrecia_Rey_Caro_Lifestyle_01_03.jpg?v=1779277352&width=900"
+      "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Lucrecia_Rey_Caro_Nawi_Product_Low_Res.jpg?v=1779277310&width=900",
+      "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Lucrecia_Rey_Caro_Nawi_Lifestyle_Low_Res.jpg?v=1779277310&width=900",
+      "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Lucrecia_Rey_Caro_Nawi_Close_Up_Low_Res.jpg?v=1779277310&width=900",
+      "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Lucrecia_Rey_Caro_Group_01_Low_Res.jpg?v=1779277289&width=900",
+      "https://cdn.shopify.com/s/files/1/1009/3975/9948/files/Lucrecia_Rey_Caro_Group_02_Low_Res.jpg?v=1779277290&width=900"
     ],
     "category": "wall_decorations"
   },
@@ -12748,19 +12841,19 @@
     "category": "wall_decorations"
   },
   {
-    "id": "rockett-st-george-1db06f8f44",
-    "name": "Aged Style Absinthe, Bieres & Vins Decorative Mirror",
-    "description": "<!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--> In a piece that wouldn’t look out of place in a Parisian wine bar, this beautiful mirror has an antiqued-style, rustic finish, and, just as fabulously, happens to list all of our favourite things! The black frame makes a striking contrast against the foxed silver, from which the gold ornate typography pops beautifully…",
-    "price": 125.0,
+    "id": "rockett-st-george-1d61622592",
+    "name": "Beautiful Ornate Gold Wall Mirror",
+    "description": "Mirror, mirror on the wall… who’s the most fabulous of them all? The Beautiful Ornate Gold Wall Mirror looks like it could have been plucked straight from a fairytale, with its wonderfully ornate frame covered in elegant swirls, curling details and delicate floral flourishes. With a gorgeous golden finish that keeps things feeling light-hearted and playful, rather than overly serious, this ornate…",
+    "price": 75.0,
     "vendor": "Rockett St George",
-    "sourceURL": "https://rockettstgeorge.co.uk/products/aged-style-absinth-bieres-vins-decorative-mirror",
-    "imageURL": "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Aged-Style-Absinth-Bieres-_-Vins-Decorative-Mirror-lores-2.jpg?v=1747925049&width=900",
+    "sourceURL": "https://rockettstgeorge.co.uk/products/beautiful-ornate-gold-wall-mirror",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Beautiful-Ornate-Gold-Wall-Mirror-lores-1.jpg?v=1788360117&width=900",
     "imageURLs": [
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Aged-Style-Absinth-Bieres-_-Vins-Decorative-Mirror-lores-2.jpg?v=1747925049&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Aged-Style-Absinth-Bieres-_-Vins-Decorative-Mirror-lores.jpg?v=1747925049&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Aged-Style-Absinth-Bieres-_-Vins-Decorative-Mirror-lores-3.jpg?v=1728049204&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Aged-Style-Absinth-Bieres-_-Vins-Decorative-Mirror-lores-4.jpg?v=1728049205&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Aged-Style-Absinth-Bieres-_-Vins-Decorative-Mirror-lores-5.jpg?v=1728049088&width=900"
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Beautiful-Ornate-Gold-Wall-Mirror-lores-1.jpg?v=1788360117&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Gold-Milagro-Hearts-Glass-Dome-lores-3_1_3feefaf8-b15a-4211-be5f-b1293204d753.jpg?v=1788427187&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Beautiful-Ornate-Gold-Wall-Mirror-lores-2.jpg?v=1788360118&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Beautiful-Ornate-Gold-Wall-Mirror-lores-3.jpg?v=1788360117&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Beautiful-Ornate-Gold-Wall-Mirror-lores-4.jpg?v=1788360118&width=900"
     ],
     "category": "wall_decorations"
   },
@@ -12798,23 +12891,6 @@
     "category": "wall_decorations"
   },
   {
-    "id": "rockett-st-george-2d01857a0e",
-    "name": "Gold Sacred Heart Ornate Mirror",
-    "description": "Looking to add a little divine drama to your space? Meet the Sacred Heart Ornate Mirror – your new favourite statement piece! With its radiant gold rays and stunning heart-shaped silhouette, this gold mirror is a beautiful addition to your home accessories. Perfect as a hallway mirror for that hallway that needs a bit of oomph, or a bedroom that craves a little romance, or even above a…",
-    "price": 48.0,
-    "vendor": "Rockett St George",
-    "sourceURL": "https://rockettstgeorge.co.uk/products/gold-sacred-heart-ornate-mirror",
-    "imageURL": "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Gold-Sacred-Heart-Ornate-Mirror-lores-1.jpg?v=1750931919&width=900",
-    "imageURLs": [
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Gold-Sacred-Heart-Ornate-Mirror-lores-1.jpg?v=1750931919&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Gold-Sacred-Heart-Ornate-Mirror-lores-2.jpg?v=1750931919&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Gold-Sacred-Heart-Ornate-Mirror-lores-3.jpg?v=1750931919&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Gold-Sacred-Heart-Ornate-Mirror-lores-4.jpg?v=1750931919&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Gold-Sacred-Heart-Ornate-Mirror-lores-5.jpg?v=1750931919&width=900"
-    ],
-    "category": "wall_decorations"
-  },
-  {
     "id": "rockett-st-george-2e5408c7a2",
     "name": "Naughty Corner Sign",
     "description": "About The Naughty Corner Metal Sign A show stopping monochrome piece, the Naughty Corner Metal Sign will add a statement look and a fabulous phrase to any room in your home. This Vintage Metal Sign has a rustic finish with a retro vibe, injecting a mischievous yet effortlessly stylish feel amongst any interior, a must have accessory if you dare to be different with your delightful decor. Why We…",
@@ -12827,6 +12903,40 @@
       "https://cdn.shopify.com/s/files/1/0704/4481/0555/products/rockettstgeorge-naughty-corner-metal-sign-lores-2.jpg?v=1683706478&width=900",
       "https://cdn.shopify.com/s/files/1/0704/4481/0555/products/rockettstgeorge-naughty-corner-metal-sign-lores-3.jpg?v=1683706478&width=900",
       "https://cdn.shopify.com/s/files/1/0704/4481/0555/products/rockett-st-george-customer-homes-naughty-corner-sign.jpg?v=1683706478&width=900"
+    ],
+    "category": "wall_decorations"
+  },
+  {
+    "id": "rockett-st-george-358eb88150",
+    "name": "Lucky You Mirror",
+    "description": "Feeling lucky? You will be with this hallway mirror! The Lucky You Mirror features a chic gold edge and the words ‘Lucky You’ at the centre, surrounded by ornate, rope-like gold detailing for an extra touch of glamour. Equal parts pretty and playful, this statement mirror adds personality to your gallery wall while adding a subtle dose of golden shine. Hang it in a hallway, bedroom or living room…",
+    "price": 85.0,
+    "vendor": "Rockett St George",
+    "sourceURL": "https://rockettstgeorge.co.uk/products/lucky-you-mirror",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Lucky-You-Mirror-lowres-1.jpg?v=1790857559&width=900",
+    "imageURLs": [
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Lucky-You-Mirror-lowres-1.jpg?v=1790857559&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Lucky-You-Mirror-lowres-2.jpg?v=1790857559&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Lucky-You-Mirror-lowres-3.jpg?v=1790857559&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Lucky-You-Mirror-lowres-4.jpg?v=1790857559&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Lucky-You-Mirror-lowres-5.jpg?v=1790857559&width=900"
+    ],
+    "category": "wall_decorations"
+  },
+  {
+    "id": "rockett-st-george-3bb4a47f0f",
+    "name": "Set of 2 Framed Oval Chinoiserie Wall Hangings",
+    "description": "Give your walls a touch of timeless charm with this set of two art wall hangings. This beautiful duo features elegant oval mirrors adorned with intricate chinoiserie-inspired botanical designs, delicate birds and pretty natural details, all finished with a classic gold-tone frame. Hung together, they make a gorgeous feature on their own or can be worked into a more eclectic gallery wall set for…",
+    "price": 185.0,
+    "vendor": "Rockett St George",
+    "sourceURL": "https://rockettstgeorge.co.uk/products/set-of-2-framed-oval-chinoiserie-wall-hangings",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Set-Of-2-Oval-Chinoiserie-Wall-Hangings-lores-1_7afd39eb-2200-446a-8843-89659c1eef23.jpg?v=1790855903&width=900",
+    "imageURLs": [
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Set-Of-2-Oval-Chinoiserie-Wall-Hangings-lores-1_7afd39eb-2200-446a-8843-89659c1eef23.jpg?v=1790855903&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Set-Of-2-Oval-Chinoiserie-Wall-Hangings-lores-2_3604a98a-d72a-4a00-86d1-a4f2a88ebfe6.jpg?v=1790855903&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Set-Of-2-Oval-Chinoiserie-Wall-Hangings-lores-3_0000360c-f6db-473f-9519-53862b762cf3.jpg?v=1790855904&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Set-Of-2-Oval-Chinoiserie-Wall-Hangings-lores-4_a62475b7-bea1-4c8b-a5f8-514489ce20d4.jpg?v=1790855903&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Set-Of-2-Oval-Chinoiserie-Wall-Hangings-lores-5_faae1037-7c94-456d-bc0e-966a7cc44ab3.jpg?v=1790855903&width=900"
     ],
     "category": "wall_decorations"
   },
@@ -12909,56 +13019,6 @@
       "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Antiqued-Gold-Sun-Convex-Wall-Mirror-lores-2.jpg?v=1753357272&width=900",
       "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Antiqued-Gold-Sun-Convex-Wall-Mirror-lores-3.jpg?v=1753357273&width=900",
       "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Antiqued-Gold-Sun-Convex-Wall-Mirror-lores-4.jpg?v=1753357272&width=900"
-    ],
-    "category": "wall_decorations"
-  },
-  {
-    "id": "rockett-st-george-59d1f7c247",
-    "name": "Black & Gold Bow Round Wall Mirror",
-    "description": "Mirror, mirror on the wall… who’s the sassiest of them all? This large mirror - our Black & Gold Bow Round Wall Mirror. With its sleek black frame, glimmering gold beaded trim and that ridiculously cute gold bow perched on top, this decorative mirror isn’t just for checking your reflection – it’s a full-on statement piece. A little bit vintage glam, a little bit modern chic and one hundred per…",
-    "price": 195.0,
-    "vendor": "Rockett St George",
-    "sourceURL": "https://rockettstgeorge.co.uk/products/black-gold-bow-round-wall-mirror",
-    "imageURL": "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Black-and-Gold-Bow-Round-Wall-Mirror-lowres.jpg?v=1748529300&width=900",
-    "imageURLs": [
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Black-and-Gold-Bow-Round-Wall-Mirror-lowres.jpg?v=1748529300&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Black-and-Gold-Bow-Round-Wall-Mirror-lowres-2.jpg?v=1748529301&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Black-and-Gold-Bow-Round-Wall-Mirror-lowres-3.jpg?v=1748529300&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Black-and-Gold-Bow-Round-Wall-Mirror-lowres-4.jpg?v=1748529301&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Black-and-Gold-Bow-Round-Wall-Mirror-lowres-5.jpg?v=1748529300&width=900"
-    ],
-    "category": "wall_decorations"
-  },
-  {
-    "id": "rockett-st-george-5d0e7ee009",
-    "name": "Gold Milagro Sacred Heart Mirror",
-    "description": "Say hello to the most beautiful small gold mirror – a little piece of golden magic for your walls and home accessories. This beauty is all heart, with a glowing, antique-style gold frame shaped like a sacred heart and surrounded by bold, radiant rays. It’s the kind of small mirror that looks like it was taken straight from an old chapel in the Spanish countryside… or maybe your wildest maximalist…",
-    "price": 34.0,
-    "vendor": "Rockett St George",
-    "sourceURL": "https://rockettstgeorge.co.uk/products/gold-milagro-sacred-heart-mirror",
-    "imageURL": "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Gold-Milagro-Sacred-Heart-Mirror-lores-1.jpg?v=1750932911&width=900",
-    "imageURLs": [
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Gold-Milagro-Sacred-Heart-Mirror-lores-1.jpg?v=1750932911&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Gold-Milagro-Sacred-Heart-Mirror-lores-2.jpg?v=1750932911&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Gold-Milagro-Sacred-Heart-Mirror-lores-3.jpg?v=1750932911&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Gold-Milagro-Sacred-Heart-Mirror-lores-4.jpg?v=1750932908&width=900"
-    ],
-    "category": "wall_decorations"
-  },
-  {
-    "id": "rockett-st-george-5f70eff49f",
-    "name": "Fucking Ace Decorative Playing Card Mirror",
-    "description": "<!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--> As positive reinforcements go, this mirror says it all – you are Fucking Ace, and let no-one tell you different! This fabulously quirky piece is perfect for perching on shelves, sideboards or hanging as part of a gallery wall. We particularly love the hand-drawn effect that pops out of the foxed silver, which gives this an…",
-    "price": 48.0,
-    "vendor": "Rockett St George",
-    "sourceURL": "https://rockettstgeorge.co.uk/products/fucking-ace-decorative-playing-card-mirror",
-    "imageURL": "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Fucking-Ace-Decorative-Playing-Card-Mirror-lores.jpg?v=1728050730&width=900",
-    "imageURLs": [
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Fucking-Ace-Decorative-Playing-Card-Mirror-lores.jpg?v=1728050730&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Fucking-Ace-Decorative-Playing-Card-Mirror-lores-2.jpg?v=1728050730&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Fucking-Ace-Decorative-Playing-Card-Mirror-lores-3.jpg?v=1728050729&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Fucking-Ace-Decorative-Playing-Card-Mirror-lores-4.jpg?v=1728050729&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Fucking-Ace-Decorative-Playing-Card-Mirror-lores-5.jpg?v=1728050730&width=900"
     ],
     "category": "wall_decorations"
   },
@@ -13133,23 +13193,6 @@
     "category": "wall_decorations"
   },
   {
-    "id": "rockett-st-george-972ab7dc34",
-    "name": "Fuck Normal, I Want Magic Mirror",
-    "description": "Exclusive Rockett St George In-House Design About The Fuck Normal, I Want Magic Mirror The Vintage-Style Fuck Normal, I Want Magic Mirror is proudly joining our beautiful collection of typography mirrors. Showcasing a unique mix of period and modern features, this rectangle mirror features a gold background, decorative period features and vintage typography with a modern quote. This mirror…",
-    "price": 120.0,
-    "vendor": "Rockett St George",
-    "sourceURL": "https://rockettstgeorge.co.uk/products/fuck-normal-i-want-magic-mirror",
-    "imageURL": "https://cdn.shopify.com/s/files/1/0704/4481/0555/products/rockettstgeorge-vintage-style-fuck-normal_-i-want-magic-typography-mirror-lores.jpg?v=1683724830&width=900",
-    "imageURLs": [
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/products/rockettstgeorge-vintage-style-fuck-normal_-i-want-magic-typography-mirror-lores.jpg?v=1683724830&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/products/rockettstgeorge-vintage-style-fuck-normal_-i-want-magic-typography-mirror-lores-3.jpg?v=1713181423&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/products/rockettstgeorge-vintage-style-fuck-normal_-i-want-magic-typography-mirror-lores-2.jpg?v=1713181423&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/products/rockettstgeorge-vintage-style-fuck-normal_-i-want-magic-typography-mirror-lores-4.jpg?v=1683724830&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/products/rockettstgeorge-vintage-style-fuck-normal_-i-want-magic-typography-mirror-lores-5.jpg?v=1683724830&width=900"
-    ],
-    "category": "wall_decorations"
-  },
-  {
     "id": "rockett-st-george-9a1222960b",
     "name": "Sapphire Blue Moroccan-Style Wall Mirror",
     "description": "This arched mirror is not here to blend in. Inspired by the dreamy blues of the Jardin Majorelle, this ornate mirror brings instant sunshine, wanderlust and main-character energy to your walls. The elegant arched shape gives you that classic Moroccan feel, while the mirrored sapphire blue frame catches the light most gorgeously. It doesn’t just hang there – it elevates the entire room. It makes a…",
@@ -13267,6 +13310,23 @@
     "category": "wall_decorations"
   },
   {
+    "id": "rockett-st-george-c88b410d12",
+    "name": "Set of 3 Framed Rectangular Chinoiserie Decorative Mirrors",
+    "description": "Give your walls a little extra character with the Set of 3 Framed Rectangular Chinoiserie Decorative Mirrors. This beautiful wall décor combines elegant rectangular frames with intricate chinoiserie-inspired designs, creating a lovely mix of pattern, detail and timeless charm. Hang this set of wall mirrors together for a striking statement or work them into a larger gallery wall for a more…",
+    "price": 295.0,
+    "vendor": "Rockett St George",
+    "sourceURL": "https://rockettstgeorge.co.uk/products/set-of-3-framed-rectangular-chinoiserie-decorative-mirrors",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Set-Of-3-Chinoiserie-Decorative-Mirrors-lores-2_ae7fde11-f0fa-4d19-92bd-77e06aae5458.jpg?v=1790856282&width=900",
+    "imageURLs": [
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Set-Of-3-Chinoiserie-Decorative-Mirrors-lores-2_ae7fde11-f0fa-4d19-92bd-77e06aae5458.jpg?v=1790856282&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Set-Of-3-Chinoiserie-Decorative-Mirrors-lores-3_b2efd738-84fb-4267-b940-a12bc7ea0641.jpg?v=1790856282&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Set-Of-3-Chinoiserie-Decorative-Mirrors-lowres-1_4b4a4049-c60d-44ec-8cfa-01799e3a27f5.jpg?v=1790856282&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Set-Of-3-Chinoiserie-Decorative-Mirrors-lowres-5_a086361d-798f-4362-8894-c15d81c95593.jpg?v=1790856283&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Set-Of-3-Chinoiserie-Decorative-Mirrors-lores-5_fc713fdf-2025-4cb4-9780-fbf3e5d948cf.jpg?v=1790856282&width=900"
+    ],
+    "category": "wall_decorations"
+  },
+  {
     "id": "rockett-st-george-ca36359089",
     "name": "Antique-Style Gold Cross Wall Mirror",
     "description": "Make a statement with a little bit of edge! This unique wall décor is the perfect blend of gothic glamour and cool, contemporary style. The cross-shaped design is finished with a gorgeous gold frame, while the distressed effect across the mirrored surface gives it that perfectly imperfect, vintage-inspired feel. Hang it on its own for an effortlessly edgy focal point, or style it alongside other…",
@@ -13333,19 +13393,18 @@
     "category": "wall_decorations"
   },
   {
-    "id": "rockett-st-george-e3ac343d04",
-    "name": "Beautiful Bird Wall Art Mirror",
-    "description": "About The Beautiful Bird Wall Art Mirror The Beautiful Bird Wall Art Mirror is a gorgeous design that introduces statement style to any corner of the home. Made from glass with a classic black frame, the long mirror is designed with an antique, foxed finish and a beautiful pattern of flowers and birds. Measuring H76cm, the decoration wall mirror design can be styled on the wall or leaned against…",
-    "price": 120.0,
+    "id": "rockett-st-george-e30cc566e4",
+    "name": "Pink Ornate Print Frame Mirror",
+    "description": "An ornate mirror with a little secret up its sleeve! This Pink Ornate Print Frame Mirror brings the look of an ornate, vintage-style frame without actually taking up the space of one. The beautiful rectangular mirror features a delicate pink ornate frame illustration printed directly onto the glass, creating a subtle pop of colour and a playful twist on classic design. Perfect for adding…",
+    "price": 95.0,
     "vendor": "Rockett St George",
-    "sourceURL": "https://rockettstgeorge.co.uk/products/beautiful-bird-wall-art-mirror",
-    "imageURL": "https://cdn.shopify.com/s/files/1/0704/4481/0555/products/rockettstgeorge-beautiful-bird-mirror-lores.jpg?v=1683725241&width=900",
+    "sourceURL": "https://rockettstgeorge.co.uk/products/pink-ornate-print-frame-mirror",
+    "imageURL": "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Pink-Ornate-Print-Frame-Mirror-lowres-1.jpg?v=1790857104&width=900",
     "imageURLs": [
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/products/rockettstgeorge-beautiful-bird-mirror-lores.jpg?v=1683725241&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/products/rockettstgeorge-beautiful-bird-mirror-lores-2_1.jpg?v=1683725241&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/products/rockettstgeorge-beautiful-bird-mirror-lores-3_1.jpg?v=1683725241&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/products/rockettstgeorge-beautiful-bird-mirror-lores-4_1.jpg?v=1683725241&width=900",
-      "https://cdn.shopify.com/s/files/1/0704/4481/0555/products/rockettstgeorge-beautiful-bird-mirror-lores-5_1.jpg?v=1683725241&width=900"
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Pink-Ornate-Print-Frame-Mirror-lowres-1.jpg?v=1790857104&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Pink-Ornate-Print-Frame-Mirror-lowres-2.jpg?v=1790857105&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Pink-Ornate-Print-Frame-Mirror-lowres-3.jpg?v=1790857140&width=900",
+      "https://cdn.shopify.com/s/files/1/0704/4481/0555/files/rockettstgeorge-Pink-Ornate-Print-Frame-Mirror-lowres-4.jpg?v=1790857105&width=900"
     ],
     "category": "wall_decorations"
   },
